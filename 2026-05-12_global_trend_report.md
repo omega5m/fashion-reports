@@ -1,7 +1,7 @@
 # 글로벌 패션·악세사리 트렌드 리포트
 
 - **날짜**: 2026-05-12
-- **생성**: 2026-05-12 21:48 KST
+- **생성**: 2026-05-12 22:24 KST
 - **센싱 국가**: 1개
 - **센싱 사이트**: 2개 (성공 1)
 - **수집 페이지**: OK 3 / FAIL 1
@@ -41,10 +41,10 @@
 
 ### 4.1 한국 _( South Korea )_
 
-- region: `asia` · tier `1` · currency `KRW`
+- 한국 수출규모 순위: **#30** · region: `asia` · tier `1` · currency `KRW`
 - 수집 사이트: **2개** (성공 1)
-- 메모: 비교 기준 / 국내 사업동향 센싱
-#### 29CM
+- 메모: 비교 기준 (자국). 국내 사업동향 센싱
+#### [29CM](https://www.29cm.co.kr/)
 
 - URL: <https://www.29cm.co.kr/>
 - 페이지: **OK 3 · FAIL 0**
@@ -64,15 +64,15 @@
 - ![29CM 5](assets/2026-05-12/korea/29cm/product_005.jpg) — 출처 <https://img.29cm.co.kr/cms/202605/11f14d0541772b4c83a4dbe8ff1f5b94.png?width=3840&format=webp>
 - ![29CM 6](assets/2026-05-12/korea/29cm/product_006.jpg) — 출처 <https://img.29cm.co.kr/cms/202605/11f14d05136be7f283a4a3dc90455b25.png?width=3840&format=webp>
 
-**메타 정보**
+**페이지 메타 정보**
 
 | page | title | description |
 |---|---|---|
-| `women` | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
-| `men` | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
-| `best` | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
+| [`women`](https://www.29cm.co.kr/category/women) | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
+| [`men`](https://www.29cm.co.kr/category/men) | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
+| [`best`](https://www.29cm.co.kr/) | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
 
-#### Musinsa
+#### [Musinsa](https://www.musinsa.com/)
 
 - URL: <https://www.musinsa.com/>
 - 페이지: **OK 0 · FAIL 1**
