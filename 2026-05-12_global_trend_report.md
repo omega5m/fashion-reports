@@ -1,17 +1,17 @@
 # 글로벌 패션·악세사리 트렌드 리포트
 
 - **날짜**: 2026-05-12
-- **생성**: 2026-05-12 23:03 KST
-- **센싱 국가**: 1개
-- **센싱 사이트**: 2개 (성공 1)
-- **수집 페이지**: OK 2 / FAIL 1
+- **생성**: 2026-05-12 23:27 KST
+- **센싱 국가**: 2개
+- **센싱 사이트**: 7개 (성공 6)
+- **수집 페이지**: OK 7 / FAIL 1
 - **다운로드 이미지**: 20장
 
 ---
 
 ## 1. Executive Summary
 
-오늘 1개국 2개 사이트에서 2개 페이지를 수집하고, 20장의 대표 이미지를 정규화/저장했습니다.
+오늘 2개국 7개 사이트에서 7개 페이지를 수집하고, 20장의 대표 이미지를 정규화/저장했습니다.
 
 ## 2. 글로벌 트렌드 TOP 10
 
@@ -19,27 +19,163 @@
 
 | # | keyword | count | 출처 사이트 수 |
 |---:|---|---:|---:|
-| 1 | `감도` | 6 | 1 |
-| 2 | `깊은` | 6 | 1 |
-| 3 | `취향` | 4 | 1 |
-| 4 | `셀렉트샵` | 4 | 1 |
-| 5 | `패션` | 2 | 1 |
-| 6 | `라이프스타일` | 2 | 1 |
-| 7 | `컬처까지` | 2 | 1 |
-| 8 | `만의` | 2 | 1 |
-| 9 | `셀렉션을` | 2 | 1 |
-| 10 | `만나보세요` | 2 | 1 |
+| 1 | `shop` | 10 | 4 |
+| 2 | `faves` | 10 | 1 |
+| 3 | `women's` | 9 | 2 |
+| 4 | `clothing` | 9 | 3 |
+| 5 | `myer` | 6 | 1 |
+| 6 | `감도` | 6 | 1 |
+| 7 | `깊은` | 6 | 1 |
+| 8 | `new` | 5 | 2 |
+| 9 | `princess` | 5 | 1 |
+| 10 | `polly` | 5 | 1 |
+
+### 소재
+
+| # | keyword | count | 출처 사이트 수 |
+|---:|---|---:|---:|
+| 1 | `cotton` | 3 | 1 |
+| 2 | `denim` | 1 | 1 |
+| 3 | `knit` | 1 | 1 |
+| 4 | `lace` | 1 | 1 |
+
+### 스타일
+
+| # | keyword | count | 출처 사이트 수 |
+|---:|---|---:|---:|
+| 1 | `wide` | 1 | 1 |
+
+### 카테고리
+
+| # | keyword | count | 출처 사이트 수 |
+|---:|---|---:|---:|
+| 1 | `jacket` | 1 | 1 |
+| 2 | `pants` | 1 | 1 |
+| 3 | `denim` | 1 | 1 |
+| 4 | `knit` | 1 | 1 |
+| 5 | `accessories` | 1 | 1 |
 
 
 ## 3. 국가별 핵심 트렌드 요약
 
+### 호주
+
+- **키워드** (10): `shop`(10), `faves`(10), `women's`(9), `clothing`(9), `myer`(6)- **소재** (4): `cotton`(3), `denim`(1), `knit`(1), `lace`(1)- **스타일** (1): `wide`(1)- **카테고리** (5): `jacket`(1), `pants`(1), `denim`(1), `knit`(1), `accessories`(1)
 ### 한국
 
 - **키워드** (10): `감도`(6), `깊은`(6), `취향`(4), `셀렉트샵`(4), `패션`(2)
 
 ## 4. 국가별 상세 센싱 결과
 
-### 4.1 한국 _( South Korea )_
+### 4.1 호주 _( Australia )_
+
+- 한국 수출규모 순위: **#9** · region: `oceania` · tier `2` · currency `AUD`
+- 수집 사이트: **5개** (성공 5)
+- 메모: 안정적 소비 시장
+#### [Cotton On](https://cottonon.com/AU/)
+
+- URL: <https://cottonon.com/AU/>
+- 페이지: **OK 1 · FAIL 0**
+
+![Cotton On screenshot](assets/2026-05-12/australia/cotton_on/home.png)
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`home`](https://cottonon.com/AU/) | Cotton On Australia | Women's, Men's & Kids Clothing & Accessories | Shop Six Brands in one place! Discover the latest trends at Cotton On, Body, Cotton On Kids, Typo, Factorie & Supre. |
+
+#### [David Jones](https://www.davidjones.com/)
+
+- URL: <https://www.davidjones.com/>
+- 페이지: **OK 1 · FAIL 0**
+
+![David Jones screenshot](assets/2026-05-12/australia/david_jones/home.png)
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`home`](https://www.davidjones.com/) | Pardon Our Interruption |  |
+
+#### [Myer](https://www.myer.com.au/)
+
+- URL: <https://www.myer.com.au/>
+- 페이지: **OK 1 · FAIL 0**
+
+![Myer screenshot](assets/2026-05-12/australia/myer/home.png)
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`home`](https://www.myer.com.au/) | MYER | Shop Fashion, Beauty, Homewares, Gifting and More | Shop at Myer, Australia's largest department store. Shop Fashion, Beauty, Homewares, Toys, Gifting and more with Afterpay, Velocity or Amex  |
+
+#### [Princess Polly](https://www.princesspolly.com.au/)
+
+- URL: <https://www.princesspolly.com.au/>
+- 페이지: **OK 1 · FAIL 0**
+
+**최근 유행 상품** (30건 · 상품명 클릭 시 해당 사이트로 이동)
+
+| # | 상품명 | 브랜드 | 가격 | 페이지 |
+|---:|---|---|---:|---|
+| 1 | [Beacall Mini Dress Lemon](https://www.princesspolly.com.au/products/beacall-mini-dress-lemon) | Princess Polly | 75 AUD | `new` |
+| 2 | [Say My Name Hair Clip Blue](https://www.princesspolly.com.au/products/say-my-name-hair-clip-blue) | Princess Polly | 15 AUD | `new` |
+| 3 | [Antilles Faux Leather Micro Belt Brown / Gold](https://www.princesspolly.com.au/products/antilles-faux-leather-micro-belt-brown-gold) | Princess Polly Lower Impact | 35 AUD | `new` |
+| 4 | [Musgraves Woven Belt Brown](https://www.princesspolly.com.au/products/musgraves-woven-belt-brown) | Princess Polly Lower Impact | 45 AUD | `new` |
+| 5 | [Therapy Monty Boots Chocolate](https://www.princesspolly.com.au/products/therapy-monty-boots-chocolate) | Therapy | 150 AUD | `new` |
+| 6 | [So Exclusive Faux Suede Thong Heels Tan](https://www.princesspolly.com.au/products/so-exclusive-snake-thong-heels-white) | Princess Polly | 90 AUD | `new` |
+| 7 | [Elevara Hoop Earrings Silver](https://www.princesspolly.com.au/products/elevara-hoop-earrings-silver) | Princess Polly Lower Impact | 20 AUD | `new` |
+| 8 | [Kaelira Rectangle Earrings Gold](https://www.princesspolly.com.au/products/kaelira-rectangle-earrings-gold) | Princess Polly Lower Impact | 20 AUD | `new` |
+| 9 | [Fever Dream Pendant Necklace Silver / Black](https://www.princesspolly.com.au/products/fever-dream-pendant-necklace-silver-black) | Princess Polly | 26 AUD | `new` |
+| 10 | [Coastal Chaos Pendant Cord Necklace Silver](https://www.princesspolly.com.au/products/coastal-chaos-pendant-cord-necklace-silver) | Princess Polly | 20 AUD | `new` |
+| 11 | [Shoreline Windbreaker Jacket Noir](https://www.princesspolly.com.au/products/shoreline-windbreaker-jacket-noir) | Lioness | 99 AUD | `new` |
+| 12 | [Naylor Mid Rise Wide Leg Jeans Brown](https://www.princesspolly.com.au/products/naylor-mid-rise-wide-leg-jeans-brown) | Princess Polly | 85 AUD | `new` |
+| 13 | [Serenitia Mid Rise Relaxed Jeans Dark Raw Wash](https://www.princesspolly.com.au/products/serenitia-mid-rise-relaxed-jeans-dark-raw-wash) | Princess Polly Lower Impact | 95 AUD | `new` |
+| 14 | [Ryann Long Sleeve Layered Top Cream / Brown Stripe](https://www.princesspolly.com.au/products/ryann-long-sleeve-layered-top-cream-black-stripe) | Princess Polly | 60 AUD | `new` |
+| 15 | [Cultivate Shirred Long Sleeve Top Plum](https://www.princesspolly.com.au/products/cultivate-shirred-long-sleeve-top-plum) | Princess Polly | 70 AUD | `new` |
+| 16 | [Cieara Off Shoulder Long Sleeve Top Burgundy](https://www.princesspolly.com.au/products/cieara-off-shoulder-long-sleeve-top-burgundy) | Princess Polly Lower Impact | 65 AUD | `new` |
+| 17 | [Karmel Lace Long Sleeve Top Black](https://www.princesspolly.com.au/products/karmel-lace-long-sleeve-top-black) | Princess Polly Lower Impact | 70 AUD | `new` |
+| 18 | [Tidal Wave Low Rise Straight Leg Jeans Raw Denim](https://www.princesspolly.com.au/products/tidal-wave-straight-leg-jeans-raw-denim) | Princess Polly | 95 AUD | `new` |
+| 19 | [Bryanna Long Sleeve Mini Dress Blue / Brown](https://www.princesspolly.com.au/products/bryanna-long-sleeve-mini-dress-blue-brown) | Princess Polly | 80 AUD | `new` |
+| 20 | [Evangelene Long Sleeve Top White](https://www.princesspolly.com.au/products/evangelene-long-sleeve-top-white) | Princess Polly Lower Impact | 60 AUD | `new` |
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`new`](https://www.princesspolly.com.au/collections/new) | Shop New Arrivals Today! | Princess Polly | Shop New clothing online at Princess Polly. Buy now pay later with Afterpay. FREE & FAST shipping available. |
+
+#### [The Iconic](https://www.theiconic.com.au/)
+
+- URL: <https://www.theiconic.com.au/>
+- 페이지: **OK 1 · FAIL 0**
+
+![The Iconic screenshot](assets/2026-05-12/australia/the_iconic/new_women.png)
+
+**최근 유행 상품** (10건 · 상품명 클릭 시 해당 사이트로 이동)
+
+| # | 상품명 | 브랜드 | 가격 | 페이지 |
+|---:|---|---|---:|---|
+| 1 | 501 Original Fit Jeans | Levi's | 160 AUD | `new_women` |
+| 2 | Trail Sherpa Jacket ICONIC EXCLUSIVE | Cotton On Body Active | 90 AUD | `new_women` |
+| 3 | Lola Barrel Pants | Assembly Label | 100 AUD | `new_women` |
+| 4 | Wedgie Straight Jeans | Levi's | 150 AUD | `new_women` |
+| 5 | Lotus Phone Pocket Ankle Biter Leggings | Lorna Jane | 92 AUD | `new_women` |
+| 6 | 94 High and Wide Debbie Jean | Abrand | 130 AUD | `new_women` |
+| 7 | Cinch Baggy Jeans | Levi's | 130 AUD | `new_women` |
+| 8 | 94 High and Wide Petite Debbie | Abrand | 130 AUD | `new_women` |
+| 9 | Gigi Barrel Jeans | Rolla's | 160 AUD | `new_women` |
+| 10 | Nico Straight Jeans | Neuw | 200 AUD | `new_women` |
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`new_women`](https://www.theiconic.com.au/womens-clothing-just-arrived/) | Women's Clothing | Buy Women's Clothes Online Australia |- THE ICONIC | Buy women's clothing online. Designer clothing from top Australian and international fashion designers. Free and fast delivery available. Sh |
+
+### 4.2 한국 _( South Korea )_
 
 - 한국 수출규모 순위: **#30** · region: `asia` · tier `1` · currency `KRW`
 - 수집 사이트: **2개** (성공 1)
@@ -83,15 +219,37 @@
 
 ## 5. 의류 카테고리별 글로벌 트렌드
 
-> _상품 카드 추출 후 자동 채워집니다. `sites.yaml` 의 `product_selector` 가 채워진 사이트가 있어야 합니다._
+| # | 카테고리 | 건수 | 대표 상품명 |
+|---:|---|---:|---|
+| 1 | `jeans` | 8 | Naylor Mid Rise Wide Leg Jeans Brown · Serenitia Mid Rise Relaxed Jeans Dark Raw Wash · Tidal Wave Low Rise Straight Leg Jeans Raw Denim |
+| 2 | `dress` | 2 | Beacall Mini Dress Lemon · Bryanna Long Sleeve Mini Dress Blue / Brown |
+| 3 | `jacket` | 2 | Shoreline Windbreaker Jacket Noir · Trail Sherpa Jacket ICONIC EXCLUSIVE |
+| 4 | `pants` | 1 | Lola Barrel Pants |
 
+**국가별 의류 TOP**
+
+- **australia**: `jeans`(8), `dress`(2), `jacket`(2), `pants`(1)
 ## 6. 악세사리 카테고리별 글로벌 트렌드
 
-> _상품 카드 추출 후 자동 채워집니다._
+| # | 카테고리 | 건수 | 대표 상품명 |
+|---:|---|---:|---|
+| 1 | `necklace` | 3 | Fever Dream Pendant Necklace Silver / Black · Coastal Chaos Pendant Cord Necklace Silver · Fight The Feeling Long Tassel Necklace Black |
+| 2 | `belt` | 2 | Antilles Faux Leather Micro Belt Brown / Gold · Musgraves Woven Belt Brown |
+| 3 | `heels` | 2 | So Exclusive Faux Suede Thong Heels Tan · Kaelina Kitten Heels Denim Polka |
+| 4 | `earrings` | 2 | Elevara Hoop Earrings Silver · Kaelira Rectangle Earrings Gold |
+| 5 | `boots` | 1 | Therapy Monty Boots Chocolate |
+| 6 | `bag` | 1 | Dreamea Shoulder Bag Yellow |
 
+**국가별 악세사리 TOP**
+
+- **australia**: `necklace`(3), `belt`(2), `heels`(2), `earrings`(2), `boots`(1)
 ## 7. 국가별 가격대 비교
 
-> _상품 카드 추출 후 자동 채워집니다._
+| 국가 | 통화 | 표본 | min | p25 | median | p75 | max | median (USD) |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| australia | AUD | 40 | 14 | 42 | 70 | 96 | 200 | 50.71 |
+
+> p25/p75 는 IQR 기준 분위수. USD 환산은 `config/exchange_rates.yaml` 기준 (운영자가 정기 갱신).
 
 ## 8. 국내 의류·악세사리 사업동향
 
@@ -332,6 +490,14 @@
 | korea | Musinsa | home | failed | robots_disallowed |
 
 ## 12. 원문 출처 및 이미지 출처
+
+### 호주
+
+- **Cotton On** — <https://cottonon.com/AU/>
+- **David Jones** — <https://www.davidjones.com/>
+- **Myer** — <https://www.myer.com.au/>
+- **Princess Polly** — <https://www.princesspolly.com.au/>
+- **The Iconic** — <https://www.theiconic.com.au/>
 
 ### 한국
 
