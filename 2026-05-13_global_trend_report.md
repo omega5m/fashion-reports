@@ -1,17 +1,17 @@
 # 글로벌 패션·악세사리 트렌드 리포트
 
 - **날짜**: 2026-05-13
-- **생성**: 2026-05-13 09:38 KST
-- **센싱 국가**: 3개
-- **센싱 사이트**: 15개 (성공 14)
-- **수집 페이지**: OK 14 / FAIL 1
+- **생성**: 2026-05-13 20:23 KST
+- **센싱 국가**: 4개
+- **센싱 사이트**: 18개 (성공 16)
+- **수집 페이지**: OK 17 / FAIL 2
 - **다운로드 이미지**: 0장
 
 ---
 
 ## 1. Executive Summary
 
-오늘 3개국 15개 사이트에서 14개 페이지를 수집하고, 0장의 대표 이미지를 정규화/저장했습니다.
+오늘 4개국 18개 사이트에서 17개 페이지를 수집하고, 0장의 대표 이미지를 정규화/저장했습니다.
 
 ## 2. 글로벌 트렌드 TOP 10
 
@@ -78,6 +78,9 @@
 ### 홍콩
 
 - **키워드** (10): `puma`(30), `hello`(8), `kitty`(8), `friends`(8), `休閒鞋`(8)- **컬러** (1): `black`(2)- **소재** (3): `suede`(2), `cotton`(2), `lace`(2)- **카테고리** (7): `bag`(7), `shirt`(6), `t-shirt`(4), `ring`(2), `sneakers`(2)
+### 한국
+
+- **키워드** (10): `감도`(6), `깊은`(6), `취향`(4), `셀렉트샵`(4), `패션`(2)
 ### 필리핀
 
 - **키워드** (10): `wishlist`(10), `penshoppe`(8), `lazada`(6), `shop`(6), `online`(6)- **컬러** (1): `red`(1)- **스타일** (2): `wide`(3), `casual`(1)- **카테고리** (4): `bag`(4), `tote`(3), `accessories`(1), `cap`(1)
@@ -287,7 +290,73 @@
 |---|---|---|
 | [`home`](https://www.zalora.com.hk/) | Access to this page has been denied | px-captcha |
 
-### 4.3 필리핀 _( Philippines )_
+### 4.3 한국 _( South Korea )_
+
+- 한국 수출규모 순위: **#30** · region: `asia` · tier `1` · currency `KRW`
+- 수집 사이트: **3개** (성공 2)
+- 메모: 비교 기준 (자국). 국내 사업동향 센싱
+#### [29CM](https://www.29cm.co.kr/)
+
+- URL: <https://www.29cm.co.kr/>
+- 페이지: **OK 2 · FAIL 0**
+
+![29CM screenshot](assets/2026-05-13/korea/29cm/best.png)
+
+![29CM screenshot](assets/2026-05-13/korea/29cm/women.png)
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`women`](https://www.29cm.co.kr/category/women) | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
+| [`best`](https://www.29cm.co.kr/) | 감도 깊은 취향 셀렉트샵 29CM | 패션, 라이프스타일, 컬처까지 29CM만의 감도 깊은 셀렉션을 만나보세요. |
+
+#### [Musinsa](https://www.musinsa.com/)
+
+- URL: <https://www.musinsa.com/>
+- 페이지: **OK 0 · FAIL 1**
+
+**실패 페이지**
+
+- `home` — robots_disallowed
+
+#### [W Concept](https://www.wconcept.co.kr/)
+
+- URL: <https://www.wconcept.co.kr/>
+- 페이지: **OK 1 · FAIL 0**
+
+**최근 유행 상품** (20건 · 상품명 클릭 시 해당 사이트로 이동)
+
+| # | 상품명 | 브랜드 | 가격 | 페이지 |
+|---:|---|---|---:|---|
+| 1 | [[S 사이즈 추가]SITP5191 아카이브 하운드 프린팅 반팔티_Ivory](https://m.wconcept.co.kr/Product/306634914) | 시야쥬 | 28,696 KRW | `home` |
+| 2 | [SITP5147 노블 시어서커 ST 셔츠_Ivory](https://m.wconcept.co.kr/Product/305708118) | 시야쥬 | 64,609 KRW | `home` |
+| 3 | [[XS 사이즈 추가] SIPT7153 컴포트 라인 카프리 팬츠_Black](https://m.wconcept.co.kr/Product/306630847) | 시야쥬 | 66,094 KRW | `home` |
+| 4 | [SITP5063 U-neck T-shirt_4Colors](https://m.wconcept.co.kr/Product/302550155) | 시야쥬 | 26,127 KRW | `home` |
+| 5 | [SITP5150 오버핏 라운지 ST 셔츠_Light blue ST](https://m.wconcept.co.kr/Product/305833655) | 시야쥬 | 68,373 KRW | `home` |
+| 6 | [SITP5160 루즈핏 링클 실키 셔츠_Black](https://m.wconcept.co.kr/Product/306048775) | 시야쥬 | 60,896 KRW | `home` |
+| 7 | [SITP5246 소프트 멀티 체크 셔츠_Black](https://m.wconcept.co.kr/Product/308156086) | 시야쥬 | 63,124 KRW | `home` |
+| 8 | [[단독]SIPT7078 투턱 나일론 슬랙스_2PACK](https://m.wconcept.co.kr/Product/305907610) | 시야쥬 | 113,956 KRW | `home` |
+| 9 | [SIST9024 나일론 퍼티그 스커트_2Colors](https://m.wconcept.co.kr/Product/305929040) | 시야쥬 | 59,496 KRW | `home` |
+| 10 | [SITP5064 Basset Hound T-shirt_Charcoal](https://m.wconcept.co.kr/Product/301730217) | 시야쥬 | 32,659 KRW | `home` |
+| 11 | [SITP5297 슈나우저 반팔 티셔츠_Melange gray](https://m.wconcept.co.kr/Product/308503709) | 시야쥬 | 32,284 KRW | `home` |
+| 12 | [SITP5176 루즈 핏 클래식 체크 셔츠_Black check](https://m.wconcept.co.kr/Product/306561701) | 시야쥬 | 67,477 KRW | `home` |
+| 13 | [SITP5191 아카이브 하운드 프린팅 반팔티_Navy](https://m.wconcept.co.kr/Product/306634925) | 시야쥬 | 30,490 KRW | `home` |
+| 14 | [SIJN6071 90s 빈티지 아이스 데님_Light blue](https://m.wconcept.co.kr/Product/305708143) | 시야쥬 | 71,105 KRW | `home` |
+| 15 | [SIOT4195 라운지 소프트 블레이저_Light beige](https://m.wconcept.co.kr/Product/308503749) | 시야쥬 | 132,717 KRW | `home` |
+| 16 | [SIOT4191 하이넥 셔링 블루종_Cream](https://m.wconcept.co.kr/Product/308291108) | 시야쥬 | 104,481 KRW | `home` |
+| 17 | [SITP5278 소프트 쉬어 썸머 셔츠_White](https://m.wconcept.co.kr/Product/308503730) | 시야쥬 | 73,034 KRW | `home` |
+| 18 | [SIAC3039 시야쥬 아카이브 실켓 삭스_15Colors](https://m.wconcept.co.kr/Product/305657742) | 시야쥬 | 5,700 KRW | `home` |
+| 19 | [SITP5302 유넥 ST 반팔 티셔츠_White](https://m.wconcept.co.kr/Product/308503705) | 시야쥬 | 29,280 KRW | `home` |
+| 20 | [SITP5278 소프트 쉬어 썸머 셔츠_Beige](https://m.wconcept.co.kr/Product/308503731) | 시야쥬 | 73,034 KRW | `home` |
+
+**페이지 메타 정보**
+
+| page | title | description |
+|---|---|---|
+| [`home`](https://www.wconcept.co.kr/) | _(empty)_ |  |
+
+### 4.4 필리핀 _( Philippines )_
 
 - 한국 수출규모 순위: **#16** · region: `asia` · tier `2` · currency `PHP`
 - 수집 사이트: **5개** (성공 4)
@@ -383,15 +452,21 @@
 | # | 카테고리 | 건수 | 대표 상품명 |
 |---:|---|---:|---|
 | 1 | `jeans` | 9 | Naylor Mid Rise Wide Leg Jeans Brown · Serenitia Mid Rise Relaxed Jeans Dark Raw Wash · Tidal Wave Low Rise Straight Leg Jeans Raw Denim |
-| 2 | `coat` | 5 | Ivy Wool Coat · Nylon Coated Expanded Lifepack |
-| 3 | `shirt` | 5 | Macaw Jungle Camp Shirt · Laurel Mini Shirtdress · Falster Oversized Faded Pigment Dyed SS Shirt |
-| 4 | `pants` | 4 | Rosemonde Tie Side Cargo Pants Khaki · Lola Barrel Pants · Originals Wide Leg Satin Pants in Leopard |
-| 5 | `jacket` | 3 | Shoreline Windbreaker Jacket Noir · Trail Sherpa Jacket ICONIC EXCLUSIVE · Cuffed Peter Pan Jacket |
-| 6 | `dress` | 2 | Bryanna Long Sleeve Mini Dress Blue / Brown · Ecru Georgia Dress (Women) |
+| 2 | `셔츠` | 9 | SITP5147 노블 시어서커 ST 셔츠_Ivory · SITP5150 오버핏 라운지 ST 셔츠_Light blue ST · SITP5160 루즈핏 링클 실키 셔츠_Black |
+| 3 | `shirt` | 7 | Macaw Jungle Camp Shirt · Laurel Mini Shirtdress · Falster Oversized Faded Pigment Dyed SS Shirt |
+| 4 | `coat` | 5 | Ivy Wool Coat · Nylon Coated Expanded Lifepack |
+| 5 | `pants` | 4 | Rosemonde Tie Side Cargo Pants Khaki · Lola Barrel Pants · Originals Wide Leg Satin Pants in Leopard |
+| 6 | `jacket` | 3 | Shoreline Windbreaker Jacket Noir · Trail Sherpa Jacket ICONIC EXCLUSIVE · Cuffed Peter Pan Jacket |
+| 7 | `dress` | 2 | Bryanna Long Sleeve Mini Dress Blue / Brown · Ecru Georgia Dress (Women) |
+| 8 | `팬츠` | 1 | [XS 사이즈 추가] SIPT7153 컴포트 라인 카프리 팬츠_Black |
+| 9 | `슬랙스` | 1 | [단독]SIPT7078 투턱 나일론 슬랙스_2PACK |
+| 10 | `스커트` | 1 | SIST9024 나일론 퍼티그 스커트_2Colors |
+| 11 | `데님` | 1 | SIJN6071 90s 빈티지 아이스 데님_Light blue |
+| 12 | `블레이저` | 1 | SIOT4195 라운지 소프트 블레이저_Light beige |
 
 **국가별 의류 TOP**
 
-- **australia**: `jeans`(9), `pants`(3), `jacket`(2), `dress`(1), `coat`(1)- **hong_kong**: `shirt`(5), `pants`(1), `dress`(1), `jacket`(1)- **philippines**: `coat`(4)
+- **australia**: `jeans`(9), `pants`(3), `jacket`(2), `dress`(1), `coat`(1)- **hong_kong**: `shirt`(5), `pants`(1), `dress`(1), `jacket`(1)- **korea**: `셔츠`(9), `shirt`(2), `팬츠`(1), `슬랙스`(1), `스커트`(1)- **philippines**: `coat`(4)
 ## 6. 악세사리 카테고리별 글로벌 트렌드
 
 | # | 카테고리 | 건수 | 대표 상품명 |
@@ -415,6 +490,7 @@
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 | australia | AUD | 42 | 14 | 48 | 72 | 100 | 280 | 52.52 |
 | hong_kong | HKD | 30 | 240 | 882 | 1290 | 1858 | 2990 | 164.77 |
+| korea | KRW | 20 | 5700 | 31836 | 63866 | 71587 | 132717 | 43.36 |
 | philippines | PHP | 30 | 99 | 299 | 399 | 499 | 1299 | 6.54 |
 
 > p25/p75 는 IQR 기준 분위수. USD 환산은 `config/exchange_rates.yaml` 기준 (운영자가 정기 갱신).
@@ -464,7 +540,7 @@
 
 ### 운영 점검 노트
 
-- **한국 트렌드 미수집**: 한국 사이트 수집이 비어 있어 글로벌과의 키워드 정합도 분석이 작동하지 않음. `collect --countries korea` 우선 실행.
+- **한국 어휘사전 매칭 0건**: 메인페이지만 수집되어 색/소재/스타일 신호가 0. 한국 사이트(29CM/W Concept/Musinsa)에 `page_targets` 추가 필요.
 - **ASEAN 다중 진출 기회**: TOP10 중 ASEAN 국가가 3개 이상. Shopee/Lazada/Zalora 통합 운영을 통한 동남아 멀티마켓 전략을 검토 권장.
 
 ## 11. 수집 실패/주의 사이트
@@ -472,6 +548,12 @@
 | 국가 | 사이트 | 페이지 | 상태 | 사유 |
 |---|---|---|---|---|
 | philippines | Bench | home | failed | http_status_522 |
+| korea | Musinsa | home | failed | robots_disallowed |
+| korea | W Concept | best | failed | robots_disallowed |
+| korea | W Concept | new | failed | robots_disallowed |
+| korea | Musinsa | home | failed | robots_disallowed |
+| korea | W Concept | home | failed | robots_disallowed |
+| korea | Musinsa | home | failed | robots_disallowed |
 
 ## 12. 원문 출처 및 이미지 출처
 
@@ -490,6 +572,12 @@
 - **Kapok** — <https://ka-pok.com/>
 - **Lane Crawford** — <https://www.lanecrawford.com/>
 - **Zalora Hong Kong** — <https://www.zalora.com.hk/>
+
+### 한국
+
+- **29CM** — <https://www.29cm.co.kr/>
+- **Musinsa** — <https://www.musinsa.com/>
+- **W Concept** — <https://www.wconcept.co.kr/>
 
 ### 필리핀
 
