@@ -1,0 +1,230 @@
+{
+  "country": "hong_kong",
+  "site_name": "i.t",
+  "site_slug": "i_t",
+  "date": "2026-05-17",
+  "ok_count": 3,
+  "failed_count": 17,
+  "images": [
+    {
+      "url": "https://www.ithk.com/storage/left_promotion_menu/ithk-eshop.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:126x41"
+    },
+    {
+      "url": "https://www.ithk.com/storage/main_banner/777x440_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/i_t/product_001.jpg",
+      "width": 777,
+      "height": 440,
+      "bytes": 72118,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ithk.com/storage/main_banner/777x440_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/i_t/product_002.jpg",
+      "width": 777,
+      "height": 440,
+      "bytes": 38211,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ithk.com/storage/main_banner/777x440_3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/i_t/product_003.jpg",
+      "width": 777,
+      "height": 440,
+      "bytes": 41761,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/390x90_1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/390x90_2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/390x90_3.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-MNC-1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-MNC-2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/CCL.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/FIVECM.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-bab-2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-bab-1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-TO-1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/IT-website-banner-TO-2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/storage/scroll_banner/izzue.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:390x90"
+    },
+    {
+      "url": "https://www.ithk.com/cht/images/common/social-bar/footer-icon_fb.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:27x50"
+    },
+    {
+      "url": "https://www.ithk.com/cht/images/common/social-bar/footer-icon_twitter.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:27x50"
+    },
+    {
+      "url": "https://www.ithk.com/cht/images/common/social-bar/footer-icon_weibo.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:27x50"
+    },
+    {
+      "url": "https://www.ithk.com/cht/images/common/social-bar/footer-icon_youtube.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:27x50"
+    }
+  ]
+}

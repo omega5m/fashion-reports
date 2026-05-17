@@ -1,0 +1,230 @@
+{
+  "country": "hong_kong",
+  "site_name": "Kapok",
+  "site_slug": "kapok",
+  "date": "2026-05-17",
+  "ok_count": 18,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/shapes.png?v=1721454307",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_001.jpg",
+      "width": 768,
+      "height": 774,
+      "bytes": 25337,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/delivery_icon_small_b5fa93aa-3dd8-43d7-8163-85f5dfd93903.png?v=1721454914",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x32"
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/pickup_icon_small_c5c2d0c7-cd26-4172-88bf-84f7ded44415.png?v=1721454912",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x32"
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/OlendOnaSoftBagOna-Coral.webp?v=1777449663&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_002.jpg",
+      "width": 533,
+      "height": 533,
+      "bytes": 26085,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/OlendOnaSoftBagOna-Coral.webp?v=1777449663",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_003.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 137059,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/OlendOnaSoftBagOna-Coral3.webp?v=1748508119&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_004.jpg",
+      "width": 533,
+      "height": 695,
+      "bytes": 28246,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/OlendOnaSoftBagOna-Coral3.webp?v=1748508119",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_005.jpg",
+      "width": 1227,
+      "height": 1600,
+      "bytes": 136508,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/MicroOnaSoftBaglime.webp?v=1776331017&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_006.jpg",
+      "width": 533,
+      "height": 533,
+      "bytes": 9387,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/MicroOnaSoftBaglime.webp?v=1776331017",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_007.jpg",
+      "width": 1599,
+      "height": 1599,
+      "bytes": 48335,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/ClothingStandardGridsnw_f0c46fd8-cfe0-40a9-8081-813b73a9ea3a.png?v=1776331017&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_008.jpg",
+      "width": 533,
+      "height": 533,
+      "bytes": 10954,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/ClothingStandardGridsnw_f0c46fd8-cfe0-40a9-8081-813b73a9ea3a.png?v=1776331017",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_009.jpg",
+      "width": 896,
+      "height": 896,
+      "bytes": 21931,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/03-03-2025-JW_F4833-WTM_1_1.webp?v=1741159851&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_010.jpg",
+      "width": 533,
+      "height": 533,
+      "bytes": 9308,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/03-03-2025-JW_F4833-WTM_1_1.webp?v=1741159851",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_011.jpg",
+      "width": 768,
+      "height": 768,
+      "bytes": 14503,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/03-03-2025-JW_F4833-WTM_10_1.webp?v=1741159851&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_012.jpg",
+      "width": 533,
+      "height": 533,
+      "bytes": 10693,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/03-03-2025-JW_F4833-WTM_10_1.webp?v=1741159851",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_013.jpg",
+      "width": 768,
+      "height": 768,
+      "bytes": 17747,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/FW25_FWBG9052A_06028_EARTHY_OLIVE_FLAT_d9fee190-d693-444b-b0be-d2e8207323e0.jpg?v=1755156860&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_014.jpg",
+      "width": 533,
+      "height": 711,
+      "bytes": 25317,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/FW25_FWBG9052A_06028_EARTHY_OLIVE_FLAT_d9fee190-d693-444b-b0be-d2e8207323e0.jpg?v=1755156860",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_015.jpg",
+      "width": 1090,
+      "height": 1453,
+      "bytes": 100253,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/FW25_FWBG9052A_06028_EARTHY_OLIVE_FLAT_BACK.jpg?v=1755156838&width=533",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_016.jpg",
+      "width": 533,
+      "height": 711,
+      "bytes": 22817,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/FW25_FWBG9052A_06028_EARTHY_OLIVE_FLAT_BACK.jpg?v=1755156838",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_017.jpg",
+      "width": 1090,
+      "height": 1453,
+      "bytes": 93582,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ka-pok.com/cdn/shop/files/v2_feb_web_BG_colour.png?v=1772089156&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/hong_kong/kapok/product_018.jpg",
+      "width": 600,
+      "height": 222,
+      "bytes": 5013,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

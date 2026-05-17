@@ -1,0 +1,230 @@
+{
+  "country": "philippines",
+  "site_name": "Penshoppe",
+  "site_slug": "penshoppe",
+  "date": "2026-05-17",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/2282/7539/files/pen_logo_e329b026-1dbb-4c1c-9561-8774f9e7ce9f.png?v=1743577322",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_001.jpg",
+      "width": 225,
+      "height": 225,
+      "bytes": 2990,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993597-Navy_Blue_3.jpg?v=1778829428&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_002.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 39755,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993583-Blush_4.jpg?v=1778829408&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_003.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 18233,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993583-Blue_Stone_4.jpg?v=1778829392&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_004.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 22509,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993747-Ivory_5.jpg?v=1778829102&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_005.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 50253,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993708-Midnight_Navy_4.jpg?v=1778829091&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_006.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 41154,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993998-Off_White_3.jpg?v=1778829080&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_007.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 19350,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/984565-Khaki_4.jpg?v=1778829070&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_008.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 32010,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/984565-Blue_Dusk_3.jpg?v=1778829059&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_009.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 37345,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/982816-Sea_Blue_4.jpg?v=1778829047&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_010.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 42727,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/995517-Terracotta_2.jpg?v=1778829035&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_011.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 30387,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/995517-Blue_Stone_3.jpg?v=1778829025&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_012.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 29430,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/994308-Green_5.jpg?v=1778719156&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_013.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 55259,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/995802-Black_3.jpg?v=1778719145&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_014.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 44778,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993844-Light_Gray_3.jpg?v=1778719135&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_015.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 37782,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993993-Off_White_3.jpg?v=1778719124&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_016.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 17422,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993878-Navy_Blue_3.jpg?v=1778719115&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_017.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 32453,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/993878-Bottle_Green_1.jpg?v=1778719103&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_018.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 33143,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/994789-Off_White_4.jpg?v=1778632799&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_019.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 32866,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.penshoppe.com/cdn/shop/files/994630-Periwinkle_4.jpg?v=1778632789&width=540",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-17/philippines/penshoppe/product_020.jpg",
+      "width": 540,
+      "height": 810,
+      "bytes": 46490,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
