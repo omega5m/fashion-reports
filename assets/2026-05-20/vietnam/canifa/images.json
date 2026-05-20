@@ -1,0 +1,43 @@
+{
+  "country": "vietnam",
+  "site_name": "Canifa",
+  "site_slug": "canifa",
+  "date": "2026-05-20",
+  "ok_count": 2,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://2885371169.e.cdneverest.net/popup/c/n/cnfcamon_fixtop_desktop-120526.webp",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:4680x96"
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/t/c/tce_topbanner_desktop-130526.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/canifa/product_001.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 196236,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/c/n/cnfcamon_topbanner_desktop-120526.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/canifa/product_002.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 55284,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

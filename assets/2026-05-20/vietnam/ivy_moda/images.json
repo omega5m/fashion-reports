@@ -1,0 +1,230 @@
+{
+  "country": "vietnam",
+  "site_name": "IVY moda",
+  "site_slug": "ivy_moda",
+  "date": "2026-05-20",
+  "ok_count": 11,
+  "failed_count": 9,
+  "images": [
+    {
+      "url": "https://www.facebook.com/tr?id=482995589839414&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=404613343232744&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://pubcdn.ivymoda.com/ivy2/images/logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:206x66"
+    },
+    {
+      "url": "https://cotton4u.vn/files/news/2026/05/19/67ec568cf9a2322c79a4241e00f152e1.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_001.jpg",
+      "width": 1600,
+      "height": 650,
+      "bytes": 122644,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/news/2026/05/15/9b42a98f507089578805846b859322d8.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_002.jpg",
+      "width": 1600,
+      "height": 650,
+      "bytes": 186180,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/news/2026/04/21/ee8c829766d8e7ad1f945e385f9d7514.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_003.jpg",
+      "width": 1600,
+      "height": 650,
+      "bytes": 133871,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/04/24/e9d0c03e72943adeca848ff43377a777.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_004.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 41743,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/05/15/cdf259456ed32efa026e979c3685ade5.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_005.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 35115,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/004.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/032.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/05/13/e2d3cd8b4a6eef4f0a4e02ffe3fb2a47.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_006.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 45547,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/05/13/8de81da5e5dd3c0b2ea4e22e7aae2f4b.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_007.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 36952,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/049.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/04/24/f15809a1f6817d2de077bc16752f1e82.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_008.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 45482,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/05/15/806dbd14e3dbf0048ffd3dc8068449cb.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_009.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 45266,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/h28.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/k03.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/04/24/da96da285fec37e9662618a77263f6dd.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_010.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 38733,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/files/product/thumab/400/2026/04/24/7f4faf7f4f0f4050d79df25503907a17.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-20/vietnam/ivy_moda/product_011.jpg",
+      "width": 400,
+      "height": 600,
+      "bytes": 37826,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cotton4u.vn/ivy2/images/color/002.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:50x50"
+    }
+  ]
+}
