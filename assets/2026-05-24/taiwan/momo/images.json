@@ -1,0 +1,21 @@
+{
+  "country": "taiwan",
+  "site_name": "momo",
+  "site_slug": "momo",
+  "date": "2026-05-24",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://image.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_243_01/bt_0_243_01_e2.png%3Ft=002932323",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    }
+  ]
+}
