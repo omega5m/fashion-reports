@@ -1,0 +1,230 @@
+{
+  "country": "poland",
+  "site_name": "CCC",
+  "site_slug": "ccc",
+  "date": "2026-05-28",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/-40_na_torby_modivoclub_26/Menu_HD_SD_638x638_K_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_001.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 45465,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/do_-20_na_buty_majczerwiec26/Menu_HD_SD_638x638_K.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_002.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 44187,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/bhpc_0426/new/MENU_638x638_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_003.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 55807,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/nine_west_26/slot_3/new/MENU_638x638_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_004.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 48977,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/wazne_okazje/2026/2/slot3/MENU_638x638_K_PL_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_005.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 50290,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/torby_podrozne_26/MENU_638x638_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_006.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 44502,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/PL_KAFEL_KARTA.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_007.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 17854,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/dzien_kobiet_2026/2/MENU_638X638_K_v2_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_008.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 32907,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/reebok_2026/MENU_638X638_K.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_009.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 37835,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/-40_na_torby_modivoclub_26/Menu_HD_SD_638x638_M_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_010.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 68213,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/do_-20_na_buty_majczerwiec26/Menu_HD_SD_638x638_M.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_011.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 42195,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/wazne_okazje/2026/2/slot3/MENU_638x638_M_PL_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_012.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 21505,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/torby_podrozne_26/MENU_638x638_M_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_013.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 44808,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/kafelki_w_menu/1903/Menu_638x638_Pasek.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_014.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 22301,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/reebok_2026/MENU_638X638_M.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_015.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 35974,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/-40_na_torby_modivoclub_26/Menu_HD_SD_638x638_D_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_016.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 54963,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/akcje/do_-20_na_buty_majczerwiec26/Menu_HD_SD_638x638_D.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_017.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 44444,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/kafelki_kwiecen_26/638X638_KAFLE_Z_CENAMI_Disney_Z_CENAMI2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_018.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 37845,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/stitch_26/MENU_638x638_PL.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_019.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 25912,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ccc.eu/media/cache/resolve/filemanager_original/images/homepage/homepage_ecpl/inpiracyjne/buty_casual_042026/dziecko/MENU_638x638_DZ.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/ccc/product_020.jpg",
+      "width": 638,
+      "height": 638,
+      "bytes": 61403,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

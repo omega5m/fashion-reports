@@ -1,0 +1,98 @@
+{
+  "country": "canada",
+  "site_name": "Aritzia",
+  "site_slug": "aritzia",
+  "date": "2026-05-28",
+  "ok_count": 1,
+  "failed_count": 7,
+  "images": [
+    {
+      "url": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/su26-hp-wk6-05-20-2026-slot1-a",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.aritzia.com/intl/w_1920/su26-hp-wk6-05-20-2026-slot1-a",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/su26-hp-wk6-05-20-2026-slot1-b",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.aritzia.com/intl/w_1920/su26-hp-wk6-05-20-2026-slot1-b",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://assets.aritzia.com/image/upload/q_auto,f_auto,dpr_auto/su26-hp-wk7-05-25-2026-slot3-a",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/aritzia/product_001.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 131347,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.aritzia.com/intl/w_1920/su26-hp-wk7-05-25-2026-slot3-a",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/c5c3a4e1-6585-42be-ade2-0fe6f628f979/6b68de0b-7c13-4230-ad4d-7b1ee2b03aa9/ea3faa8a-c07c-4f2f-97d5-2c88124f9efb/Logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:100x20"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

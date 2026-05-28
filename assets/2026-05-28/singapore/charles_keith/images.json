@@ -1,0 +1,230 @@
+{
+  "country": "singapore",
+  "site_name": "Charles & Keith",
+  "site_slug": "charles_keith",
+  "date": "2026-05-28",
+  "ok_count": 13,
+  "failed_count": 7,
+  "images": [
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwda1a065c/images/megamenu/2026/charles-keith-summers-calling-26-lockup-mega-menu-white-30mar.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwe32b635e/images/megamenu/2026/charles-keith-summers-calling-26-lockup-mega-menu-30mar.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwbfd770cc/images/megamenu/2026/charles-keith-mega-menu-spring-26-delfina-week21-600x800.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_001.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 148582,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwb465aae3/images/megamenu/2026/charles-keith-mega-menu-spring-26-week-7-on-campus-600x800.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_002.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 63535,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwda69e288/images/megamenu/2026/charles-keith-summers-calling-26-lockup-mega-menu-for-side-menu-30mar.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw703a4980/images/megamenu/2026/charles-keith-mega-menu-summer-calling-26-week20-450x300.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_003.jpg",
+      "width": 450,
+      "height": 300,
+      "bytes": 19524,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwce5011ff/images/megamenu/logos/charles-keith-home-mega-menu-linitial-lockup-03.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw6819eea1/images/megamenu/logos/charles-keith-home-mega-menu-linitial-lockup.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/Sites-ck-sg-Site/-/default/dwdd0b19f2/images/shopping-bag-active.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwd21c56e5/images/homepage/2026/charles-keith-home-s-1-week-22-600x1000-mobile.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_004.jpg",
+      "width": 960,
+      "height": 1600,
+      "bytes": 288292,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwa3ad4ef7/images/homepage/2026/charles-keith-summers-calling-26-lockup.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwa9c53fb4/images/homepage/2026/charles-keith-home-d-1-week-22-750x1000-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_005.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 304817,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw55aede15/images/homepage/2026/charles-keith-home-d-2-week-22-750x1000-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_006.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 356139,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw82a29c92/images/homepage/2026/charles-keith-home-s-2-week-22-600x800-mobile.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_007.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 296664,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwcb0611ef/images/homepage/2026/charles-keith-home-c-1-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_008.jpg",
+      "width": 1199,
+      "height": 1600,
+      "bytes": 87198,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw143d950e/images/homepage/2026/charles-keith-home-c-2-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_009.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 125962,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw48e64625/images/homepage/2026/charles-keith-home-c-3-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_010.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 154739,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw7bb6f104/images/homepage/2026/charles-keith-home-c-4-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_011.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 223353,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dw5248424f/images/homepage/2026/charles-keith-home-c-5-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_012.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 99141,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.charleskeith.com/on/demandware.static/-/Library-Sites-CharlesKeith/default/dwf14fd6f7/images/homepage/2026/charles-keith-home-c-6-week-22-600x800-desktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/charles_keith/product_013.jpg",
+      "width": 1200,
+      "height": 1600,
+      "bytes": 114798,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

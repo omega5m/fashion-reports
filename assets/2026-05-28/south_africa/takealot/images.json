@@ -1,0 +1,230 @@
+{
+  "country": "south_africa",
+  "site_name": "Takealot",
+  "site_slug": "takealot",
+  "date": "2026-05-28",
+  "ok_count": 7,
+  "failed_count": 13,
+  "images": [
+    {
+      "url": "https://www.takealot.com/85d8d14f219dd6e912fb72c5ce088a48f0f9f5f3/static/media/src/images/logo.svg-f6ccb489b85bbddf97d6.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/original_images/d5f7a111f544620c2052783fd12e0c530c8e316a.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:400x72"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/1292x300/smart/filters:format(jpeg):background_color(white):focal(360x4:938x299)/original_images/1ccea20e0b7e4470a385b4804b86c594ff372083.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_001.jpg",
+      "width": 1292,
+      "height": 300,
+      "bytes": 65700,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/1292x300/smart/filters:format(jpeg):background_color(white):focal(243x0:950x300)/original_images/58f13f84df1a1b6987b555194ef02e5d0d048081.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_002.jpg",
+      "width": 1292,
+      "height": 300,
+      "bytes": 65656,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://osx-tal.gumlet.io/onlinesales/image/upload/v1779448197/khsfiswbidxd465nlhjy.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_003.jpg",
+      "width": 1292,
+      "height": 300,
+      "bytes": 97694,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://osx-tal.gumlet.io/onlinesales/image/upload/v1778668566/bcu6sso8ac0akotjzm6r.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_004.jpg",
+      "width": 1292,
+      "height": 300,
+      "bytes": 71404,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/73839e956656e64f41ee2a7fb1c4b3a80f3fd7ca.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/0746e1b6e28d6b6370da20f07f9d592af6363d50.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/5bb088759b1c1a42cce409ccfe0dcb12516e5855.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/450x140/original_images/72c859c8b8a0543ee69339302d3d0c61a4d25d76.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_005.jpg",
+      "width": 366,
+      "height": 140,
+      "bytes": 594,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/5a0182f166477006a36cf31c91ea6a875cacac3e.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/f09c15d95bfca26585ed659bc61811a723afc469.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/dae3f543ecf7633ec037b9339130872902bb2ee5.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/6e71171c2c27d20ba1d09e7bb5cf8a07553057bd.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/180x120/original_images/db06929c26742e81500f7309058a8f9af999ee5f_Jbl8f0B.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_006.jpg",
+      "width": 180,
+      "height": 120,
+      "bytes": 5349,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/e35483906ec490b8a5ae4d235c8a2fcde67cd0df.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/52202f8001bfc30f70d9da1135b2086bf74655e4.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/b/2/cms/p/fit-in/160x70/original_images/4fa388074eb10eef5ab14923cf6284a88d460396_Y3LkvNH.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:160x70"
+    },
+    {
+      "url": "https://media.takealot.com/covers_images/966ec8dfce454326a60e7641245908bf/s-xlpreview.file",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/takealot/product_007.jpg",
+      "width": 280,
+      "height": 280,
+      "bytes": 12355,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.takealot.com/promotions/123245-ribbon-large.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:83x83"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "country": "italy",
+  "site_name": "Calzedonia",
+  "site_slug": "calzedonia",
+  "date": "2026-05-28",
+  "ok_count": 1,
+  "failed_count": 3,
+  "images": [
+    {
+      "url": "https://www.calzedonia.com/on/demandware.static/-/Library-Sites-CalzedoniaContentLibrary/default/dw695dadf6/Calzedonia_Logo_US_2026.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.calzedonia.com/on/demandware.static/Sites-calzedonia-eu-Site/-/default/dwd500d6ec/images/close.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/calzedonia/product_001.jpg",
+      "width": 1600,
+      "height": 219,
+      "bytes": 2384,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

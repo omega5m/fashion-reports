@@ -1,0 +1,21 @@
+{
+  "country": "chile",
+  "site_name": "Dafiti Chile",
+  "site_slug": "dafiti_chile",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://static.dafiti.cl/images/dafiti-logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}

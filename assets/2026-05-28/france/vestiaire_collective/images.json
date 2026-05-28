@@ -1,0 +1,230 @@
+{
+  "country": "france",
+  "site_name": "Vestiaire Collective",
+  "site_slug": "vestiaire_collective",
+  "date": "2026-05-28",
+  "ok_count": 10,
+  "failed_count": 10,
+  "images": [
+    {
+      "url": "https://assets.vestiairecollective.com/a/fenx/v4.124.1/assets/img/home/vestiairecollective_logo.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://eu-images.contentstack.com/v3/assets/blt82432b0782155fc9/blte0f5eed0002851b5/6a06ef4a2ce75075d1a1fd4f/2026-05-15-shop-by-category-bags.png?quality=70&fit=bounds&format=webp&dpr=2&disable=upscale&width=440&height=440",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_001.jpg",
+      "width": 880,
+      "height": 880,
+      "bytes": 54748,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/2026-05-15-shop-by-category-bags.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://eu-images.contentstack.com/v3/assets/blt82432b0782155fc9/blt0ecc3e7738f19023/6a0dc8ac59ca091513ba4599/MERCH-WM-brown-linen-magda-butrym-top.jpg?quality=70&fit=bounds&format=webp&dpr=2&disable=upscale&width=440&height=440",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_002.jpg",
+      "width": 880,
+      "height": 880,
+      "bytes": 76699,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/MERCH-WM-brown-linen-magda-butrym-top.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://eu-images.contentstack.com/v3/assets/blt82432b0782155fc9/blt1d60a525a33cde5a/6a07132368d6d9ab6b6e7cbd/2026-05-15-shop-by-category-shoes.png?quality=70&fit=bounds&format=webp&dpr=2&disable=upscale&width=440&height=440",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_003.jpg",
+      "width": 880,
+      "height": 880,
+      "bytes": 29178,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/2026-05-15-shop-by-category-shoes.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://eu-images.contentstack.com/v3/assets/blt82432b0782155fc9/blta82254cd27c39bb7/6a0719a2eb9f4a71f8786080/MERCH-WM-prada-sunglasses.jpg?quality=70&fit=bounds&format=webp&dpr=2&disable=upscale&width=440&height=440",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_004.jpg",
+      "width": 880,
+      "height": 880,
+      "bytes": 21776,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/MERCH-WM-prada-sunglasses.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://eu-images.contentstack.com/v3/assets/blt82432b0782155fc9/blt9e0e3e58a74c1edc/6a0718c068d6d9633f6e7ccd/2026-05-15-shop-by-category-jewellery.png?quality=70&fit=bounds&format=webp&dpr=2&disable=upscale&width=440&height=440",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_005.jpg",
+      "width": 880,
+      "height": 880,
+      "bytes": 21640,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/2026-05-15-shop-by-category-jewellery.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://images.vestiairecollective.com/images/resized/w=2920,q=75,f=auto,/produit/brown-leather-palermo-louis-vuitton-handbag-67467058-1_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_006.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 353842,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/produit/brown-leather-palermo-louis-vuitton-handbag-67467058-1_2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://images.vestiairecollective.com/images/resized/w=2920,q=75,f=auto,/produit/white-linen-isabel-marant-dress-67464915-1_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_007.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 530164,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/produit/white-linen-isabel-marant-dress-67464915-1_2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://images.vestiairecollective.com/images/resized/w=2920,q=75,f=auto,/produit/blue-polyester-pleats-please-top-66577169-1_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_008.jpg",
+      "width": 1139,
+      "height": 1139,
+      "bytes": 206133,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/produit/blue-polyester-pleats-please-top-66577169-1_2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://images.vestiairecollective.com/images/resized/w=2920,q=75,f=auto,/produit/white-cotton-shushu-tong-dress-66517314-1_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_009.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 161848,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.vestiairecollective.com/produit/white-cotton-shushu-tong-dress-66517314-1_2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://images.vestiairecollective.com/images/resized/w=2920,q=75,f=auto,/produit/pink-leather-marmont-gucci-wallet-67024461-1_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/vestiaire_collective/product_010.jpg",
+      "width": 1186,
+      "height": 1186,
+      "bytes": 187847,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

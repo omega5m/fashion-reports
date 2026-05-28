@@ -1,0 +1,230 @@
+{
+  "country": "chile",
+  "site_name": "Paris Chile",
+  "site_slug": "paris_chile",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/topnav/easy.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/topnav/jumbo.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/topnav/santa-isabel.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/topnav/spid.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/topnav/flecha-abajo-bca.svg?v=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/assets/huincha_voladora/huincha_voladora_servicios_18mar26_mob_v2.png?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_001.jpg",
+      "width": 1200,
+      "height": 240,
+      "bytes": 55114,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home_tarjeta/2026/carrusel_banner_tarjeta_18may26_vst_campanamarcas_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_002.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 187657,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_bll_belleza_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_003.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 160588,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_vst_moda_mob.webp?v=4",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_004.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 263831,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_elb_lb_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_005.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 98289,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_tec_comunicaciones_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_006.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 138633,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_tva_tv_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_007.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 255018,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_cmdia_zinus_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_008.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 209869,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_27may26_tec_computacion_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_009.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 143057,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_drm_colchones_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_010.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 197778,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/carrusel_banner_generico_26may26_mbl_muebles_mob.webp?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_011.jpg",
+      "width": 1200,
+      "height": 1300,
+      "bytes": 200042,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.paris.cl/_next/image/?url=https%3A%2F%2Fcl-paris-media-hub.ecomm.cencosud.com%2Ffiles%2Fhome%2Fhome-generico%2Fa2026%2Fhuincha_simple_generico_26may26_ift_concursoprecyber_all.webp%3Fv%3D1&w=3840&q=60",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_400"
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/campannasparis_caluga_generico_26may26_tec_apple_v4_all.jpg?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_012.jpg",
+      "width": 400,
+      "height": 500,
+      "bytes": 13581,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/campannasparis_caluga_generico_18may26_tec_samsung_all.jpg?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_013.jpg",
+      "width": 400,
+      "height": 500,
+      "bytes": 41093,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cl-paris-media-hub.ecomm.cencosud.com/files/home/home-generico/a2026/campannasparis_caluga_generico_25may26_tec_hp_all.jpg?v=1",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/paris_chile/product_014.jpg",
+      "width": 400,
+      "height": 500,
+      "bytes": 30575,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

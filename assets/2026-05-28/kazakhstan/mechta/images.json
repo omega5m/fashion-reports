@@ -1,0 +1,65 @@
+{
+  "country": "kazakhstan",
+  "site_name": "Mechta",
+  "site_slug": "mechta",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://www.mechta.kz/static/common/500.webp",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://mc.yandex.ru/watch/45504168",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=287759738709747&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/counter?id=3082115;js=na",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=ybX2bNnBF_0cTOFv7CrfMRiu-iMrg0O2iGsd7Mjhdyo&consent=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}

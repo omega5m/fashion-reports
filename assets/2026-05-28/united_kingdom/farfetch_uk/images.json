@@ -1,0 +1,54 @@
+{
+  "country": "united_kingdom",
+  "site_name": "Farfetch UK",
+  "site_slug": "farfetch_uk",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/98562/data/8255c144ab9cf3f42a82991fe8c05e55/16x9_three-columns/480/welcome-page-image-ww.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_429"
+    },
+    {
+      "url": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/98560/data/fa1dab633d0455c2049d06c9801acd8c/16x9_three-columns/480/welcome-page-image-mw.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_429"
+    },
+    {
+      "url": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/98558/data/cc69b7f7746a40ac4e4cd3a71e31118f/16x9_three-columns/480/welcome-page-image-kw.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_429"
+    },
+    {
+      "url": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10239766/data/46afee099eef1779c7a9ea6bf35e75fc/3x4_four-columns/480/no-search-results-women-new-in.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_429"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "mexico",
+  "site_name": "Palacio de Hierro",
+  "site_slug": "palacio_de_hierro",
+  "date": "2026-05-28",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/dw2e6f5daa/images/el-palacio-de-hierro.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Banners%2DMenu/2026/Mayo/mujer-ADOLFO-DOMINGUEZ-COOP.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_001.jpg",
+      "width": 300,
+      "height": 360,
+      "bytes": 32736,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Banners%2DMenu/2026/Mayo/hogar-LG-COOP.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_002.jpg",
+      "width": 300,
+      "height": 360,
+      "bytes": 19904,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Banners%2DMenu/2026/Mayo/electronica-AMAZON-COOP.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_003.jpg",
+      "width": 300,
+      "height": 360,
+      "bytes": 27436,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Pleca/smart%2Dbanner/mi%2Dpalacio%2Dhierro.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/Home%2D22%2D24%2Dmayo%2Dht/contador%2Ddias%2Dcortesia/bg%2Dcintillo%2Ddesktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_004.jpg",
+      "width": 1600,
+      "height": 88,
+      "bytes": 2706,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/Home%2D22%2D24%2Dmayo%2Dht/contador%2Ddias%2Dcortesia/tarjeta%2Damarilla.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:114x79"
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/Home%2D22%2D24%2Dmayo%2Dht/contador%2Ddias%2Dcortesia/tarjeta%2Dnegra.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:116x80"
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/Home%2D22%2D24%2Dmayo%2Dht/contador%2Ddias%2Dcortesia/tarjeta%2Dcafe.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:118x80"
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/cambios%2D25may/sl/sl%2Dhot%2Dsale%2D2026%2Ddesktop.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_005.jpg",
+      "width": 1600,
+      "height": 500,
+      "bytes": 58551,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/cambios%2D25may/sl/nm%2Dhot%2Dsale%2Dmb%2Ddesktop.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_006.jpg",
+      "width": 726,
+      "height": 202,
+      "bytes": 20165,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Home/Mayo%2D26/cambios%2D25may/sl/nm%2Dhot%2Dsale%2Ddesktop.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_007.jpg",
+      "width": 638,
+      "height": 565,
+      "bytes": 46969,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dwe4e5cc9e/images/Home/Noviembre-25/Home-10-nov-19-nov/sl/sl-aniversario-app-mob.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_008.jpg",
+      "width": 752,
+      "height": 800,
+      "bytes": 83845,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dw06a38432/images/Home/Mayo-26/cambios-25may/sl/sl-pantallas-mobile.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_009.jpg",
+      "width": 750,
+      "height": 800,
+      "bytes": 65619,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dwa4c2a58d/images/Home/Mayo-26/cambios-25may/sl-lacoste/sl-lacoste-mobile.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_010.jpg",
+      "width": 750,
+      "height": 800,
+      "bytes": 81144,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dw53f2a4a7/images/Home/Mayo-26/cambios-25may/sl/sl-belleza-mobile.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_011.jpg",
+      "width": 750,
+      "height": 800,
+      "bytes": 70975,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/on/demandware.static/-/Library-Sites-palacio-content-global/default/images/Campanas/HotSale/2026/Subhomes/Venta/Cintillos/hot-sale-venta-subhome-cintillo-desktop.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_012.jpg",
+      "width": 1600,
+      "height": 88,
+      "bytes": 19057,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dw040096c3/images/Home/Mayo-26/cambios-25may/of-hot-sale-2026.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_013.jpg",
+      "width": 446,
+      "height": 446,
+      "bytes": 7443,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dw31984c51/images/Home/Mayo-26/Home-22-24-mayo-ht/overflow/of-relojeria.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_014.jpg",
+      "width": 446,
+      "height": 446,
+      "bytes": 15280,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.elpalaciodehierro.com/dw/image/v2/BDKB_PRD/on/demandware.static/-/Library-Sites-palacio-content-global/default/dwb3ec7986/images/Home/Mayo-26/Home-22-24-mayo-ht/overflow/of-calzado-mujer.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/palacio_de_hierro/product_015.jpg",
+      "width": 446,
+      "height": 446,
+      "bytes": 7132,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

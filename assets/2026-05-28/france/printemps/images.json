@@ -1,0 +1,230 @@
+{
+  "country": "france",
+  "site_name": "Printemps",
+  "site_slug": "printemps",
+  "date": "2026-05-28",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://media-cdn.printemps.com/image/80/3/8437803.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/64/9/9261649.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_001.jpg",
+      "width": 912,
+      "height": 1216,
+      "bytes": 164610,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/85/2/9245852.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_002.jpg",
+      "width": 912,
+      "height": 1216,
+      "bytes": 254067,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/60/5/9271605.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_003.jpg",
+      "width": 912,
+      "height": 1216,
+      "bytes": 219285,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/76/5/9267765.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_004.jpg",
+      "width": 912,
+      "height": 1216,
+      "bytes": 104344,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/50/8/9306508.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_005.jpg",
+      "width": 1600,
+      "height": 666,
+      "bytes": 113153,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/56/2/9247562.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_006.jpg",
+      "width": 1600,
+      "height": 666,
+      "bytes": 284528,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/65/2/8980652.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_007.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 3355,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/89/6/4217896.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_008.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 7083,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/27/6/8852276.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_009.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 3563,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/58/1/9196581.jpeg?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_010.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4801,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/69/0/8746690.jpeg?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_011.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 9022,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/11/8/8533118.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_012.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4540,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/42/9/9062429.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_013.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4906,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/70/7/5986707.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_014.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4573,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/46/0/8783460.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_015.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4444,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/55/1/8906551.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_016.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 5225,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/32/5/8296325.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_017.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 5023,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/28/3/7518283.png?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_018.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 5120,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media-cdn.printemps.com/image/76/2/8378762.jpeg?fit=bounds&bg-color=F8F8F8&width=260&height=356&canvas=260-356",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/printemps/product_019.jpg",
+      "width": 260,
+      "height": 356,
+      "bytes": 4162,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

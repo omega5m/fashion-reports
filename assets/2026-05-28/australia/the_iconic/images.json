@@ -1,0 +1,230 @@
+{
+  "country": "australia",
+  "site_name": "The Iconic",
+  "site_slug": "the_iconic",
+  "date": "2026-05-28",
+  "ok_count": 1,
+  "failed_count": 19,
+  "images": [
+    {
+      "url": "https://www.theiconic.com.au/images/raptor/snap-to-shop/android-get.png?v=1.0",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.theiconic.com.au/images/raptor/snap-to-shop/animation.gif?v=1.0",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/Ycd-Z40Gdxc_50mH3XaUKYXNJp4=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaZP8YlWLo0XkEj96_01272026-AU-Iconic-FH25-Brand-Tiles-560X330-Womens.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/VxOXpSJ3GAAHU-gT-j0308chnA4=/265x159/filters:fill(000000,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZo8dLR5LeNNTxAsm_Untitleddesign-57--1--1-.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/ApYlr6dFcK2fK3aWt2Qpdv8Y7HQ=/265x159/filters:fill(000000,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZmENqZm069VX1fy7_IM_24_08_001_16x9-002-.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/6w2TecWpD-L0QnI2uiH2WRu3M1E=/265x159/filters:fill(ffffff,1):quality(90):format(webp)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2F191de598-64ba-42b7-886c-0d608ec3f58f_Azulejo_Iconic-Tile_Campaign_01.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/fr9swg1Vp2hqOGNIV5i3YzNK5as=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaV2PYHNYClf9o1eo_02_1120x672_CK_Iconic_CategoryBanner_Page-1-.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/hCDhkUohApFyWQIXHzLcXCoJe2k=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaV8UzgIvOtkhBFbP_DazieSS25BrandTile-1-.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/gY9lg5P-s2kH1mM--AMneh2bD5c=/265x159/filters:fill(ffffff,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZsQskUaF0TcGJFt-_PENATIONTheIconic-July-560x336-2.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/Vg13iBAcU9u87dA4sfHGtt4fHi8=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZ_2PN-vxEdbNPCXI_ADIDASORIGINALS.jpg%3Fauto%3Dformat%2Ccompress",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/K7sgswHIbHqpLM4IgA5Wh67pi_U=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaemvSsBOoF08xO7__251121_SHONAJOY36665.jpg%3Fauto%3Dformat%2Ccompress",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/goTWA7FeQTtSIeuuIaTtqz6Ky50=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaZP5TFWLo0XkEj9b_01272026-AU-Iconic-FH25-Brand-Tiles-560X330-Mens.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/6YMiuURs_LFwov5sieBfL8E1ta4=/265x159/filters:fill(000000,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZtACR0aF0TcGJfxe_image004levistile.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/T95god2BMTQtg3wW7NtiiLXwIBQ=/265x159/filters:quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2Fad7QYZ1ZCF7ETMjA_SU26BrandCampaignWegSingle560x330.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/lKJwr8lhaWN8vGyt3yLL8v10DVY=/265x159/filters:fill(000000,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FZtACUkaF0TcGJfxf_MensRMtile.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/-LdNAgvkzp62uQ8VV3RXaeS_-mk=/265x159/filters:fill(ffffff,1):quality(90):format(jpeg)/https%3A%2F%2Fprismic-io.s3.amazonaws.com%2Ftheiconic-content-service%252F15a510f7-c309-4505-aa73-659dc965dd67_560x336_th_mens_brandbanner.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/4GRJ-FpMq8csx6QEfCFY_zgpt-M=/265x159/filters:fill(ffffff,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2FaO3WbZ5xUNkB16gs_GIRLS-NavTileDesk.jpg",
+      "status": "ok",
+      "page_label": "new_women",
+      "local_path": "reports/assets/2026-05-28/australia/the_iconic/product_001.jpg",
+      "width": 265,
+      "height": 159,
+      "bytes": 9875,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.theiconic.com.au/L22FHGkYimYB9wkZIB3ysGBlMS0=/265x159/filters:fill(ffffff,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2Fd7776835-1bcc-45c2-bf47-6aab6628fbb2_KIDS-JUN20-ICONIC-IMAGE.JPG",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/cg4XeUjSZYkFoHPOZss711O32p4=/265x159/filters:quality(90):format(jpeg)/http%3A%2F%2Fstatic.theiconic.com.au%2Fcms%2FTH_Kids_Banner.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img1.theiconic.com.au/4JALE8LrpoVrhLiUVRvaV2p_3lo=/265x159/filters:fill(ffffff,1):quality(90):format(jpeg)/https%3A%2F%2Fimages.prismic.io%2Ftheiconic-content-service%2F38aec28c-cc27-4bd7-8bbf-ee6e4962563e_Rock%2BYour%2BBaby%2B1.jpg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    }
+  ]
+}

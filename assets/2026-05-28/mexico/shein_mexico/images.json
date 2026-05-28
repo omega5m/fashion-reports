@@ -1,0 +1,230 @@
+{
+  "country": "mexico",
+  "site_name": "SHEIN Mexico",
+  "site_slug": "shein_mexico",
+  "date": "2026-05-28",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://img.ltwebstatic.com/images3_ccc/2024/09/14/c4/1726308103afb22656373fc035549a3b184a4363c0.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_001.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 5215,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/01/27/9b/176950474420c0a0650e037383e5ff543fc48e4325_thumbnail_624x.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_002.jpg",
+      "width": 624,
+      "height": 171,
+      "bytes": 10310,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/01/27/08/17695048077e54455d2be64f04836dd5f221ffa3fa_thumbnail_624x.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_003.jpg",
+      "width": 624,
+      "height": 171,
+      "bytes": 8095,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/01/27/8f/1769504813fd5230d0f71d9a7ffacf83e47604822c_thumbnail_624x.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_004.jpg",
+      "width": 624,
+      "height": 171,
+      "bytes": 5734,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/05/24/12/177962767946c36b1b9f435a21335c8415305d6b54_thumbnail_1575x.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_005.jpg",
+      "width": 1125,
+      "height": 948,
+      "bytes": 73660,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2025/01/14/88/17368440776d0aff4c418c69d3ad72fff7beaa25cb_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_006.jpg",
+      "width": 405,
+      "height": 405,
+      "bytes": 46004,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2025/01/14/8f/17368440773d7717261f57f2c31b6c83a8b3576151_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_007.jpg",
+      "width": 405,
+      "height": 405,
+      "bytes": 55381,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2025/01/14/8f/17368440773d7717261f57f2c31b6c83a8b3576151_thumbnail_405x552.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_008.jpg",
+      "width": 405,
+      "height": 405,
+      "bytes": 55381,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2024/11/07/58/1730992289f6c7e7aeac7d72276b2e5de3139c222a_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_009.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 33387,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2024/11/07/21/1730992311d943ee5daea08ad13a0bbc0c3d3636b1_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_010.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 30827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_spmp/2024/11/07/21/1730992311d943ee5daea08ad13a0bbc0c3d3636b1_thumbnail_405x552.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_011.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 30827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/05/25/29/177967594259228db1d018433b42dfd327f7f7eaf1_thumbnail_1479x.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_012.jpg",
+      "width": 1125,
+      "height": 948,
+      "bytes": 142147,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/ccc/2026/05/25/29/177967594259228db1d018433b42dfd327f7f7eaf1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_013.jpg",
+      "width": 1125,
+      "height": 948,
+      "bytes": 144079,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_pi/2024/11/25/0c/1732499407ded9a6060dba438833b4ed40704cef6e_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_014.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 23661,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_pi/2024/11/25/0c/1732499407ded9a6060dba438833b4ed40704cef6e_thumbnail_405x552.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_015.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 23661,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_pi/2024/11/25/fe/17324994116e85f4e69841816969c1d9063181f4d5_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_016.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 18640,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/images3_pi/2024/11/25/fe/17324994116e85f4e69841816969c1d9063181f4d5_thumbnail_405x552.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_017.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 18640,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/pi/2026/05/12/06/1778576266594bdcb044fc801ff3a3e3b3e33a9f1a_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_018.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 49107,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/pi/2026/05/12/06/1778576266594bdcb044fc801ff3a3e3b3e33a9f1a_thumbnail_405x552.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_019.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 49107,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.ltwebstatic.com/v4/j/pi/2026/05/12/b0/177857626820e0c998012bef4f1f1d875549cbf4db_thumbnail_405x552.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/shein_mexico/product_020.jpg",
+      "width": 405,
+      "height": 539,
+      "bytes": 52377,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "mexico",
+  "site_name": "Mercado Libre Mexico",
+  "site_slug": "mercado_libre_mexico",
+  "date": "2026-05-28",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_835156-MLA108965727038_032026-OO.webp",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:680x78"
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_677995-MLA112172977871_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_001.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 58104,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_988905-MLA112333347497_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_002.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 51576,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_709683-MLA112290272911_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_003.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 63175,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_911271-MLA112081959631_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_004.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 51245,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_981361-MLA112223312945_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_005.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 55004,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_765665-MLA111093936344_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_006.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 51462,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_2X_879708-MLA112088713893_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_007.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 57101,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_693116-MLA111304731556_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_008.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 21969,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_997210-MLA111304034576_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_009.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 21410,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_884825-MLA112338572825_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_010.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 21391,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_721322-MLA112338486301_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_011.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 21149,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_804390-MLA112338576513_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_012.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 22727,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_999405-MLA112338489711_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_013.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 18600,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_706050-MLA112283437617_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_014.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 12038,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_614212-MLA111257481942_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_015.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 15732,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/storage/splinter-admin/o:f_webp,q_auto:best/1779388195421-108f90d0-5543-11f1-8d43-2919c2b4da04.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_016.jpg",
+      "width": 1600,
+      "height": 140,
+      "bytes": 20290,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_651960-MLA112275045885_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_017.jpg",
+      "width": 640,
+      "height": 560,
+      "bytes": 37024,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_993996-MLA111303609032_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_018.jpg",
+      "width": 640,
+      "height": 560,
+      "bytes": 34124,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_Q_NP_737615-MLA112007598843_052026-F00.jpg-P.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/mexico/mercado_libre_mexico/product_019.jpg",
+      "width": 640,
+      "height": 560,
+      "bytes": 34537,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

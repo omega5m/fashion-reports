@@ -1,0 +1,230 @@
+{
+  "country": "australia",
+  "site_name": "Cotton On",
+  "site_slug": "cotton_on",
+  "date": "2026-05-28",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwaf9342fb/group/home-page/mega-menu-tiles/C_5141500_MEGANAV_MB_JUNE_AU_5141520_0626.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_001.jpg",
+      "width": 828,
+      "height": 350,
+      "bytes": 31704,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw3bd43da3/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-W-1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_002.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 33461,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw51cf53f6/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-W-2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_003.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 42499,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwff5539ea/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-W-4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_004.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 34892,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwd6a984a9/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-W-7.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_005.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 20989,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw9a5d108c/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-M-1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_006.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 59600,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwec1f278b/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-M-2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_007.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 31744,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwf9a897fa/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-M-4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_008.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 24122,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw37e42a0d/group/home-page/2026/05_MAY/AU/C_5141500_MEGANAV_DT_JUNE_AU_5141538_0626-M-5.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_009.jpg",
+      "width": 630,
+      "height": 630,
+      "bytes": 43465,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw119f13c4/group/home-page/mega-menu-tiles/C_4936501_MEGANAV_DT_TILE_SWEATS_AU_4947003_0326_DT.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_010.jpg",
+      "width": 1272,
+      "height": 630,
+      "bytes": 71693,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwd4858256/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_FIFA_DT.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_011.jpg",
+      "width": 1600,
+      "height": 711,
+      "bytes": 224617,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw941b9bc7/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_FIFA_MB.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_012.jpg",
+      "width": 750,
+      "height": 1000,
+      "bytes": 108281,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwb9e9c9b5/group/home-page/2026/05_MAY/AU/FIFA_Lockup.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_013.jpg",
+      "width": 412,
+      "height": 203,
+      "bytes": 11369,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw2e7825fa/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_1_1UP_DT.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_014.jpg",
+      "width": 1600,
+      "height": 711,
+      "bytes": 118190,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw0c242958/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_1_1UP_MB_V2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_015.jpg",
+      "width": 750,
+      "height": 1000,
+      "bytes": 83806,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw7737138e/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_CAT_W_1_V2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_016.jpg",
+      "width": 640,
+      "height": 960,
+      "bytes": 107243,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwbe592fb3/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_CAT_W_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_017.jpg",
+      "width": 640,
+      "height": 960,
+      "bytes": 90293,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwdb36bd93/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_CAT_W_3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_018.jpg",
+      "width": 640,
+      "height": 960,
+      "bytes": 81606,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dw38e52e8e/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_CAT_W_4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_019.jpg",
+      "width": 640,
+      "height": 960,
+      "bytes": 90730,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cottonon.com/on/demandware.static/-/Library-Sites-cog-megastore-shared-library/default/dwa65ad5e2/group/home-page/2026/05_MAY/AU/C_BP_JUNE_LAUNCH_AU_5138670_CAT_W_5.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/cotton_on/product_020.jpg",
+      "width": 640,
+      "height": 960,
+      "bytes": 70407,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "germany",
+  "site_name": "About You",
+  "site_slug": "about_you",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://cdn.aboutstatic.com/file/images/ab8632bb0155f2f889992f22bf3857e1.png?quality=75&height=480&width=360",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_001.jpg",
+      "width": 360,
+      "height": 295,
+      "bytes": 4941,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/images/ab8632bb0155f2f889992f22bf3857e1.png?quality=75&height=11&width=13",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:13x11"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/9f45fd7ee0896aee119933e0f24d5285.jpg?quality=75&height=480",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_002.jpg",
+      "width": 1068,
+      "height": 480,
+      "bytes": 81389,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/9f45fd7ee0896aee119933e0f24d5285.jpg?quality=75&height=525",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_003.jpg",
+      "width": 1168,
+      "height": 525,
+      "bytes": 95269,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/a370e4ca6c459f1b29a1a24d79671a24.jpg?quality=75&height=480",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_004.jpg",
+      "width": 1068,
+      "height": 480,
+      "bytes": 72894,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/a370e4ca6c459f1b29a1a24d79671a24.jpg?quality=75&height=525",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_005.jpg",
+      "width": 1168,
+      "height": 525,
+      "bytes": 85823,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/1db417642aa3c062e3e4d05eb4c5b4eb.jpg?quality=75&height=480",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_006.jpg",
+      "width": 1068,
+      "height": 480,
+      "bytes": 23896,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/1db417642aa3c062e3e4d05eb4c5b4eb.jpg?quality=75&height=525",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_007.jpg",
+      "width": 1168,
+      "height": 525,
+      "bytes": 28318,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/c23a0ffa0f7c0a7319ac30fe86fb068e?quality=75&trim=1&height=480&width=360",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:360x84"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/c23a0ffa0f7c0a7319ac30fe86fb068e?quality=75&trim=1&height=400&width=400",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:400x94"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/912c7211e2b16ecc071eec4ff001fa4c?quality=75&trim=1&height=480&width=360",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:360x90"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/912c7211e2b16ecc071eec4ff001fa4c?quality=75&trim=1&height=400&width=400",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_008.jpg",
+      "width": 400,
+      "height": 100,
+      "bytes": 9803,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/e4bc8bb298e854e3fb2b516b3eb63c69?quality=75&trim=1&height=480&width=360",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:360x38"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/e4bc8bb298e854e3fb2b516b3eb63c69?quality=75&trim=1&height=400&width=400",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:400x42"
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/887110e62324032667e5548393a37ef9.jpg?quality=75&trim=1&height=480&width=360",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_009.jpg",
+      "width": 360,
+      "height": 148,
+      "bytes": 10548,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/887110e62324032667e5548393a37ef9.jpg?quality=75&trim=1&height=400&width=400",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_010.jpg",
+      "width": 400,
+      "height": 165,
+      "bytes": 11663,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/16969874aa9ab58e952ea206903dfad9.png?quality=75&height=480",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_011.jpg",
+      "width": 650,
+      "height": 480,
+      "bytes": 42601,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/16969874aa9ab58e952ea206903dfad9.png?quality=75&height=525",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_012.jpg",
+      "width": 711,
+      "height": 525,
+      "bytes": 33216,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/1d18c7e481153db3841f7d53dc841d21.png?quality=75&trim=1&height=480&width=360",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_013.jpg",
+      "width": 360,
+      "height": 251,
+      "bytes": 9622,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.aboutstatic.com/file/1d18c7e481153db3841f7d53dc841d21.png?quality=75&trim=1&height=400&width=400",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/about_you/product_014.jpg",
+      "width": 400,
+      "height": 279,
+      "bytes": 10193,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

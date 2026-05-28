@@ -1,0 +1,230 @@
+{
+  "country": "germany",
+  "site_name": "Otto",
+  "site_slug": "otto",
+  "date": "2026-05-28",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=64&h=64&upscale=true&",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_131652_163773?w=64&h=64&upscale=true&",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_131654_163774?w=64&h=64&upscale=true&",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_263048_426292?w=64&h=64&upscale=true&",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_391208_826287?w=64&h=64&upscale=true&",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:64x64"
+    },
+    {
+      "url": "https://i.otto.de/i/otto/cd05c6c6-8692-5b95-95c3-c221f3e2a99c/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_001.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 5865,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/28397874/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_002.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 6108,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/f9ea3238-ee30-438c-ace9-5858e6221443/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_003.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 7084,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/18517368/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_004.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 5888,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/f1707ac6-3183-5795-aada-f0e9c849449e/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_005.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 3038,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/34177157/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_006.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 4190,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/20608712/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_007.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 7505,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/35333038/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_008.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 8787,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/18763571/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_009.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 3640,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/19992267/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_010.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 5373,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/2e04cc29-0785-5cbf-ad7b-24c9bc19c946/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_011.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 8092,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_349513_632000/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_012.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 10814,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/001_2020_28_kund_repraesentant_fuer_marken_kleine_shoppromotion_72615/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_013.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 4522,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/001_2019_09_sale_dauerhafteaktionen_flexpage_22966_shopteaser_3/?h=200&upscale=true&w=200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_014.jpg",
+      "width": 200,
+      "height": 200,
+      "bytes": 4200,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://i.otto.de/i/otto/mpp360_391292_826922?$promo_poi_4-3_s_progressive$&fmt=auto",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/otto/product_015.jpg",
+      "width": 700,
+      "height": 525,
+      "bytes": 102626,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

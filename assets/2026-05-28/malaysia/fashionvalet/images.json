@@ -1,0 +1,230 @@
+{
+  "country": "malaysia",
+  "site_name": "FashionValet",
+  "site_slug": "fashionvalet",
+  "date": "2026-05-28",
+  "ok_count": 18,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://www.fashionvalet.com/tr-id-423780574453799-ev-PageView-noscript-1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/2020-09/websitecms9b1228203fef0d1a50926727563054866b714bc2.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_001.jpg",
+      "width": 646,
+      "height": 250,
+      "bytes": 17156,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/2020-09/websitecmsabd933b5badd83fd0a4a5dada5fcefc6bc1c80f5.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_002.jpg",
+      "width": 646,
+      "height": 250,
+      "bytes": 14974,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/2020-11/websitecmse85e4ec8268f611edb8a65459af26a7960d80b86.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_003.jpg",
+      "width": 124,
+      "height": 124,
+      "bytes": 3924,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/logo/stores/1/logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:872x97"
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/catalog/product/cache/062a0371477ef51bc121158b30011f81/b/r/brick_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_004.jpg",
+      "width": 599,
+      "height": 986,
+      "bytes": 52569,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/catalog/product/cache/062a0371477ef51bc121158b30011f81/d/a/dark_blue.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_005.jpg",
+      "width": 599,
+      "height": 986,
+      "bytes": 53821,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DD/DD_lilit_CNY.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_006.jpg",
+      "width": 1522,
+      "height": 1200,
+      "bytes": 440769,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/playground-sub/pub/media/wysiwyg/DP/August_Edit-491.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_007.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 198390,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/playground-sub/pub/media/wysiwyg/DP/77229072116_1_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_008.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 110837,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DD/DD_MONOGRAM_B3_CAMPAIGN-3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_009.jpg",
+      "width": 1522,
+      "height": 1200,
+      "bytes": 257376,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/77231072101_1_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_010.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 101829,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/12813082108_a.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_011.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 54615,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DD/DD-3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_012.jpg",
+      "width": 902,
+      "height": 711,
+      "bytes": 90676,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/06010712005_1_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_013.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 42721,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/60111041902_5_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_014.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 60387,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DD/DD-TRIO_SCARF_RING-12.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_015.jpg",
+      "width": 1522,
+      "height": 1200,
+      "bytes": 429873,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/07721409001_1_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_016.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 138963,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DP/12825072101_t.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_017.jpg",
+      "width": 729,
+      "height": 1200,
+      "bytes": 70812,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.fashionvalet.com/pub/media/wysiwyg/DD/DD-f0226-3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/fashionvalet/product_018.jpg",
+      "width": 902,
+      "height": 711,
+      "bytes": 59635,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

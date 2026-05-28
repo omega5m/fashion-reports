@@ -1,0 +1,230 @@
+{
+  "country": "sweden",
+  "site_name": "NA-KD",
+  "site_slug": "na_kd",
+  "date": "2026-05-28",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/occasion.jpg?ref=E15539016A",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_001.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 60561,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/swim_trending-.jpg?ref=15011161F8",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_002.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 88533,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/linen.jpg?ref=276414C586",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_003.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 60562,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/newin.jpg?ref=E2037CCB76",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_004.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 77839,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/bags.jpg?ref=579E305797",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_005.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 128272,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/jewellry.jpg?ref=D779DA702E",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_006.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 79275,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/shoes/shoes1.jpg?ref=6561EE4E8D",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_007.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 128809,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/shoes/shoes2.jpg?ref=5A21DBD40C",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_008.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 82554,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/width=1264/globalassets/menu/2026/04-april/shoes/shoes3.jpg?ref=3E30B4D410",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_009.jpg",
+      "width": 624,
+      "height": 934,
+      "bytes": 153903,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_02.jpg?ref=E83F94E467",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_010.jpg",
+      "width": 1600,
+      "height": 678,
+      "bytes": 193845,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/quality=80/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_02.jpg?ref=E83F94E467",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_new_in.jpg?ref=13C38EFC0D",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_011.jpg",
+      "width": 1276,
+      "height": 1600,
+      "bytes": 532899,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/quality=80/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_new_in.jpg?ref=13C38EFC0D",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_dresses_01.jpg?ref=F931E8DCFF",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_012.jpg",
+      "width": 1276,
+      "height": 1600,
+      "bytes": 533388,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/quality=80/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_dresses_01.jpg?ref=F931E8DCFF",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_bestsellers.jpg?ref=C8C50BB70B",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_013.jpg",
+      "width": 1276,
+      "height": 1600,
+      "bytes": 484319,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/quality=80/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_bestsellers.jpg?ref=C8C50BB70B",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_dresses_02.jpg?ref=0E571789D9",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_014.jpg",
+      "width": 1276,
+      "height": 1600,
+      "bytes": 720184,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.na-kd.com/quality=80/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_dresses_02.jpg?ref=0E571789D9",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.na-kd.com/cdn-cgi/image/quality=80,width=1920/siteassets/startfeed/2026/05-may/28.05/webb/05_28_collab_sofi_fahrman_sf_dt_05.jpg?ref=C6D1652DBB",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/na_kd/product_015.jpg",
+      "width": 1600,
+      "height": 1040,
+      "bytes": 371597,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

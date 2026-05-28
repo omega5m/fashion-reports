@@ -1,0 +1,230 @@
+{
+  "country": "south_africa",
+  "site_name": "Superbalist",
+  "site_slug": "superbalist",
+  "date": "2026-05-28",
+  "ok_count": 13,
+  "failed_count": 7,
+  "images": [
+    {
+      "url": "https://assets.superbalistcdn.co.za/254x/filters:quality(75):format(png)/4771654/original.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_001.jpg",
+      "width": 254,
+      "height": 360,
+      "bytes": 20886,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/WOMEN_CcpT443.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_002.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 546131,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/MEN_gp5SSou.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_003.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 390883,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/KIDS_qBkUZRj.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_004.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 710127,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/HOME_HfHle6J.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_005.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 355339,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/SNEAKERS_UzFKJoc.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_006.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 402276,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/BEAUTY_nccByS8.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_007.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 480401,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/THURS_HP_BANNER_Xm24UlM.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_008.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 82946,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/1800x1800/filters:quality(75):format(jpg)/cms/NEW_IN_hmdjKpe.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/MANGO_oQenx2O.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/340x160/filters:quality(75):format(jpg)/cms/MANGO_oQenx2O.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_009.jpg",
+      "width": 340,
+      "height": 160,
+      "bytes": 3354,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/NIKE_opBbMkq.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/340x160/filters:quality(75):format(jpg)/cms/NIKE_opBbMkq.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_010.jpg",
+      "width": 340,
+      "height": 160,
+      "bytes": 3839,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/HM_tu2SwEC.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/340x160/filters:quality(75):format(jpg)/cms/HM_tu2SwEC.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_011.jpg",
+      "width": 340,
+      "height": 160,
+      "bytes": 3736,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/COTTON_ON_P8MVJz4.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/340x160/filters:quality(75):format(jpg)/cms/COTTON_ON_P8MVJz4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_012.jpg",
+      "width": 340,
+      "height": 160,
+      "bytes": 3568,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/LEVIS_DQE98w9.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/340x160/filters:quality(75):format(jpg)/cms/LEVIS_DQE98w9.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/superbalist/product_013.jpg",
+      "width": 340,
+      "height": 160,
+      "bytes": 3917,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.superbalistcdn.co.za/170x80/filters:quality(75):format(jpg)/cms/ADIDAS_clHnjpz.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:170x80"
+    }
+  ]
+}

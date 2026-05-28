@@ -1,0 +1,109 @@
+{
+  "country": "canada",
+  "site_name": "SSENSE",
+  "site_slug": "ssense",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 9,
+  "images": [
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1063827787/?value=0&label=IFM5CImLwQMQy_Ki-wM&guid=ON&script=0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=4008316&Ver=2",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1779107115/gbnaw31vcao3piulv0mf.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1779218649/ui4nunwz68fizcafk721.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1778693690/qdegiovmpbuipfxtnrw6.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1778091604/xh8s486avl4wjofgpkfc.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1778853192/hbgxroog6o50cwmy59nz.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.ssense.com/dpr_auto/v1778853194/juqtgpeyxnv0grjvnd5o.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=2500384610363298&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}

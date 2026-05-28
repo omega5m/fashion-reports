@@ -1,0 +1,230 @@
+{
+  "country": "italy",
+  "site_name": "OVS",
+  "site_slug": "ovs",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw7e3bc032/images/icons-menu/wallet.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw9d3a24df/images/icons-menu/track.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw2a1339c3/images/icons-menu/question.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw438ca19e/images/icons-menu/green-leaf.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwa3462d0b/images/icons-menu/wishlist.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dweec90c65/images/icons-menu/pin.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw079855fd/images/menu_emoji/emoji_5.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_001.jpg",
+      "width": 160,
+      "height": 161,
+      "bytes": 5790,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw88d8dab4/images/menu_emoji/emoji_1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_002.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 4977,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwf806cee6/images/menu_emoji/emoji_6.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_003.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 5695,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw6e8af036/images/cardnuovomenu/Donna_lino_ss26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_004.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 105873,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw77faff98/images/cardnuovomenu/Donna_Intimo e pigiami.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_005.jpg",
+      "width": 1056,
+      "height": 1272,
+      "bytes": 167500,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw12293212/images/cardnuovomenu/Accessori_donnamare.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_006.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 118543,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw6903b169/images/cardnuovomenu/CardDonna_Utopja_Summer26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_007.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 81461,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwa7305eb7/images/cardnuovomenu/Modamare_donna26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_008.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 80655,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwac7c2bb3/images/cardnuovomenu/Altavia_Court_Donna26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_009.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 58285,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw241a4296/images/cardnuovomenu/Uomo_lino_ss26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_010.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 78106,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwfc0a24bb/images/cardnuovomenu/Promo Calzini.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_011.jpg",
+      "width": 1056,
+      "height": 1272,
+      "bytes": 122363,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwed9e75de/images/cardnuovomenu/Accessori_uomomare.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_012.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 95245,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dw8e0cbe25/images/cardnuovomenu/Carduomo_Utopja_SS26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_013.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 67075,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ovs.it/on/demandware.static/-/Sites-ovs-Library/default/dwe8ab6585/images/cardnuovomenu/Modamare_uomo26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/italy/ovs/product_014.jpg",
+      "width": 704,
+      "height": 848,
+      "bytes": 65480,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "country": "turkey",
+  "site_name": "Trendyol",
+  "site_slug": "trendyol",
+  "date": "2026-05-28",
+  "ok_count": 2,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://cdn.dsmcdn.com/mrktng/seo/22404/ty_web_300x102.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn.dsmcdn.com/web/production/world-web-404.png",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-28/turkey/trendyol/product_001.jpg",
+      "width": 254,
+      "height": 254,
+      "bytes": 11699,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.dsmcdn.com/web/production/yuri-web-404.png",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-28/turkey/trendyol/product_002.jpg",
+      "width": 330,
+      "height": 385,
+      "bytes": 16554,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.dsmcdn.com/web/production/search-icon-web-404.png",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:97x97"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "brazil",
+  "site_name": "Mercado Livre Brazil",
+  "site_slug": "mercado_livre_brazil",
+  "date": "2026-05-28",
+  "ok_count": 9,
+  "failed_count": 11,
+  "images": [
+    {
+      "url": "https://http2.mlstatic.com/storage/homes-korriban/assets/images/exhibitors/default_banner_menu_mlb.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:680x78"
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_998066-MLA111080903588_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_001.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 38567,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_615968-MLA108191289211_032026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_002.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 36647,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_816930-MLA112071233089_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_003.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 43939,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_781903-MLA112251843365_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_004.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 52359,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_753055-MLA112068138293_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_005.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 47843,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_883273-MLA111084199920_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_006.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 39226,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_985448-MLA112070000729_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_007.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 38305,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/new-buyer.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/registration-da.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/location.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/payment-methods.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/mlb-low-price-product.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/top-sale.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/buy-protected.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/store-official.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/categories.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/melimas/widget_home/pill-promo-meliplus-v2-2x.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/melimas/widget_home/benefits/Imagen-envios@2x.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_008.jpg",
+      "width": 332,
+      "height": 192,
+      "bytes": 9970,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/melimas/widget_home/benefits/partners_mega_nov_desktop@2x.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/mercado_livre_brazil/product_009.jpg",
+      "width": 332,
+      "height": 192,
+      "bytes": 11073,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

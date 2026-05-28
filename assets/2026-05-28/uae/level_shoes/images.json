@@ -1,0 +1,109 @@
+{
+  "country": "uae",
+  "site_name": "Level Shoes",
+  "site_slug": "level_shoes",
+  "date": "2026-05-28",
+  "ok_count": 3,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://www.levelshoes.com/_next/image?url=https%3A%2F%2Fimages.assets.levelshoes.com%2FHP_JAN27%2FERROR%2FW.jpg&w=1080&q=75",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-28/uae/level_shoes/product_001.jpg",
+      "width": 513,
+      "height": 513,
+      "bytes": 48380,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.levelshoes.com/_next/image?url=https%3A%2F%2Fimages.assets.levelshoes.com%2FHP_JAN27%2FERROR%2FM.jpg&w=1080&q=75",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-28/uae/level_shoes/product_002.jpg",
+      "width": 513,
+      "height": 513,
+      "bytes": 51076,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.levelshoes.com/_next/image?url=https%3A%2F%2Fimages.assets.levelshoes.com%2FHP_JAN27%2FERROR%2FK.jpg&w=1080&q=75",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-28/uae/level_shoes/product_003.jpg",
+      "width": 513,
+      "height": 513,
+      "bytes": 66239,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=908510229261590&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://mc.yandex.ru/watch/94465140",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=97197514&tm=gtm002&Ver=2&mid=a87bf35a-bcb8-4c0b-a767-c93e6af4db35&bo=1&sid=da3e1ac05a5911f1b6bd8bd9bef83f6b&vid=da3e0d105a5911f1923b33ba1017cf87&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Page%20Not%20Found&p=https%3A%2F%2Fwww.levelshoes.com%2Fnew-arrivals.html&r=&lt=642&evt=pageLoad&sv=2&cdb=AQAQ&rn=564179",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=3&event=%7B%7D&event_id=cc57b34d-f614-424a-8a02-11fa8daef198&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=c20a4c59-9e03-42b7-999a-692b5f0b271d&pt=Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.levelshoes.com%2Fnew-arrivals.html&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779947738646.64349356194064784&txn_id=nzluv&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=3&event=%7B%7D&event_id=cc57b34d-f614-424a-8a02-11fa8daef198&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=c20a4c59-9e03-42b7-999a-692b5f0b271d&pt=Page%20Not%20Found&tw_document_href=https%3A%2F%2Fwww.levelshoes.com%2Fnew-arrivals.html&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779947738646.64349356194064784&txn_id=nzluv&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=Fu5I5JBLN4EeFODZZF3Gzp4CthOLFWbqP3ka0dYvVdw&consent=1",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}

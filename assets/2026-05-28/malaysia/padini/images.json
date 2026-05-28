@@ -1,0 +1,230 @@
+{
+  "country": "malaysia",
+  "site_name": "Padini",
+  "site_slug": "padini",
+  "date": "2026-05-28",
+  "ok_count": 16,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://www.padini.com/media/logo/stores/1/logopadini.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/1_709.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_001.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 93027,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/2_467.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_002.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 98405,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/3_359.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_003.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 84357,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/4_269.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_004.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 113490,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/5_222.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_005.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 89961,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/6_161.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_006.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 99802,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/explore.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/search.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.padini.com/media/wysiwyg/locator.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/w/e/web_31.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_007.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 103305,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/1/_/1_487.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_008.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 183018,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/d/e/deals_banner_option-04.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_009.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 186883,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/a/l/all_under_rm29_banner_option-04.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_010.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 212371,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/f/r/free_harry_potter_pouch_banner_new-01.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_011.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 251300,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/w/e/web_29.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_012.jpg",
+      "width": 1600,
+      "height": 633,
+      "bytes": 113586,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/m/o/mobile_40.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_013.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 57822,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/2/_/2_436.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_014.jpg",
+      "width": 800,
+      "height": 800,
+      "bytes": 103970,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/d/e/deals_banner_option-02.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_015.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 575717,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.padini.com/media/mageplaza/bannerslider/banner/image/a/l/all_under_rm29_banner_option-05.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/malaysia/padini/product_016.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 573437,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country": "brazil",
+  "site_name": "Renner",
+  "site_slug": "renner",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://img.lojasrenner.com.br/banner/img/logo_red3.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:200x35"
+    }
+  ]
+}

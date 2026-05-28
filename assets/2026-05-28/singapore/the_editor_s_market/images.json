@@ -1,0 +1,230 @@
+{
+  "country": "singapore",
+  "site_name": "The Editor's Market",
+  "site_slug": "the_editor_s_market",
+  "date": "2026-05-28",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/th3_0.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_001.jpg",
+      "width": 1225,
+      "height": 1000,
+      "bytes": 48962,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/th_bags_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_002.jpg",
+      "width": 1225,
+      "height": 1000,
+      "bytes": 112637,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/th_footwear_4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_003.jpg",
+      "width": 1225,
+      "height": 1000,
+      "bytes": 122049,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/logo/logo_1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_004.jpg",
+      "width": 1600,
+      "height": 122,
+      "bytes": 2144,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/web_lp-21052026-sg2_x.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_005.jpg",
+      "width": 1600,
+      "height": 880,
+      "bytes": 222470,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website-lp-tile-opt-5.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_006.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 534981,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_rr_nov_29_n_18_2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_007.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 332172,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_dress333.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_008.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 156322,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_skirts332.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_009.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 147817,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_pants333.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_010.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 289628,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_tops333.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_011.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 224032,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_shorts_1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_012.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 390861,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/banners/website_lp_tiles_jeans_3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_013.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 390328,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.theeditorsmarket.com/",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/html"
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/images/products/202605/800x1200/s22b_tem_0629s-top.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_014.jpg",
+      "width": 800,
+      "height": 1200,
+      "bytes": 68738,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/images/products/202605/800x1200/s22b_tem_0613m-top.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/the_editor_s_market/product_015.jpg",
+      "width": 800,
+      "height": 1200,
+      "bytes": 119652,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/colourimage/60x60/03814_charcoal_plaid.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x60"
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/colourimage/60x60/white_792.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x60"
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/colourimage/60x60/a2983_eclipse_tencel.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x60"
+    },
+    {
+      "url": "https://d2y4yyz2jq286d.cloudfront.net/sites/files/theeditorsmarket/colourimage/60x60/7851_thistle_3.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x60"
+    }
+  ]
+}

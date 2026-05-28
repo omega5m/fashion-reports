@@ -1,0 +1,230 @@
+{
+  "country": "kazakhstan",
+  "site_name": "Kaspi Magazin",
+  "site_slug": "kaspi_magazin",
+  "date": "2026-05-28",
+  "ok_count": 9,
+  "failed_count": 11,
+  "images": [
+    {
+      "url": "https://kaspi.kz/img/Logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/main_logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/2025-phone-3x-n.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_001.jpg",
+      "width": 881,
+      "height": 1050,
+      "bytes": 111681,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/services/service-1.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/travel-v2.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/transfers.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/actions.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/payments.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/ads.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/mybank.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/govservice.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/services/guide.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Phone.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_002.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 38664,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Computer.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_003.jpg",
+      "width": 361,
+      "height": 270,
+      "bytes": 19520,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Shoes1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_004.jpg",
+      "width": 181,
+      "height": 108,
+      "bytes": 5581,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Clothes1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_005.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 53736,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Jewelry.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_006.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 39170,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Sport1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_007.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 54769,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Beauty1.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_008.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 50810,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://kaspi.kz/img/externalImg/Animals.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/kazakhstan/kaspi_magazin/product_009.jpg",
+      "width": 721,
+      "height": 588,
+      "bytes": 60244,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

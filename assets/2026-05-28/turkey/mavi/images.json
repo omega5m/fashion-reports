@@ -1,0 +1,186 @@
+{
+  "country": "turkey",
+  "site_name": "Mavi",
+  "site_slug": "mavi",
+  "date": "2026-05-28",
+  "ok_count": 10,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://www.mavicompany.com/i/content/1_1_17nov-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_001.jpg",
+      "width": 1600,
+      "height": 468,
+      "bytes": 176788,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/content/1_2_17nov-mobil-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_002.jpg",
+      "width": 768,
+      "height": 630,
+      "bytes": 130454,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2026/investor.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_003.jpg",
+      "width": 911,
+      "height": 1599,
+      "bytes": 306352,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2025/about.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_004.jpg",
+      "width": 910,
+      "height": 800,
+      "bytes": 166318,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2025/advertising.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_005.jpg",
+      "width": 911,
+      "height": 800,
+      "bytes": 68223,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2023/mavicompany_10.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_006.jpg",
+      "width": 910,
+      "height": 799,
+      "bytes": 130779,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2026/annualreport-26.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_007.jpg",
+      "width": 1200,
+      "height": 1057,
+      "bytes": 240863,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2023/mavicompany_14.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_008.jpg",
+      "width": 886,
+      "height": 483,
+      "bytes": 72676,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2023/mavicompany_16.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_009.jpg",
+      "width": 885,
+      "height": 483,
+      "bytes": 152927,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/documents/2023/mavicompany_18.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/turkey/mavi/product_010.jpg",
+      "width": 881,
+      "height": 483,
+      "bytes": 64069,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/site/footer-logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:240x98"
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/instagram.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/facebook.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/x.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/youtube.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.mavicompany.com/i/assets/images/linkedin.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "chile",
+  "site_name": "Mercado Libre Chile",
+  "site_slug": "mercado_libre_chile",
+  "date": "2026-05-28",
+  "ok_count": 10,
+  "failed_count": 10,
+  "images": [
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_917435-MLA96201475628_102025-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_001.jpg",
+      "width": 1600,
+      "height": 184,
+      "bytes": 36192,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_840256-MLA111196913818_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_002.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 64950,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_957425-MLA111301965568_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_003.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 41860,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_742743-MLA112165647443_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_004.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 71585,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_675706-MLA110800980358_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_005.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 157803,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_651558-MLA112198258117_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_006.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 70549,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_717314-MLA110470736736_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_007.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 111510,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_715656-MLA112070300335_052026-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_008.jpg",
+      "width": 1600,
+      "height": 416,
+      "bytes": 93715,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/new-buyer.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/registration-da.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/location.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/payment-methods.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/low-price-product.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/top-sale.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/buy-protected.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/store-official.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/categories.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/frontend-assets/homes-palpatine/dynamic-access-desktop/help-da.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_992200-MLA90221413039_082025-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_009.jpg",
+      "width": 1008,
+      "height": 528,
+      "bytes": 30326,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://http2.mlstatic.com/D_NQ_925787-MLA86096428596_062025-OO.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/mercado_libre_chile/product_010.jpg",
+      "width": 1008,
+      "height": 528,
+      "bytes": 48792,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

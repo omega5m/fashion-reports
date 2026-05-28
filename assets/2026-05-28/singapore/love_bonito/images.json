@@ -1,0 +1,219 @@
+{
+  "country": "singapore",
+  "site_name": "Love Bonito",
+  "site_slug": "love_bonito",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://www.lovebonito.com/resources/country_icons/KOR.svg?dpl=734d84374900f77c7525ca6e22fb1c69a862f3f7",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.lovebonito.com/resources/country_icons/SGP.svg?dpl=734d84374900f77c7525ca6e22fb1c69a862f3f7",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/2400x1225/a9a33cb0a6/onsite_mys-26_fs2_homepage-hero-banner_sg_desktop.jpg/m/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_001.jpg",
+      "width": 1600,
+      "height": 816,
+      "bytes": 125697,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/6e7e3c1172/onsite_mys-26_fs_wt-banner_fs2_signatures-outers.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_002.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 58320,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/c056bd8cf4/_tops.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_003.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 75600,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/aa40aaf56a/_dresses.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_004.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 91421,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/b9828313c9/_bottoms.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_005.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 45584,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/17cf123a77/hp_cblock_31b6051755-31f6051859_breathable_w1.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_006.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 121292,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/55b54be4fd/hp_cblock_31c6051965_crease-ease_w1.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_007.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 115393,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/5f09db4189/hp_cblock_31k6051758_bloat-friendly_w1.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_008.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 84017,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/820x1080/57f691aeb7/hp_cblock_31h6051296_pockets_w1.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_009.jpg",
+      "width": 800,
+      "height": 1054,
+      "bytes": 87832,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/980x1920/d21dc19fe6/new-ugc-desktop.jpg/m/500x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_010.jpg",
+      "width": 500,
+      "height": 980,
+      "bytes": 51530,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/980x1920/2addf12797/new-ugc-desktop-1.jpg/m/500x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_011.jpg",
+      "width": 500,
+      "height": 980,
+      "bytes": 61593,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/980x1920/fd6aa01d28/new-ugc-desktop-2.jpg/m/500x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_012.jpg",
+      "width": 500,
+      "height": 980,
+      "bytes": 63874,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/980x1920/8dae8ae805/new-ugc-desktop.jpeg/m/500x0/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_013.jpg",
+      "width": 500,
+      "height": 980,
+      "bytes": 48570,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://a.storyblok.com/f/126880/980x1920/d21dc19fe6/new-ugc-desktop.jpg/m/filters:no_upscale(),format(webp)",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/singapore/love_bonito/product_014.jpg",
+      "width": 816,
+      "height": 1600,
+      "bytes": 157792,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.lovebonito.com/resources/loyalty/onsite-footer.webp?v=2&dpl=734d84374900f77c7525ca6e22fb1c69a862f3f7",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:binary/octet-stream"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=1657874591163529&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://www.ojrq.net/p/?return=&cid=15036&tpsync=no&auth=",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}

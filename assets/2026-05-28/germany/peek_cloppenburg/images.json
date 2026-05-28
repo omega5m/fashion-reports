@@ -1,0 +1,230 @@
+{
+  "country": "germany",
+  "site_name": "Peek & Cloppenburg",
+  "site_slug": "peek_cloppenburg",
+  "date": "2026-05-28",
+  "ok_count": 10,
+  "failed_count": 10,
+  "images": [
+    {
+      "url": "https://static.fidcdn.net/icons/black/v1/IconArrowRight.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://editorial.fidcdn.net/cdn-cgi/image/width=375,height=500/cms/dam/jcr:8b4e5b28-2245-43de-9f6e-07ac1ee8afa5/Header%201%20(1).2026-04-30-08-56-47.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_001.jpg",
+      "width": 375,
+      "height": 165,
+      "bytes": 20637,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/gravity=0.5x0.17880794701986755/cms/dam/jcr:8b4e5b28-2245-43de-9f6e-07ac1ee8afa5/Header%201%20(1).2026-04-30-08-56-47.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/75548hqi8pa4gdpg64qkodqmad63ch2f6p14egpp6913egqj699l8ia2a9658l2b88o3igqg8coj2gia6d3jqf9t7krm4php61j30phl68o3id3471hm2d1hcoom6dhm6pgmcohpcor66===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_002.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 2136,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/75548hqi8pa4gdpg64qkodqmad63ch2f6p14egpp6913egqj699l8ia2a9658l2b88o3igqg8coj2gia6d3jqf9t7krm4php61j30phl68o3id3471hm2d1hcoom6dhm6pgmcohpcor66===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/94sj8cqg9l3jecpj65444ja47134ikaa61252iq195a48e1o8d852chk8ookoe2e958k6hie9ksj8cq1913jqf9t7koj0e9i68ojcphh68p3gd1n69h62p1k68o3geb36cojco9g68s30===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_003.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 4557,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/94sj8cqg9l3jecpj65444ja47134ikaa61252iq195a48e1o8d852chk8ookoe2e958k6hie9ksj8cq1913jqf9t7koj0e9i68ojcphh68p3gd1n69h62p1k68o3geb36cojco9g68s30===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/ad1kie2k9d150h2la92jedik9p744iaa6gpk8gah952kagpi9p64sci16933il2a8grj6i2h6cpjgk1j68o3qf9t7ks38dhi6dijacb16sq3gd3668pjgdhjckomcopk71hj6oj2cpgjc===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_004.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 8887,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/ad1kie2k9d150h2la92jedik9p744iaa6gpk8gah952kagpi9p64sci16933il2a8grj6i2h6cpjgk1j68o3qf9t7ks38dhi6dijacb16sq3gd3668pjgdhjckomcopk71hj6oj2cpgjc===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/84o56c289p8l0ihg6d74kd2e8d84uc2aaor44jqcal4l2ea29cpjigq7al2kgk2i9p546haf8h3lchih6oo3qf9t7kr3cc1m6goj2d1j6ksjid1gccom2dr16cpj2chmc5gm2e9ncpim6===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_005.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 2407,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/84o56c289p8l0ihg6d74kd2e8d84uc2aaor44jqcal4l2ea29cpjigq7al2kgk2i9p546haf8h3lchih6oo3qf9t7kr3cc1m6goj2d1j6ksjid1gccom2dr16cpj2chmc5gm2e9ncpim6===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/6t736dpl8p8j2gah6d956h25aopk6kpm9h8jcca6akoj2ji49sp4kl2m952jejqd6144mhpm9gqkgdik84o3qf9t7ks62ob568pjcc1nc4rm6d1p70p3ipb26oo32p34c8o3ep366lij8===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_006.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 2945,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/6t736dpl8p8j2gah6d956h25aopk6kpm9h8jcca6akoj2ji49sp4kl2m952jejqd6144mhpm9gqkgdik84o3qf9t7ks62ob568pjcc1nc4rm6d1p70p3ipb26oo32p34c8o3ep366lij8===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/74s34ipja53kiia995130ihg9soksdph94okshph6ko36j1ia1a42jph85444dpk9cqj8ci96l23eiq59t3jqf9t7li30cj16di3cpb6cgq3gd1o74rm2e1p6sqjcc9gchi66p1g6diji===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_007.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 2584,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/74s34ipja53kiia995130ihg9soksdph94okshph6ko36j1ia1a42jph85444dpk9cqj8ci96l23eiq59t3jqf9t7li30cj16di3cpb6cgq3gd1o74rm2e1p6sqjcc9gchi66p1g6diji===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/917l4h2bakp4ii9k6534uh2m9p14qiq79t84mgq565b4kd2190sjcjpg9t352ga56h3kehae6h3kol1naco3qf9t7lgmcpho6tgj6chnc8q66d1kcgpjic9nc4q62eb4c8s6cob46spm2===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_008.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 3341,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/917l4h2bakp4ii9k6534uh2m9p14qiq79t84mgq565b4kd2190sjcjpg9t352ga56h3kehae6h3kol1naco3qf9t7lgmcpho6tgj6chnc8q66d1kcgpjic9nc4q62eb4c8s6cob46spm2===.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/8d7kgda3aoskikqi6d34ki9i88o34di69l932j218sq36c1g8p4jce246d74ce26al7lcca188skolak9ko66p9o6or3cchj71ijap1kclj68e9l70sm8chgc4qjipj36gqjgc8.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_009.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 3055,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.peek-cloppenburg.de/dpr=3/8d7kgda3aoskikqi6d34ki9i88o34di69l932j218sq36c1g8p4jce246d74ce26al7lcca188skolak9ko66p9o6or3cchj71ijap1kclj68e9l70sm8chgc4qjipj36gqjgc8.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://product.fidcdn.net/cdn-cgi/image/width=186,height=248/9pa4oci96p0kmj9l952jalik6da42khg6sq3ciad60qkika1619jgghk71a32hie9p3kchi1896jaii890o3qf9t7ksjeob365hm2p356coj0d3374rm4c9j6gpjie1p6ks32pb5c9j62===.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/peek_cloppenburg/product_010.jpg",
+      "width": 186,
+      "height": 248,
+      "bytes": 3343,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country": "philippines",
+  "site_name": "Shopee Philippines",
+  "site_slug": "shopee_philippines",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://www.facebook.com/tr?id=1478059392491608&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}

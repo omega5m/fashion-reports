@@ -1,0 +1,230 @@
+{
+  "country": "canada",
+  "site_name": "Simons",
+  "site_slug": "simons",
+  "date": "2026-05-28",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://imagescdn.simons.ca/simons/css/images/logo_print.png?version=1593",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_001.jpg",
+      "width": 1600,
+      "height": 228,
+      "bytes": 7818,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/c5f9c9808b177c727ae99f90038c5e3f/dropdown-principal-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_002.jpg",
+      "width": 422,
+      "height": 572,
+      "bytes": 59707,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/a50baaebf21e2733af866f12180be75e/dropdown-cartecadeaux-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_003.jpg",
+      "width": 422,
+      "height": 280,
+      "bytes": 21335,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/110cf8459211dd1bd9e624c9c8a03ee3/dropdown-heritage-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_004.jpg",
+      "width": 422,
+      "height": 280,
+      "bytes": 44508,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/abd5ffb1eca6b06372f49712d142c9d7/alemais.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_005.jpg",
+      "width": 225,
+      "height": 563,
+      "bytes": 37652,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/b39647b65148e8f3375006615d603028/20875a944b639330d81b9a81e33ccdda.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_006.jpg",
+      "width": 225,
+      "height": 563,
+      "bytes": 26970,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/8c4a1447c764515e089a5dd32c5fee0c/p26-dropdown-en.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_007.jpg",
+      "width": 1178,
+      "height": 1600,
+      "bytes": 266411,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/3d10f4e6ac06ef8135751227b7d16dba/simons.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_008.jpg",
+      "width": 562,
+      "height": 221,
+      "bytes": 27174,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/e985d9e2d8f286b116987171a3d51309/simons.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_009.jpg",
+      "width": 1600,
+      "height": 666,
+      "bytes": 128745,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/92151864872225db4111e7fc7c9cdf7f/in-dads-footsteps.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_010.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 63495,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/41123f5e7f75d0150a2212839935e87a/midnight-blue.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_011.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 69327,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/684b5bd5dd7f61d0f33789d0acd93a16/tropical-paradise.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_012.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 91539,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/6358c1084d4e1b15a9fa1d17e9b81fa6/sun-sandals.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_013.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 95926,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/ff22a0ce75721bb4175b30db3a5f1602/dress-to-dazzle.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_014.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 93948,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/027a8d44998d306025c0f03e87c108ee/colour-me-joyful.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_015.jpg",
+      "width": 702,
+      "height": 600,
+      "bytes": 57685,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/2874c87c2e855a1acc4c5b49c08e295f/simons-maison.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_016.jpg",
+      "width": 260,
+      "height": 260,
+      "bytes": 19529,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/17673b8a9f73edb5fe42cf220683a986/women-shoes.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_017.jpg",
+      "width": 260,
+      "height": 260,
+      "bytes": 10984,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/3be77930830939125114f0b83c2f492b/men-shoes.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_018.jpg",
+      "width": 260,
+      "height": 260,
+      "bytes": 15520,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/4736f588c7420367b40380533ec13513/women-accessories.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_019.jpg",
+      "width": 260,
+      "height": 260,
+      "bytes": 15351,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://imagescdn.simons.ca/vb/afdb382485e0046baede1d9b47750859/men-ccessories.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/canada/simons/product_020.jpg",
+      "width": 260,
+      "height": 260,
+      "bytes": 13667,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

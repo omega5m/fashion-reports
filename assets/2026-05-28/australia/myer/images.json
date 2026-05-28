@@ -1,0 +1,230 @@
+{
+  "country": "australia",
+  "site_name": "Myer",
+  "site_slug": "myer",
+  "date": "2026-05-28",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/1981/19814e61-1957-4b9f-a827-9b2eaada7f21.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_001.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 30843,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/6c4d/6c4d04a5-a916-4c36-93ee-bae4cd1eff7a.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_002.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 14244,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/dd2e/dd2e3712-5094-4cd3-a4ed-edfd9295a7b5.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_003.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 28032,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/8b27/8b2790f5-98b4-4df0-8df7-d8e97bcc1dbd.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_004.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 27826,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/e4ae/e4aed948-c35d-402d-9ce2-2548899ca9bd.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_005.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 13297,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/cade/cade0a89-f086-4719-9053-aa4a3dbc0d9a.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_006.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 27883,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/9b97/9b97c2bf-7fba-4aac-b4be-5de078909a5c.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_007.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 20975,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/e5df/e5dffd12-2fe8-43ca-a586-617c3dcf25f7.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_008.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 27705,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/ff30/ff30337d-a6da-4c6d-9786-7ebc2fd2f5a4.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_009.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 27736,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/2ded/2ded2c6d-41e5-4b11-85d3-7eab034b30bc.jpg?resize=400px%3A200px&crop=400%3A200%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_010.jpg",
+      "width": 400,
+      "height": 200,
+      "bytes": 19476,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/16d6/16d684bf-bc8b-4b48-b7cb-d29a2e9c973d.jpg?resize=382px%3A288px&crop=382%3A288%3B0%2C0&output-format=webp&w=828&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_011.jpg",
+      "width": 382,
+      "height": 288,
+      "bytes": 30900,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/3959/3959224c-e4e5-4c5f-bd60-9de787bb3de9.jpg?resize=175px%3A240px&crop=175%3A240%3B0%2C0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_012.jpg",
+      "width": 175,
+      "height": 240,
+      "bytes": 9453,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/3b13/3b1396d2-35e6-4af7-95b4-0b28a73d9254.jpg?resize=175px%3A240px&crop=175%3A240%3B0%2C0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_013.jpg",
+      "width": 175,
+      "height": 240,
+      "bytes": 10442,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/a56e/a56e4d7e-bf91-49aa-82fe-f3ae8bc8f4db.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_014.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 12193,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.myer.com.au/0&output-format=webp&w=384&q=75",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/df99/df99328b-aee4-4cd0-bef5-4c91adeffbd9.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_015.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 7842,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/676e/676e1444-5224-4825-ab75-5bc2bac977f0.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_016.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 5711,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/a810/a810cdf9-6088-480f-8113-c35221fff385.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_017.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 8800,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/8b84/8b84a0a7-a122-4b51-ad29-b58756737dac.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_018.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 9115,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://content-us-5.content-cms.com/af9094ac-4ec2-4ea9-8480-e7ef2c8369de/dxresources/69af/69afdc19-214c-471b-a5db-25e0b3fc8869.jpg?resize=180px:270px&crop=180:270;0,0&output-format=webp&w=384&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/australia/myer/product_019.jpg",
+      "width": 180,
+      "height": 270,
+      "bytes": 14021,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "france",
+  "site_name": "Galeries Lafayette",
+  "site_slug": "galeries_lafayette",
+  "date": "2026-05-28",
+  "ok_count": 1,
+  "failed_count": 19,
+  "images": [
+    {
+      "url": "https://www.galerieslafayette.com/images/logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=736,height=303,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/h0e/h88/9247376801822/herodeskopbeautetemps2/herodeskopbeautetemps2.jpg  736w",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/h0e/h88/9247376801822/herodeskopbeautetemps2/herodeskopbeautetemps2.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/had/h0d/9113680543774/ancre_femme/ancre-femme.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/had/h0d/9113680543774/ancre_femme/ancre-femme.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/hab/h10/9113680609310/ancre_homme/ancre-homme.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/hab/h10/9113680609310/ancre_homme/ancre-homme.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/h6c/h11/9113680674846/ancre_enfant/ancre-enfant.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/france/galeries_lafayette/product_001.jpg",
+      "width": 202,
+      "height": 202,
+      "bytes": 2844,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/h6c/h11/9113680674846/ancre_enfant/ancre-enfant.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/h3d/h18/9113680871454/ancre_beaute/ancre-beaute.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/h3d/h18/9113680871454/ancre_beaute/ancre-beaute.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/h7e/h14/9113680740382/ancre_maison/ancre-maison.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/h7e/h14/9113680740382/ancre_maison/ancre-maison.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=202,height=202,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/h7b/h17/9113680805918/ancre_luxe/ancre-luxe.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/h7b/h17/9113680805918/ancre_luxe/ancre-luxe.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=736,height=303,quality=85,format=auto,fit=cover/https://sapapi.galerieslafayette.com/medias/sys_master/images/hf5/hf8/9247244288030/DVNdesk/DVNdesk.jpg  736w",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/fit=cover/https:/sapapi.galerieslafayette.com/medias/sys_master/images/hf5/hf8/9247244288030/DVNdesk/DVNdesk.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=224,height=244,quality=85,format=auto,fit=pad,background=white/media/images/hp_mod_139/hp_mod_139231985/hp_modvar_150226980/202602241655/suede_sneakers-1.jpg  224w",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://www.galerieslafayette.com/background=white/media/images/hp_mod_139/hp_mod_139231985/hp_modvar_150226980/202602241655/suede_sneakers-1.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://static.galerieslafayette.com/cdn-cgi/image/width=224,height=244,quality=85,format=auto,fit=pad,background=white/media/images/hp_mod_137/hp_mod_137687791/hp_modvar_150226968/202602241505/double_breasted_blazer-1.jpg  224w",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    }
+  ]
+}

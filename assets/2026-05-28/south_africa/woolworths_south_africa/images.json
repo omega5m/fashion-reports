@@ -1,0 +1,87 @@
+{
+  "country": "south_africa",
+  "site_name": "Woolworths South Africa",
+  "site_slug": "woolworths_south_africa",
+  "date": "2026-05-28",
+  "ok_count": 1,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://t.co/i/adsct?bci=5&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=ccba7955-f01c-489e-8da9-9614e686a34b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/i/adsct?bci=5&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=ccba7955-f01c-489e-8da9-9614e686a34b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://t.co/1/i/adsct?bci=5&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=3&event=%7B%7D&event_id=fd0dd007-7fb6-45f5-acbd-7ce994397eb2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=5&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=3&event=%7B%7D&event_id=fd0dd007-7fb6-45f5-acbd-7ce994397eb2&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://t.co/i/adsct?bci=5&cv=100%261&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=d443975c-7748-4d5e-be10-ac58f1bfbc8e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/i/adsct?bci=5&cv=100%261&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=d443975c-7748-4d5e-be10-ac58f1bfbc8e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=34040e41-8322-419f-9fda-7c79c9333f58&pt=Woolworths%20Online%20Shopping%20%7C%20Woolworths.co.za&tw_document_href=https%3A%2F%2Fwww.woolworths.co.za%2F&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1779948214621.3258852743618790&txn_id=nuz21&type=javascript&version=2.3.53",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://www.woolworths.co.za/images/woolworths_logo.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/south_africa/woolworths_south_africa/product_001.jpg",
+      "width": 1282,
+      "height": 1282,
+      "bytes": 24987,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

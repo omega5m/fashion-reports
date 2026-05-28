@@ -1,0 +1,230 @@
+{
+  "country": "netherlands",
+  "site_name": "Scotch & Soda",
+  "site_slug": "scotch_soda",
+  "date": "2026-05-28",
+  "ok_count": 18,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Special_JPG-181850_410_R_10_FNT.jpg?v=1755029597&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_001.jpg",
+      "width": 600,
+      "height": 780,
+      "bytes": 28272,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Special_JPG-181848_030_R_10_FNT_C.jpg?v=1755269208&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_002.jpg",
+      "width": 600,
+      "height": 780,
+      "bytes": 42986,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/UFU01434T_U244_1M-P.png?v=1768597074&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_003.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 27160,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/collections/secondary_men_1_1.jpg?v=1777643667&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_004.jpg",
+      "width": 600,
+      "height": 840,
+      "bytes": 83265,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Special_JPG-181846_410_R_10_FNT_C.jpg?v=1755181297&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_005.jpg",
+      "width": 600,
+      "height": 780,
+      "bytes": 49780,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/PDM023160-001_0954f28d-8abd-4f5b-a633-5ea06954b6ec.png?v=1775231481&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_006.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 17513,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/collections/secondary_women_1_1.jpg?v=1777643597&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_007.jpg",
+      "width": 600,
+      "height": 840,
+      "bytes": 104094,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/U9A01247T_U744_3M.png?v=1775149341&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_008.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 61655,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/PDM023182-800_693a7ebd-4622-42ee-a18a-2060bcd2fc4f.png?v=1775231204&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_009.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 15531,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/collections/Secondary_KIDS.jpg?v=1773937924&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_010.jpg",
+      "width": 600,
+      "height": 840,
+      "bytes": 96328,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/SS51860_105_02.png?v=1770072802&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_011.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 42386,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/SS123314_030_03.png?v=1741961235&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_012.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 52634,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Hires_PNG-U9B01078T_U987_3M.png?v=1764172735&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_013.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 60993,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/182148_410_R_10_FNT.png?v=1768596995&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_014.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 29099,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/U9B01240T_V494_3M.png?v=1769380590&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_015.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 60155,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Hires_PNG-180032_210_MDL_CRP.png?v=1748891334&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_016.jpg",
+      "width": 600,
+      "height": 800,
+      "bytes": 55024,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Special_JPG-180895_001_R_10_BCK_C.jpg?v=1755178799&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_017.jpg",
+      "width": 600,
+      "height": 780,
+      "bytes": 59058,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/Special_JPG-U9B01036T_V469_3M.jpg?v=1755793752&width=600",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/scotch_soda/product_018.jpg",
+      "width": 600,
+      "height": 780,
+      "bytes": 80717,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/scotch-soda-white-black_d1ebdc5e-a073-4ed5-98f7-edd750baf34b.svg?height=20&v=1757502163",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://scotchandsoda.com/cdn/shop/files/scotch-soda-white-black_d1ebdc5e-a073-4ed5-98f7-edd750baf34b.svg?height=60&v=1757502163",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

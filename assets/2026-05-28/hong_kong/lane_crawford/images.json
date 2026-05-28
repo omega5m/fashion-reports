@@ -1,0 +1,230 @@
+{
+  "country": "hong_kong",
+  "site_name": "Lane Crawford",
+  "site_slug": "lane_crawford",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_001.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 195802,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_002.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 251134,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_003.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 207877,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-4.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_004.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 307655,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-5.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_005.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 167988,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-6.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_006.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 185336,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-7.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_007.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 213016,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Happening-in-stores-20260430-8.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_008.jpg",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 274227,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/IFC01.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_009.jpg",
+      "width": 1024,
+      "height": 850,
+      "bytes": 159995,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/CR01.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_010.jpg",
+      "width": 1024,
+      "height": 850,
+      "bytes": 195625,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/TSQ01.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_011.jpg",
+      "width": 1024,
+      "height": 850,
+      "bytes": 226348,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/PPH01.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_012.jpg",
+      "width": 1024,
+      "height": 850,
+      "bytes": 207070,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Visit-us-in-stores_hk_20260408_Lane_Crawford_warehouse.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_013.jpg",
+      "width": 1024,
+      "height": 851,
+      "bytes": 98890,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/feature/hp_temp_Visit-us-in-stores_hk_20260408_Pedder_warehouse.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/lane_crawford/product_014.jpg",
+      "width": 1024,
+      "height": 852,
+      "bytes": 99136,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/Instagram.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/Threads.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/Facebook.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/YouTube.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/WeChat.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://media.lanecrawford.com/_assets/dist/img/logo/RedIcon.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

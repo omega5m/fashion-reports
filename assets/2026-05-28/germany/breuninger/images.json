@@ -1,0 +1,230 @@
+{
+  "country": "germany",
+  "site_name": "Breuninger",
+  "site_slug": "breuninger",
+  "date": "2026-05-28",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://teaser.prod.breuni.de/cont/image/upload/t_double-content-small-mobile/v1775724349/2026/Kampagnen/Festive/DOB/Content_Carousel_Module_01_jtyhhk.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_001.jpg",
+      "width": 1199,
+      "height": 1600,
+      "bytes": 226718,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://teaser.prod.breuni.de/cont/image/upload/t_double-content-small-mobile/v1774004121/2026/Kampagnen/Festive/HAKA/260212_Breuninger_SoMe1566_hires_lax53s.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_002.jpg",
+      "width": 1199,
+      "height": 1600,
+      "bytes": 214106,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://teaser.prod.breuni.de/cont/image/upload/t_merchandising-carousel-large-mobile/v1773839491/2026/Kampagnen/Festive/260212_Breuninger_SoMe1757_hires_svjzov.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_003.jpg",
+      "width": 561,
+      "height": 748,
+      "bytes": 42952,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/2/100308071011000_0_1771372800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_004.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 4612,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/2/100308071011000_0_1771372800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_005.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 14521,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/2/100302450912000_0_1771891200000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_006.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 12732,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/2/100302450912000_0_1771891200000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_007.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 51818,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/25/11/100300981814500_0_1763596800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_008.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 26066,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/25/11/100300981814500_0_1763596800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_009.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 113057,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/2/100305033811000_0_1771545600000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_010.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 4611,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/2/100305033811000_0_1771545600000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_011.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 12798,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/3/100300181011000_0_1772409600000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_012.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 6933,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/3/100300181011000_0_1772409600000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_013.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 20965,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/3/100296126612000_0_1774224000000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_014.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 11046,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/3/100296126612000_0_1774224000000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_015.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 32021,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://teaser.prod.breuni.de/cont/image/upload/t_merchandising-carousel-large-mobile/v1774004128/2026/Kampagnen/Festive/HAKA/260212_Breuninger_SoMe_day25007_hires_jnwknu.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_016.jpg",
+      "width": 561,
+      "height": 748,
+      "bytes": 49600,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/2/100301652315000_0_1770076800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_017.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 13726,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/2/100301652315000_0_1770076800000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_018.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 53576,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596/cpne/media/images/product/26/2/100287606612000_0_1769904000000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_019.jpg",
+      "width": 435,
+      "height": 596,
+      "bytes": 9196,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cms.brnstc.de/product_images/435x596_retina/cpne/media/images/product/26/2/100287606612000_0_1769904000000.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/germany/breuninger/product_020.jpg",
+      "width": 870,
+      "height": 1191,
+      "bytes": 41992,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

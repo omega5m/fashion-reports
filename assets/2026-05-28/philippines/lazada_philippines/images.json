@@ -1,0 +1,230 @@
+{
+  "country": "philippines",
+  "site_name": "Lazada Philippines",
+  "site_slug": "lazada_philippines",
+  "date": "2026-05-28",
+  "ok_count": 14,
+  "failed_count": 6,
+  "images": [
+    {
+      "url": "https://img.lazcdn.com/us/domino/75d863f1-3b3e-4cf7-94fd-6f456e4b8cff_PH-1188-80.jpg_1200x1200q80.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1188x80"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/4c7322a5c7c56033b88982d607e12587.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_001.jpg",
+      "width": 150,
+      "height": 150,
+      "bytes": 14573,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_002.jpg",
+      "width": 344,
+      "height": 108,
+      "bytes": 4827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/icms/images/ims-web/c11e49d8-f74c-43fe-84cb-276b93071700.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:376x90"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/de0b72d16b9f77c86cd2e2a36ebdef45-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_003.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 82013,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01zDs3Ks1ivbXNQA0sF_!!6000000004475-0-tps-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_004.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 127151,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/10223c757062a13f92aa36dc20f9ddbc-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_005.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 112817,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/7dfde450e29e4cd084587a3458d0c27e-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_006.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 134973,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01Fq9a4z1GrCUH8yA0Y_!!6000000000675-0-tps-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_007.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 120812,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01VdjYde1ksyUkv4CYE_!!6000000004740-0-tps-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_008.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 150346,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01h8BirI1G61gzx136K_!!6000000000572-0-tps-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_009.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 90388,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/20e8fef0cbcadc7d1fb4216d6324650a-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_010.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 126875,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/ecf1f4ec6b3bbae0f7ccd2ac39e3ee56-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_011.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 113223,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/b3be448f3bd98e6d1b87655d201f956e-1976-688.png_2200x2200q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_012.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 155446,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/a96c58a6a88070c43bc63444f6774f51.png_120x120q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_013.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 3591,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01cAMOjU1zqQJZU8EbT_!!6000000006765-2-tps-19-18.png_80x80q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:19x18"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01n3PMa828kJZVuCbPp_!!6000000007970-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01J03SMW1lebTE7xkaN_!!6000000004844-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/0942ea5ea6ff9ca262ea382b52b1500e.png_360x360q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/philippines/lazada_philippines/product_014.jpg",
+      "width": 360,
+      "height": 360,
+      "bytes": 49886,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/85e1f7b7-a3e3-4341-9104-93e3cb3194b3_PH-276-48.png_300x300q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:276x48"
+    }
+  ]
+}

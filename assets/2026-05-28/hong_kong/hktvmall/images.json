@@ -1,0 +1,230 @@
+{
+  "country": "hong_kong",
+  "site_name": "HKTVmall",
+  "site_slug": "hktvmall",
+  "date": "2026-05-28",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://images.hktvmall.com/banner/bannerzh_260522022916.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_001.jpg",
+      "width": 1188,
+      "height": 140,
+      "bytes": 23100,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images-dynamic.hktvmall.com/mkgb/common/cqa/qhv/MNjSuLWlwM20240508165218.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:368x88"
+    },
+    {
+      "url": "https://images.hktvmall.com/p0006001/p0006001_mobilelogo_230321053509.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_002.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4309,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/p0038002/p0038002_mobilelogo_220823080456.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_003.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 3887,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h5113006/h5113006_mobilelogo_230315062531.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_004.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 3077,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/p0038001/p0038001_mobilelogo_231218125449.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_005.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4436,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h7829001/h7829001_mobilelogo_200618115331.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_006.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4926,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h1118002/h1118002_storelogo_190402095736.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_007.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4192,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h5988001/h5988001_mobilelogo_230222032454.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_008.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 2427,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h8891001/h8891001_mobilelogo_210312054642.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_009.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4238,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/storeLogo/498d/1873/94f0/xPyXbhXSqx20240827093123.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_010.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 2373,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h1189001/h1189001_storelogo_220419114518.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_011.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 5129,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/p0076001/p0076001_mobilelogo_230103101454.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_012.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 2990,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/p0066002/p0066002_mobilelogo_200923023600.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_013.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4823,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/b0665001/b0665001_mobilelogo_231204070819.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_014.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 2796,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/storeLogo/c65d/54b3/77f1/OyTQPpDHvK20240814102825.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_015.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 2769,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h7195001/h7195001_mobilelogo_210531120739.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_016.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 5349,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/p0079001/p0079001_mobilelogo_200929111713.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_017.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4524,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn-media.hktvmall.com/hktv-mms/HKTV/mms/storeLogo/f11c/c411/7f31/gaFrfiSdEU20241119135226.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_018.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 4386,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.hktvmall.com/h0908006/h0908006_mobilelogo_231120110626.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/hong_kong/hktvmall/product_019.jpg",
+      "width": 200,
+      "height": 102,
+      "bytes": 3431,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

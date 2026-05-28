@@ -1,0 +1,230 @@
+{
+  "country": "brazil",
+  "site_name": "C&A Brazil",
+  "site_slug": "c_a_brazil",
+  "date": "2026-05-28",
+  "ok_count": 18,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/4ff2f2d6-71a9-413d-a036-6ad335452e22___a6d4dd27e7cb2b0655b2676c2e41e288.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_001.jpg",
+      "width": 1600,
+      "height": 106,
+      "bytes": 35544,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/1e44129b-1ce3-4eaf-b586-6b71a594b7df___988276e05e144d07b32d3aed52a07d4b.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_002.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 163980,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/12249e5e-8d16-43de-a996-6fe8b1be84b6___89786854eb82462df8b7b4f39036fa81.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_003.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 75972,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/f148ced8-edcc-4751-a826-6b44506c633c___f10cafb110eed1f4b8a6c20f5e1cc599.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_004.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 167918,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/07d567d3-6a2f-4e9b-8fa2-c90ece2257be___03528422f257eac97c130f9b414bb7c3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_005.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 113067,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/c737f390-74e1-4a88-9710-0dc8a43b903d___090bf51a1b512cec8547c16923749d16.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_006.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 78281,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/c3ee667e-4411-4552-bc31-bdb1d48d877f___8576c409f48aba30ead149fdb0d4480a.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_007.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 151700,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/d288bf76-08d1-40c8-a891-7b26ec0bb9de___046887f205fb1a3d1d1a307322893f96.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_008.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 96675,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/fc20cd55-6919-437b-87e9-fade33b44fbd___89861b964ceaab16139ed661ddecac5b.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_009.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 129853,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/7c81ac45-c2e7-4719-b398-1bc10946e7ae___f82e93da77a5bf7d423054e452b2e003.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_010.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 138824,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/5b5f6b7c-122d-449d-b2f3-fe1844d8342b___1b9fa0399cbb97e6a47e0f27f53f4e98.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_011.jpg",
+      "width": 1600,
+      "height": 598,
+      "bytes": 175773,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/d63f3fb8-ec85-48c2-a174-b8f39aabb66d___baea94cb71320cd9a1549f3aef0a6e94.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_012.jpg",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 201681,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/21f636eb-e3a7-4a77-9f71-ee91785d7f68___89383d96f7d88d4d97b832e318e4cb0d.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_013.jpg",
+      "width": 1600,
+      "height": 1200,
+      "bytes": 230915,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/011c41dd-fdb8-40b6-82de-37afccceff2b___5704f7b2135676c0b9e8e0bda85c5370.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_014.jpg",
+      "width": 800,
+      "height": 976,
+      "bytes": 100936,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/8ad31e15-6a04-44ce-a3e6-9211094e19e8___89466afe79bd0158493a51aeb0b905e0.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_015.jpg",
+      "width": 800,
+      "height": 976,
+      "bytes": 74225,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/ea1b08c9-e21f-4c4b-99f2-154ad7c83a4e___5c7baac6b201a64fbac9a7ce9ed844e5.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_016.jpg",
+      "width": 800,
+      "height": 976,
+      "bytes": 54712,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/6fc6718c-b4ae-4335-915a-26bd86929837___faf67c10f1f06a30bce1ab7612ce14d3.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_017.jpg",
+      "width": 800,
+      "height": 976,
+      "bytes": 62379,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/672c13ac-0ffc-4aca-9d75-c0b01a483b1f___2c400185699c1c51d6a03cc401cc555d.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/brazil/c_a_brazil/product_018.jpg",
+      "width": 800,
+      "height": 976,
+      "bytes": 81695,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cea.vtexassets.com/arquivos/cea-logo-base.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:85x65"
+    },
+    {
+      "url": "https://cea.vtexassets.com/assets/vtex.file-manager-graphql/images/ee78f3d9-434e-4621-b337-349d7793280b___caee166619fd68585fe57fa99ff3baa4.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:24x24"
+    }
+  ]
+}

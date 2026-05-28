@@ -1,0 +1,230 @@
+{
+  "country": "australia",
+  "site_name": "Princess Polly",
+  "site_slug": "princess_polly",
+  "date": "2026-05-28",
+  "ok_count": 0,
+  "failed_count": 20,
+  "images": [
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/App-Icon_1.svg?v=1699558005&width=30",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/yotpo-star.svg?v=95666759087835630691741305881",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/yotpo-star-half.svg?v=6646689409841914401741305881",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-aud.svg?v=114791095428239714201774297466",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-nzd.svg?v=114791095428239714201774297470",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-cny.svg?v=51423649859671375881774297467",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-hkd.svg?v=163505809111812282101774297469",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-jpy.svg?v=154841129735817750151774297469",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-sgd.svg?v=12909911751516844531774297471",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-krw.svg?v=172965741601635828871774297470",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-usd.svg?v=127251994161415957181774297471",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-cad.svg?v=108776611613237453151774297467",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-gbp.svg?v=181510471785956144441774297468",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/t/865/assets/currency-eur.svg?v=106809855237669836241774297468",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/logo-2024.svg?v=1741306173&width=120",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/logo-2024.svg?v=1741306173&width=240",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/Image24-shortshero.png?format=pjpg&v=1774298794&width=74",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:74x96"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/0-modelinfo-aisha-us4_848571e4-2.png?format=pjpg&v=1774298818&width=74",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:74x96"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/10.12_-_PARTY7474.png?format=pjpg&v=1774298832&width=74",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:74x96"
+    },
+    {
+      "url": "https://www.princesspolly.com.au/cdn/shop/files/10.12_-_PARTY7237_82e8853f-4500-48d5-b9da-5b9d3fc588c2.png?format=pjpg&v=1774298852&width=74",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:74x96"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "country": "netherlands",
+  "site_name": "de Bijenkorf",
+  "site_slug": "de_bijenkorf",
+  "date": "2026-05-28",
+  "ok_count": 8,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/bltb1ebe6a33d526dab/blt2c74a6156520773d/696a365c757aedabc81e8419/debijenkorf-heritage-logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/bltf742800ae6274b8a/69f0bbf9062cc5521fd17e78/Zomershop-ss26_banner_dames_2560x549.jpg?w=500&h=375&x=0.4929713&y=0.09009278",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_001.jpg",
+      "width": 500,
+      "height": 375,
+      "bytes": 17654,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/blte44ba7fadb4a80a1/69de1054f56bbb18a0296094/hero-ss26-dames.jpg?w=400&h=400&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_002.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 30713,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/blt92650f39846f0864/69e8add7008c4ef491415b2c/hero-heren-v2.jpg?w=400&h=400&x=0.5104493&y=0.25898468",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_003.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 22777,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/blt468d72ef8266dea6/69de0e82d8b50e294cccdcb1/hero_ss26_designer.jpg?w=400&h=400&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_004.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 25479,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/bltc9862b74304503f6/69e60d5cb3e1d54f13eeddaf/home-cosmetica.jpg?w=400&h=400&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_005.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 22410,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/bltb347a50b6158c0b1/69de0e9af0616111b8ab3395/hero_ss26_wonen.jpg?w=400&h=400&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_006.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 13546,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/blt073dc9c727ba4d7a/69e607f5a6887f846b13b40d/kids-home-groen-effen.jpg?w=400&h=400&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_007.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 26834,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.debijenkorf.nl/content-asset/blte44ba7fadb4a80a1/69de1054f56bbb18a0296094/hero-ss26-dames.jpg?w=1200&h=630&x=0.5&y=0.5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/de_bijenkorf/product_008.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 82491,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

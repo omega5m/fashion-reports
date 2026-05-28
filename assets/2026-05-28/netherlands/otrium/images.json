@@ -1,0 +1,230 @@
+{
+  "country": "netherlands",
+  "site_name": "Otrium",
+  "site_slug": "otrium",
+  "date": "2026-05-28",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://images.ctfassets.net/uwglnwl613dg/2EGlIfrTNZ71GV4cO3zpeB/763609209c4fd1a025b8623b133487dc/HERO_BANNER_-_D_WW__14_.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_001.jpg",
+      "width": 1600,
+      "height": 704,
+      "bytes": 257751,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2026/03/9f526640-a4b9-58ba-93a6-5033e9561978/151fed3e-aeb9-4ace-8987-63c30f5de691.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_002.jpg",
+      "width": 1600,
+      "height": 714,
+      "bytes": 287737,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2025/07/9f526640-a4b9-58ba-93a6-5033e9561978/3a135a3e-945d-4693-87af-08d98a226681.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_003.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 6979,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2024/12/fb4efee1-e875-4d1e-acbf-1b4e4c949045/53af2886-c585-4330-9c35-a0deab544e94.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_004.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 14785,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/wp-content/uploads/2021/03/SS-Amsterdam-horizontal_logo_550x500_w.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_005.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 12837,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2026/01/ba92c4f1-0937-46ca-b93e-883da792b3eb/30edbc25-b7bb-4ebf-8427-443e6a2afbbf.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_006.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 10120,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2024/09/1007c49c-12aa-53ba-a166-38a322ab3b99/0a976e4f-c0b1-42c4-b83f-56a9318fddae.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_007.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 11144,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/brand-visuals/uploads/2026/05/6071794b-0aaa-42a7-9a7c-49c24e44c37c/dcbd6e60-bbdf-4776-b3bc-57f06a9d50df.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_008.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 7452,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/wp-content/uploads/2021/06/french-connection_logo_550x500_w.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_009.jpg",
+      "width": 550,
+      "height": 500,
+      "bytes": 7244,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/1dbacd7f-826e-451b-801c-0fc3cbec70ef.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_010.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 131200,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.otrium.com/width=3840/product-visuals/uploads/2026/04/1dbacd7f-826e-451b-801c-0fc3cbec70ef.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/34ea97e1-2e12-4844-936a-033af35be8ae.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_011.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 151654,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.otrium.com/width=3840/product-visuals/uploads/2026/04/34ea97e1-2e12-4844-936a-033af35be8ae.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/638830c9-5d92-4e18-80e2-3eba27c48316.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_012.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 71919,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.otrium.com/width=3840/product-visuals/uploads/2026/04/638830c9-5d92-4e18-80e2-3eba27c48316.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/62bc3128-2e73-44b4-a143-e137ecc50750.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_013.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 141895,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.otrium.com/width=3840/product-visuals/uploads/2026/04/62bc3128-2e73-44b4-a143-e137ecc50750.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/e54fa195-9fca-4a48-bfc5-63b39163c0c9.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_014.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 79158,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.otrium.com/width=3840/product-visuals/uploads/2026/04/e54fa195-9fca-4a48-bfc5-63b39163c0c9.jpeg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://lookbook.otrium.com/cdn-cgi/image/quality=80,format=auto,width=3840/product-visuals/uploads/2026/04/3664b2e6-b426-42cc-8abf-ae7fa05d4d91.jpeg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/netherlands/otrium/product_015.jpg",
+      "width": 1066,
+      "height": 1600,
+      "bytes": 78520,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

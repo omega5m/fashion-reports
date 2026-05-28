@@ -1,0 +1,230 @@
+{
+  "country": "united_kingdom",
+  "site_name": "Marks & Spencer",
+  "site_slug": "marks_spencer",
+  "date": "2026-05-28",
+  "ok_count": 10,
+  "failed_count": 10,
+  "images": [
+    {
+      "url": "https://static.marksandspencer.com/icons/country-flags/South_Korea.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static.marksandspencer.com/icons/country-flags/UK.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://images.ctfassets.net/prxuf37q3ta2/53YJMrJOT63Hw9Kw65Rl0l/d391985bac8e31f8869245ae616f1cab/DESKTOP_HERO_2880x1621.jpg?w=2560",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_001.jpg",
+      "width": 1600,
+      "height": 775,
+      "bytes": 186013,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T42_5348_BR_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_002.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 123188,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T42_5348_BR_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T57_2005_Z0_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_003.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 84953,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T57_2005_Z0_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T38_6372_K1_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_004.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 142308,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T38_6372_K1_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T42_2675W_Y0_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_005.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 134029,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T42_2675W_Y0_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T41_1034E_A4_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_006.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 207420,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T41_1034E_A4_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T42_7953D_HP_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_007.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 180502,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T42_7953D_HP_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T53_7277U_A4_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_008.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 317417,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T53_7277U_A4_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T43_9083W_KY_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_009.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 184076,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.marksandspencer.com/f_auto/SD_01_T43_9083W_KY_X_EC_0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_2560,q_auto,f_auto/SD_01_T42_5384_B8_X_EC_0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/united_kingdom/marks_spencer/product_010.jpg",
+      "width": 1230,
+      "height": 1600,
+      "bytes": 97506,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

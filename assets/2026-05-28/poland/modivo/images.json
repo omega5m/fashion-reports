@@ -1,0 +1,230 @@
+{
+  "country": "poland",
+  "site_name": "Modivo",
+  "site_slug": "modivo",
+  "date": "2026-05-28",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://modivo.pl/x3/brands/modivo/logo/modivo-logo.svg?v=2",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_403"
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/n1.jpg)/n1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_001.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 16652,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/n2.jpg)/n2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_002.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 19987,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/s1.jpg)/s1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_003.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 13382,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/s22.jpg)/s22.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_004.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 12302,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/m1.jpg)/m1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_005.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 14201,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/m2.jpg)/m2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_006.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 14369,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/o1.jpg)/o1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_007.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 15877,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/o2.jpg)/o2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_008.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 19575,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/ob1.jpg)/ob1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_009.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 17104,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/ob2.jpg)/ob2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_010.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 15255,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/t1.jpg)/t1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_011.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 18655,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/t2.jpg)/t2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_012.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 12018,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/a1.jpg)/a1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_013.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 22176,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/a2.jpg)/a2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_014.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 18521,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/sp1.jpg)/sp1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_015.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 10643,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/sp2.jpg)/sp2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_016.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 14123,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/k1.jpg)/k1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_017.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 24027,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/k2.jpg)/k2.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_018.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 22071,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.modivo.cloud/mod_mag(nawigacja/2026/03/wmn/p1.jpg)/p1.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/poland/modivo/product_019.jpg",
+      "width": 300,
+      "height": 352,
+      "bytes": 7856,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

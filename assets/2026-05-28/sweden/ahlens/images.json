@@ -1,0 +1,230 @@
+{
+  "country": "sweden",
+  "site_name": "Åhléns",
+  "site_slug": "ahlens",
+  "date": "2026-05-28",
+  "ok_count": 9,
+  "failed_count": 11,
+  "images": [
+    {
+      "url": "https://ahlens.a.bigcontent.io/v1/static/Map pin location",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://ahlens.a.bigcontent.io/v1/static/Phone contact",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://ahlens.a.bigcontent.io/v1/static/logo",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn.media.amplience.net/i/ahlens/doft_dam_v21/Dofter.?fmt=auto&w=3840&qlt=90&sm=aspect&aspect=13%3A9&scaleFit=poi&poi=%7B%24this.metadata.pointOfInterest.x%7D%2C%7B%24this.metadata.pointOfInterest.y%7D%2C%7B%24this.metadata.pointOfInterest.w%7D%2C%7B%24this.metadata.pointOfInterest.h%7D",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_001.jpg",
+      "width": 1600,
+      "height": 1107,
+      "bytes": 208898,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/36/14/27/3614272761421_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_002.jpg",
+      "width": 1101,
+      "height": 1600,
+      "bytes": 450071,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/36/14/27/3614272761421_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/84/11/06/8411061077153_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_003.jpg",
+      "width": 658,
+      "height": 769,
+      "bytes": 105084,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/84/11/06/8411061077153_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/79/57/38/57AP3877G1_79573861_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_004.jpg",
+      "width": 1136,
+      "height": 1392,
+      "bytes": 265048,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/79/57/38/57AP3877G1_79573861_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/36/16/30/3616305169266_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_005.jpg",
+      "width": 423,
+      "height": 1047,
+      "bytes": 103793,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/36/16/30/3616305169266_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/66/53/81/66538163_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_006.jpg",
+      "width": 577,
+      "height": 1028,
+      "bytes": 66029,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/66/53/81/66538163_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/36/14/27/3614274521368_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_007.jpg",
+      "width": 518,
+      "height": 854,
+      "bytes": 77597,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/36/14/27/3614274521368_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/84/11/06/8411061026250_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_008.jpg",
+      "width": 728,
+      "height": 1600,
+      "bytes": 103816,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/84/11/06/8411061026250_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    },
+    {
+      "url": "https://res.cloudinary.com/dxxvmvvyj/image/upload/t_ahlens-transformations-bg-removed/c_limit,w_3840/f_auto/q_auto/v1/products/bg_removed/66/56/90/66569056_1.jpg?_a=BAVMn6ID0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/sweden/ahlens/product_009.jpg",
+      "width": 304,
+      "height": 596,
+      "bytes": 48340,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.ahlens.se/w_3840/f_auto/q_auto/v1/products/bg_removed/66/56/90/66569056_1.jpg?_a=BAVMn6ID0",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_404"
+    }
+  ]
+}

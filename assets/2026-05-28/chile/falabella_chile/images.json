@@ -1,0 +1,109 @@
+{
+  "country": "chile",
+  "site_name": "Falabella Chile",
+  "site_slug": "falabella_chile",
+  "date": "2026-05-28",
+  "ok_count": 4,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://images.falabella.com/v3/assets/blt7c5c2f2f888a7cc3/blt019384dffb744bb5/60c992b60504174955a9729b/hr-3-search-desktop.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://images.falabella.com/v3/assets/blt7c5c2f2f888a7cc3/bltc979df574bc3f373/titulo-lo-ultimo-dk-newHome2025.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/falabella_chile/product_001.jpg",
+      "width": 1600,
+      "height": 75,
+      "bytes": 7652,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.falabella.com/v3/assets/blt7c5c2f2f888a7cc3/blt59cbe2f38ac95f59/695fb78c57341d02523ac3af/cmr-puntos-titulo-regalables.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/falabella_chile/product_002.jpg",
+      "width": 442,
+      "height": 614,
+      "bytes": 19914,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://nova.collect.igodigital.com/c2/520001250/track_page_view?payload=%7B%22title%22%3A%22falabella.com%20%7C%20Todo%20lo%20que%20necesitas%20en%20un%20solo%20lugar%22%2C%22url%22%3A%22https%3A%2F%2Fwww.falabella.com%2Ffalabella-cl%22%2C%22referrer%22%3A%22%22%2C%22user_info%22%3A%7B%22details%22%3A%7B%22clientID%22%3A%22%22%7D%7D%7D",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=544240105695064&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=97134190&Ver=2&mid=eafebee0-df5b-43ec-86bb-c2c922e7c188&bo=1&sid=bbe8ab805a5a11f1a799a77a49207ea9&vid=bbe8c5905a5a11f1a963092048664b6d&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=falabella.com%20%7C%20Todo%20lo%20que%20necesitas%20en%20un%20solo%20lugar&kw=keyword1,%20keyword2&p=https%3A%2F%2Fwww.falabella.com%2Ffalabella-cl&r=&lt=505&evt=pageLoad&sv=2&cdb=AQAQ&rn=194588",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://images.falabella.com/v3/assets/blt7c5c2f2f888a7cc3/blt40e40be8f592efeb/65ef4430a7eab49ce691419a/POPUP_CMR_FALABELLA-GENERICO_10K_MOBILE.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/falabella_chile/product_003.jpg",
+      "width": 750,
+      "height": 960,
+      "bytes": 84563,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=ukuF8mXEVkd7cVuKj-7NMqcNV61jdAlj9UU30jzKRB8&consent=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://images.falabella.com/v3/assets/blt7c5c2f2f888a7cc3/blt82dfb1aadb87635c/OG_Fcom.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-05-28/chile/falabella_chile/product_004.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 25588,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
