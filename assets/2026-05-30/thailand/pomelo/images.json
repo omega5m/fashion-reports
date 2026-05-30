@@ -1,0 +1,230 @@
+{
+  "country": "thailand",
+  "site_name": "Pomelo",
+  "site_slug": "pomelo",
+  "date": "2026-05-30",
+  "ok_count": 15,
+  "failed_count": 5,
+  "images": [
+    {
+      "url": "https://pomelo-web-s3.pomelofashion.com/www/6.513.4/static/img/icons/system/hamburger.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://pomelo-web-s3.pomelofashion.com/www/6.513.4/static/img/icons/system/close.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7422/20260428100935_69f024efaf715_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_001.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 6349,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7419/20260302182158_69a572d670875_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_002.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 9643,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/88/20250620125126_6854f6de2dc98_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_003.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 4337,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7420/20260312173657_69b297499ac84_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_004.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 6528,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7418/20260216172249_6992eff96d8e5_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_005.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 6481,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/3658/20250620125237_6854f725c93d4_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_006.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 6297,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7192/20250620125311_6854f747de70b_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_007.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 4771,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/128/20250620125213_6854f70d2e5f9_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_008.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 11960,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/36/20250620125433_6854f799a010d_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_009.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 4736,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/6/20250620125337_6854f76160753_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_010.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 5035,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/7/20250620125406_6854f77e26786_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_011.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 3078,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/1658/20250620125457_6854f7b1ef681_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_012.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 3204,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/332/20250620125545_6854f7e1bacf9_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_013.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 9941,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/61/20250620125616_6854f800be70a_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_014.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 5495,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cdn.pomelofashion.com/img/nav/3271/c/104/20250620125639_6854f817b83c2_banner-image.jpg?auto=compress,format&fm=webp,jpg,png&w=375&h=100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-05-30/thailand/pomelo/product_015.jpg",
+      "width": 375,
+      "height": 100,
+      "bytes": 3201,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://pomelo-web-s3.pomelofashion.com/www/6.513.4/static/img/icons/system/pml-logo-prod.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://pomelo-web-s3.pomelofashion.com/www/6.513.4/static/img/icons/countries/country-global.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://pomelo-web-s3.pomelofashion.com/www/6.513.4/static/img/icons/countries/th-flag.svg",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}
