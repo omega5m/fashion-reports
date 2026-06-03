@@ -1,0 +1,230 @@
+{
+  "country": "indonesia",
+  "site_name": "Zalora Indonesia",
+  "site_slug": "zalora_indonesia",
+  "date": "2026-06-03",
+  "ok_count": 3,
+  "failed_count": 17,
+  "images": [
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/61wDFPFGwVtZ0zNkd0btaR/2aeaf4badcae4602bcf859d377326154/free-return.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/7aTmIKsCDIwTTLiUoIihth/a779b89d73d07085859f980ceed8b214/vip.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/6nsu3JfVdrQEZxDpTBoPF6/aebc35f4e53ee291310fddbd920c6a28/mobile.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_gfg.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_sg_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_my_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_hk_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_mo_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_ph_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_id_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_mastercard.png",
+      "status": "ok",
+      "page_label": "new_women",
+      "local_path": "reports/assets/2026-06-03/indonesia/zalora_indonesia/product_001.jpg",
+      "width": 960,
+      "height": 668,
+      "bytes": 20353,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_visa.png",
+      "status": "ok",
+      "page_label": "new_women",
+      "local_path": "reports/assets/2026-06-03/indonesia/zalora_indonesia/product_002.jpg",
+      "width": 900,
+      "height": 291,
+      "bytes": 27870,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_cena.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_brin.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_bni.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_bmri.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_jcb.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_cod.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_ovo.png",
+      "status": "ok",
+      "page_label": "new_women",
+      "local_path": "reports/assets/2026-06-03/indonesia/zalora_indonesia/product_003.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 1984,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_american_express.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "country": "usa",
+  "site_name": "Nordstrom",
+  "site_slug": "nordstrom",
+  "date": "2026-06-03",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://n.nordstrommedia.com/alias/KR.gif",
+      "status": "failed",
+      "page_label": "women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:16x11"
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/7f51c20a-b069-4154-9cfb-1e6d13a7c608.gif",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_001.jpg",
+      "width": 240,
+      "height": 240,
+      "bytes": 4940,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WMNS_ADC01F_0626_0049.jpeg?width=240&dpr=2&crop=2519.661%3A3149.577%2Coffset-x76.185%2Coffset-y50&trim=0.117%2C0%2C0.027%2C0",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_002.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 34103,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/ACC_HDBG02P_0526_altBgd_ext_8-5.jpeg?width=240&dpr=2&crop=4999.343%3A6249.179%2Coffset-x50%2Coffset-y50&trim=0%2C0%2C0.237%2C0",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_003.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 24565,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WSH_YC01P_0126_altBgd_ext_8-5.jpeg?width=240&dpr=2&crop=6553.6%3A8192%2Coffset-x50%2Coffset-y50",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_004.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 28712,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/DESW_APP06F_0526_0230.jpeg?width=240&dpr=2&crop=1602.288%3A2002.86%2Coffset-x100%2Coffset-y50&trim=0.115%2C0.236%2C0.159%2C0",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_005.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 44995,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/FRA_FRGW03P_0126_V1.jpeg?width=240&dpr=2&crop=4371.2%3A5464%2Coffset-x78.978%2Coffset-y50&trim=0%2C0%2C0%2C0.261",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_006.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 44103,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WMNS_TRD01F_0626_0094_altBgd_ext.jpeg?width=240&dpr=2&crop=2459.299%3A3074.124%2Coffset-x47.34%2Coffset-y50&trim=0.082%2C0.065%2C0.051%2C0.09",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_007.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 15979,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/9509fde9-a71e-4b07-8d01-25eeb2d7e1c6.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_008.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 11164,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/e46f5f08-c4ae-4685-ac9b-6c8095a4f8fe.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_009.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 15799,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/ecfe534e-67e0-40d0-b5f8-a09666a8dbd8.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_010.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 10989,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/4837cbae-e675-4bdd-86f1-6ab90491dfa6.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_011.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 15747,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/6d98dc7b-6129-40b9-bbf4-e3226df4f3da.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_012.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 12386,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/9d422599-513a-493c-9feb-78b3d182c16b.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_013.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 65132,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/68c3c62a-7b52-4600-aa6c-d6497688e70b.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_014.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 33893,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/8e459097-f961-4893-8a64-41a6185500f2.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_015.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 23674,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/d892b0ad-ff9f-49a0-9c6b-9a0f697946be.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_016.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 21509,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/0c2f511f-60f3-428d-a229-fab18884eb2f.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_017.jpg",
+      "width": 480,
+      "height": 720,
+      "bytes": 27851,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/7b7728a0-8a2c-4af8-8841-0146d8ed09eb.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_018.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 17025,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/c0429280-8682-485b-ab12-da60028a4457.jpeg?h=368&w=240&dpr=2",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-06-03/usa/nordstrom/product_019.jpg",
+      "width": 480,
+      "height": 736,
+      "bytes": 36926,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
