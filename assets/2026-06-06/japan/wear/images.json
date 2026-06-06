@@ -1,0 +1,230 @@
+{
+  "country": "japan",
+  "site_name": "WEAR",
+  "site_slug": "wear",
+  "date": "2026-06-06",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_bg.0mfqf_sjjg4.q.png",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_001.jpg",
+      "width": 1600,
+      "height": 48,
+      "bytes": 734,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_4.0h3~tstn7vy~q.png",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_002.jpg",
+      "width": 214,
+      "height": 432,
+      "bytes": 851,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_0.17sfauikqe-ig.png",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_003.jpg",
+      "width": 194,
+      "height": 438,
+      "bytes": 830,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/ekiqYE0j/nOGqgvrA/1780665334_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_004.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 12094,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/OwibGv42/IIPzwsW1/1780501958_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_005.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 19428,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/m0iAM4dw/eERXs4Dw/1780690562_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_006.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 28141,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/DZiZG4Vy/Qz92hpHn/1780354666_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_007.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 13928,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/Grin7q0y/gWHmV4es/1780596380_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_008.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 23368,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/5EiWpMDP/8Zd1DkOo/1780663276_276.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_009.jpg",
+      "width": 276,
+      "height": 368,
+      "bytes": 37793,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/6gio2xl5/hpSX0raH/1715229637_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_010.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 1801,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/V7ipyBky/32t9lQmD/1701717115_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_011.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 2477,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/qrioQEw/72MJBCxP/1756304038_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_012.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 2359,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/OwirEGrk/zrhryDG6/1702303344_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_013.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 3576,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/5EiDePM4/Cdjn9Gl6/1732378353_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_014.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 5980,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/4XivrgMQ/TsY83XIz/1739358434_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_015.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4288,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/7biBz7V/4X0QfUZr/1756218303_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_016.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4050,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/wnipYnRD/X8dWuLfA/1706628765_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_017.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4298,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://images.wear2.jp/profile/3oiqj2MY/ThKO9oo8/1674043725_120.jpg",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_018.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4197,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/mock.0i-zctnzuboij.webp",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_019.jpg",
+      "width": 1232,
+      "height": 836,
+      "bytes": 191304,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/icon_ios.0~ker89fyl9ww.webp",
+      "status": "ok",
+      "page_label": "ranking",
+      "local_path": "reports/assets/2026-06-06/japan/wear/product_020.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 2874,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
