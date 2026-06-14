@@ -1,0 +1,230 @@
+{
+  "country": "taiwan",
+  "site_name": "Yahoo Taiwan Shopping",
+  "site_slug": "yahoo_taiwan_shopping",
+  "date": "2026-06-14",
+  "ok_count": 3,
+  "failed_count": 17,
+  "images": [
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/1A02ABE38D-SP-22063348.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-14/taiwan/yahoo_taiwan_shopping/product_001.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 10118,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/4DC072CE0C-Gd-12002098.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-14/taiwan/yahoo_taiwan_shopping/product_002.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 23866,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/7bbb8e01f9-Gd-12000484.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-14/taiwan/yahoo_taiwan_shopping/product_003.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 23707,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-phone.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-tv.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-computer.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-luxury.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-fashion.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-underwear.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-shoes.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-cosmetics.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-clean-spray.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-food.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-health.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-motherbaby.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-kitchen.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-bed.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-outdoor.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-car.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/zq/ecimg/sas-cat-icon-ticket.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}
