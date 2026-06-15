@@ -1,0 +1,21 @@
+{
+  "country": "thailand",
+  "site_name": "Central Online",
+  "site_slug": "central_online",
+  "date": "2026-06-15",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=N5My6u_4CR_i7X4R85_JimZyhrblDOze0V2neJYW5wE&consent=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "country": "vietnam",
+  "site_name": "Shopee Vietnam",
+  "site_slug": "shopee_vietnam",
+  "date": "2026-06-15",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://www.facebook.com/tr?id=1457130904612161&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}
