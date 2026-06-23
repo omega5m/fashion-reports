@@ -1,0 +1,230 @@
+{
+  "country": "thailand",
+  "site_name": "Central Online",
+  "site_slug": "central_online",
+  "date": "2026-06-23",
+  "ok_count": 17,
+  "failed_count": 3,
+  "images": [
+    {
+      "url": "https://www.central.co.th/_next/image?url=%2Ficons%2Fen-flag.webp&w=64&q=75",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x32"
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=%2Ficons%2Fth-flag.webp&w=64&q=75",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x32"
+    },
+    {
+      "url": "https://www.central.co.th/logo.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260529_ggs_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_001.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 187119,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260622_poloralph_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_002.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 370261,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260623_SHISEIDO-FAIR_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_003.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 51536,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=%2Fimages%2Ffallback-image.webp&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_004.jpg",
+      "width": 440,
+      "height": 580,
+      "bytes": 4194,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://assets.central.co.th/file-assets/assets/CMS/campaign/2026/06jun/20260622_coty_heroweb_d.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_005.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 226242,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260619_muji_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_006.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 53937,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260619_jessicabedding_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_007.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 129221,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260622_ck_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_008.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 245066,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260618_Mido-New-Drops_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_009.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 183646,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260618_crocs_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_010.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 84737,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2026%2F06jun%2F20260505_EUCERIN_heroweb_d.jpg&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_011.jpg",
+      "width": 1450,
+      "height": 1080,
+      "bytes": 120948,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fevm%2Fcategory-navigation%2FCategory-carousel%2FBeauty%2FTH_beauty.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_012.jpg",
+      "width": 408,
+      "height": 484,
+      "bytes": 9217,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fevm%2Fcategory-navigation%2FCategory-carousel%2FWomen%2FTH_women.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_013.jpg",
+      "width": 408,
+      "height": 484,
+      "bytes": 12474,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fevm%2Fcategory-navigation%2FCategory-carousel%2FMen%2FTH_men.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_014.jpg",
+      "width": 408,
+      "height": 484,
+      "bytes": 7359,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fevm%2Fcategory-navigation%2FCategory-carousel%2FFashion-accessories%2FTH_fashion-accessories.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_015.jpg",
+      "width": 408,
+      "height": 484,
+      "bytes": 7000,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fcampaign%2F2025%2F09sep%2Fshoesth.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_016.jpg",
+      "width": 1348,
+      "height": 1600,
+      "bytes": 43366,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.central.co.th/_next/image?url=https%3A%2F%2Fassets.central.co.th%2Ffile-assets%2Fassets%2FCMS%2Fevm%2Fcategory-navigation%2FCategory-carousel%2FWatches-jewelry%2FTH_watches-jewelry.png&w=3840&q=75",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-06-23/thailand/central_online/product_017.jpg",
+      "width": 408,
+      "height": 484,
+      "bytes": 9415,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
