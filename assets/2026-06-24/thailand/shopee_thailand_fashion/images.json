@@ -1,0 +1,21 @@
+{
+  "country": "thailand",
+  "site_name": "Shopee Thailand Fashion",
+  "site_slug": "shopee_thailand_fashion",
+  "date": "2026-06-24",
+  "ok_count": 0,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://www.facebook.com/tr?id=905703166183408&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}
