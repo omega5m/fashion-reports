@@ -1,0 +1,230 @@
+{
+  "country": "thailand",
+  "site_name": "Lazada Thailand Fashion",
+  "site_slug": "lazada_thailand_fashion",
+  "date": "2026-07-07",
+  "ok_count": 5,
+  "failed_count": 15,
+  "images": [
+    {
+      "url": "https://img.lazcdn.com/us/domino/40845120240f19d13f738fa9a7978edd.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-07/thailand/lazada_thailand_fashion/product_001.jpg",
+      "width": 150,
+      "height": 150,
+      "bytes": 14599,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB1KB2laMFY.1VjSZFnXXcFHXXa.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-07/thailand/lazada_thailand_fashion/product_002.jpg",
+      "width": 344,
+      "height": 108,
+      "bytes": 4827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB18s7ESBr0gK0jSZFnXXbRRXXa.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:376x90"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/d33f1c45a4bd2fc773f8614625ed9cee-165-165.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-07/thailand/lazada_thailand_fashion/product_003.jpg",
+      "width": 165,
+      "height": 165,
+      "bytes": 5593,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/147d0dda-fdbf-4e0b-ab19-158c9594a3f6_TH-126-42.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:126x42"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/a5c03b37-144a-4c49-a023-f9a2cd5dd39d_TH-126-42.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:126x42"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/bf635f3d-2ffe-4ba2-98ef-089704e3254b_TH-126-42.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:126x42"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/82a44056-7cf5-4756-ad82-9db53b4111b7_TH-90-41.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:90x41"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/de3d2d41-51f2-4140-a482-531bc4639852_TH-53-39.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:53x39"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/16d87afd-8a3a-4351-9e8f-d254e321f2c8_TH-53-39.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:53x39"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/f8540ef9-ebf2-44ad-bb89-ac03d95d7d48_TH-53-39.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:53x39"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/media/4bee6c5bbaa934c4d331e500d804e432-89-59.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:89x59"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/f9c68cb6-7758-4794-8e10-e2d753584e1e_TH-96-70.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x70"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN013FblIV1u8qO5VGIBd_!!6000000005993-2-tps-96-70.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x70"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01flvhan1vsvxuKlRax_!!6000000006229-2-tps-96-70.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x70"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i1/O1CN01hdJpbW1OBzP399rh5_!!6000000001668-2-tps-96-70.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x70"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01vin7Ts1FJ0wFlnGyr_!!6000000000465-2-tps-96-70.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x70"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-07/thailand/lazada_thailand_fashion/product_004.jpg",
+      "width": 340,
+      "height": 200,
+      "bytes": 14323,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-07/thailand/lazada_thailand_fashion/product_005.jpg",
+      "width": 184,
+      "height": 120,
+      "bytes": 8209,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/a6731181-ab40-47ac-ac9e-4c3b249111a1_TH-32-32.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x32"
+    }
+  ]
+}
