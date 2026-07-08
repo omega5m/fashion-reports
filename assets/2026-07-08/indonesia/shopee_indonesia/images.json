@@ -1,0 +1,32 @@
+{
+  "country": "indonesia",
+  "site_name": "Shopee Indonesia",
+  "site_slug": "shopee_indonesia",
+  "date": "2026-07-08",
+  "ok_count": 1,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1c8bdaaf45e1fd48.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/indonesia/shopee_indonesia/product_001.jpg",
+      "width": 470,
+      "height": 240,
+      "bytes": 17069,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=466924370133774&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}

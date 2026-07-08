@@ -1,0 +1,230 @@
+{
+  "country": "taiwan",
+  "site_name": "momo",
+  "site_slug": "momo",
+  "date": "2026-07-08",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://img2.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_271_01/bt_0_271_01_e2.jpg?t=1783080735053",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_001.jpg",
+      "width": 1600,
+      "height": 128,
+      "bytes": 5744,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img4.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_243_01/bt_0_243_01_e2.png?t=1783080707912",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_245_01/bt_0_245_01_P1_1_e2.png?t=1783440011704",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_002.jpg",
+      "width": 240,
+      "height": 140,
+      "bytes": 10136,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_245_01/bt_0_245_01_P1_2_e2.png?t=1783440011704",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_003.jpg",
+      "width": 200,
+      "height": 140,
+      "bytes": 10767,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/10/998/00/000/bt_0_245_01/bt_0_245_01_P1_3_e2.png?t=1783440011704",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_004.jpg",
+      "width": 240,
+      "height": 140,
+      "bytes": 10218,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e141.jpg?t=1783416463210",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_005.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 90362,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e51.jpg?t=1783416463182",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_006.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 83781,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e91.jpg?t=1783416463193",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_007.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 65922,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e161.jpg?t=1783416517417",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_008.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 64513,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e151.jpg?t=1783416463213",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_009.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 58921,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e31.jpg?t=1783416463176",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_010.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 55320,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e61.jpg?t=1783416463185",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_011.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 86031,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e121.png?t=1783416463203",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_012.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 41583,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e111.jpg?t=1783416463200",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_013.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 51836,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e41.jpg?t=1783416463179",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_014.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 92054,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e131.jpg?t=1783416463206",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_015.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 42179,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e171.jpg?t=1783416463220",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_016.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 48745,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e71.jpg?t=1783416463188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_017.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 59841,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e21.jpg?t=1783416463173",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_018.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 51360,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img1.momoshop.com.tw/ecm/img/online/81/998/00/000/mobile/bt_7_701_01/bt_7_701_01_e81.jpg?t=1783416463191",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-08/taiwan/momo/product_019.jpg",
+      "width": 466,
+      "height": 634,
+      "bytes": 82310,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
