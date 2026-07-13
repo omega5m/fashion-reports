@@ -1,0 +1,21 @@
+{
+  "country": "thailand",
+  "site_name": "Zalora Thailand",
+  "site_slug": "zalora_thailand",
+  "date": "2026-07-13",
+  "ok_count": 1,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://www.zalora.co.th/images/landingpage/525x500.gif",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-13/thailand/zalora_thailand/product_001.jpg",
+      "width": 525,
+      "height": 500,
+      "bytes": 1868,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
