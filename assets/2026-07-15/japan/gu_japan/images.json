@@ -1,0 +1,230 @@
+{
+  "country": "japan",
+  "site_name": "GU Japan",
+  "site_slug": "gu_japan",
+  "date": "2026-07-15",
+  "ok_count": 5,
+  "failed_count": 15,
+  "images": [
+    {
+      "url": "https://asset.uniqlo.com/g/icons/facebook_v2.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://asset.uniqlo.com/g/icons/twitter_v2.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://asset.uniqlo.com/g/icons/line_v2.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://asset.uniqlo.com/g/icons/instagram_v2.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://asset.uniqlo.com/g/icons/youtube_v2.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://asset.uniqlo.com/g/icons/tiktok.svg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/jp/imagesother/Navigation/category-icon/Category_26SS_SUMMER_C.png",
+      "status": "ok",
+      "page_label": "new_arrivals",
+      "local_path": "reports/assets/2026-07-15/japan/gu_japan/product_001.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 6355,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/jp/imagesother/Navigation/Category-icon_V2/2026/260714_26FW-Collection.png",
+      "status": "ok",
+      "page_label": "new_arrivals",
+      "local_path": "reports/assets/2026-07-15/japan/gu_japan/product_002.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 4164,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/jp/imagesother/Navigation/Category-icon_V2/2026/260714_Pre-sale.png",
+      "status": "ok",
+      "page_label": "new_arrivals",
+      "local_path": "reports/assets/2026-07-15/japan/gu_japan/product_003.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 2801,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/jp/imagesother/Navigation/WOMEN_Category/2026/260703/Category_w_tops.png",
+      "status": "ok",
+      "page_label": "new_arrivals",
+      "local_path": "reports/assets/2026-07-15/japan/gu_japan/product_004.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 4781,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360571_246F007A_12_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360852_236F014A_63_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360816_256F031B_42_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360861_236F025A_30_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360575_246F015A_03_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360875_216F017A_57_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360907_216F037A_69_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/360647_226F061A_64_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesother/navi/image/361455_226F026A_32_I010_NAVI.jpg",
+      "status": "failed",
+      "page_label": "new_arrivals",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://image.uniqlo.com/GU/ST3/jp/imagesother/Navigation/WOMEN_Category/2026/260518/Category_w_Short-Pants.png",
+      "status": "ok",
+      "page_label": "new_arrivals",
+      "local_path": "reports/assets/2026-07-15/japan/gu_japan/product_005.jpg",
+      "width": 160,
+      "height": 160,
+      "bytes": 4873,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
