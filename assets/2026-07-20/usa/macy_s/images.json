@@ -1,0 +1,98 @@
+{
+  "country": "usa",
+  "site_name": "Macy's",
+  "site_slug": "macy_s",
+  "date": "2026-07-20",
+  "ok_count": 0,
+  "failed_count": 8,
+  "images": [
+    {
+      "url": "https://d.adroll.com/cm/bombora/out?af0=2e72820d&adroll_fpc=5e3ba367017a6d73369ff8cefad8c8b9-1784505631934&pv=36974246726.63478&arrfrr=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&advertisable=4ZLPZQACRNFOLJWBPC5HW4",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://d.adroll.com/cm/equativ/out?af0=2e72820d&adroll_fpc=5e3ba367017a6d73369ff8cefad8c8b9-1784505631934&pv=36974246726.63478&arrfrr=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&advertisable=4ZLPZQACRNFOLJWBPC5HW4",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://d.adroll.com/cm/experian/out?af0=2e72820d&adroll_fpc=5e3ba367017a6d73369ff8cefad8c8b9-1784505631934&pv=36974246726.63478&arrfrr=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&advertisable=4ZLPZQACRNFOLJWBPC5HW4",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://d.adroll.com/cm/eyeota/out?af0=2e72820d&adroll_fpc=5e3ba367017a6d73369ff8cefad8c8b9-1784505631934&pv=36974246726.63478&arrfrr=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&advertisable=4ZLPZQACRNFOLJWBPC5HW4",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://t.co/i/adsct?bci=3&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=9e297ded-9132-4958-b102-25c9a4be4d8e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a175bfc4-cf6c-405e-b1b2-b7c609c73c5e&pt=Access%20Denied%20-%20Macy's&tw_document_href=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784505631367.33862109790694995&txn_id=nvcbi&type=javascript&version=2.3.54",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=9e297ded-9132-4958-b102-25c9a4be4d8e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a175bfc4-cf6c-405e-b1b2-b7c609c73c5e&pt=Access%20Denied%20-%20Macy's&tw_document_href=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784505631367.33862109790694995&txn_id=nvcbi&type=javascript&version=2.3.54",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=5438349&Ver=2&mid=a03a15b6-97b7-419e-8b6d-1c9a0f39a880&bo=2&sid=063efd2083ce11f1bc3ac9603253bb3e&vid=063ee4d083ce11f1a40745d693ce69c5&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Access%20Denied%20-%20Macy's&kw=Access%20denied%20403&p=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&r=&lt=1166&evt=pageLoad&sv=2&asc=G&cdb=AQER&rn=481965",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://sp.analytics.yahoo.com/sp.pl?a=1000210819854&d=Mon%2C%2020%20Jul%202026%2000%3A00%3A32%20GMT&n=-9&b=Access%20Denied%20-%20Macy's&.yp=427149&f=https%3A%2F%2Fwww.macys.com%2Fshop%2Fwhats-new%3Fid%3D14834&enc=UTF-8&yv=1.16.6&et=custom&tagmgr=tealium%2Cgtm",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:application/x-javascript"
+    }
+  ]
+}
