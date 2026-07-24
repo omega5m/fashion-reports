@@ -1,0 +1,54 @@
+{
+  "country": "taiwan",
+  "site_name": "Pinkoi Taiwan",
+  "site_slug": "pinkoi_taiwan",
+  "date": "2026-07-24",
+  "ok_count": 1,
+  "failed_count": 3,
+  "images": [
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/logo/pinkoi-bimi2.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/footer-qrcode.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/general/logo/pinkoi_logo_2019.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/logo/og_image.png",
+      "status": "ok",
+      "page_label": "accessories",
+      "local_path": "reports/assets/2026-07-24/taiwan/pinkoi_taiwan/product_001.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 29428,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
