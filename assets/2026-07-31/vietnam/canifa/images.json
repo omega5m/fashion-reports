@@ -1,0 +1,54 @@
+{
+  "country": "vietnam",
+  "site_name": "Canifa",
+  "site_slug": "canifa",
+  "date": "2026-07-31",
+  "ok_count": 4,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/t/c/tce_topbanner_desktop-130526.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-31/vietnam/canifa/product_001.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 196236,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/a/c/active_topbanner_desktop-250626.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-31/vietnam/canifa/product_002.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 100915,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://canifa.com/_nuxt/img/chatbot-icon.c84d6ec.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-31/vietnam/canifa/product_003.jpg",
+      "width": 116,
+      "height": 140,
+      "bytes": 2895,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://canifa.com/_nuxt/img/chat-zalo.ab5351f.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-07-31/vietnam/canifa/product_004.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4319,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
