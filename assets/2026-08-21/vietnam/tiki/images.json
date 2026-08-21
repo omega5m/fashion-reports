@@ -1,0 +1,230 @@
+{
+  "country": "vietnam",
+  "site_name": "Tiki",
+  "site_slug": "tiki",
+  "date": "2026-08-21",
+  "ok_count": 5,
+  "failed_count": 15,
+  "images": [
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/a7/18/8c/910f3a83b017b7ced73e80c7ed4154b0.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:238x48"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/0e/07/78/ee828743c9afa9792cf20d75995e134e.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:141x61"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/33/d0/37/6fef2e788f00a16dc7d5a1dfc5d0e97a.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/32/56/db/d919a4fea46f498b5f4708986d82009d.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/07/d5/94/d7b6a3bd7d57d37ef6e437aa0de4821b.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:80x80"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/51/e2/92/8ca7e2cc5ede8c09e34d1beb50267f4f.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:96x96"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/88/5c/9d/f5ee506836792eb7775e527ef8350a44.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:80x80"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/96/76/a3/16324a16c76ee4f507d5777608dab831.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x61"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/11/09/ec/456a2a8c308c2de089a34bbfef1c757b.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:40x41"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/0b/f2/19/c03ae8f46956eca66845fb9aaadeca1e.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x61"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/3a/f4/7d/86ca29927e9b360dcec43dccb85d2061.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x61"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/87/98/77/fc33e3d472fc4ce4bae8c835784b707a.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:40x41"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/6a/81/06/0675ef5512c275a594d5ec1d58c37861.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:60x61"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/upload/25/7d/61/cd84451cd9df4a2dac1ece8b291b675f.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:32x33"
+    },
+    {
+      "url": "https://salt.tikicdn.com/ts/tikimsp/70/65/76/7be057a7292e071ae923741cc5f424ce.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-21/vietnam/tiki/product_001.jpg",
+      "width": 1074,
+      "height": 1422,
+      "bytes": 245057,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://salt.tikicdn.com/cache/80x80/ts/upload/20/b6/f6/34a3921533e0511dcb3c84ecedd95dc5.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:80x80"
+    },
+    {
+      "url": "https://salt.tikicdn.com/cache/100x100/ts/category/ed/20/60/afa9b3b474bf7ad70f10dd6443211d5f.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-21/vietnam/tiki/product_002.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 3366,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://salt.tikicdn.com/cache/100x100/ts/category/f6/22/46/7e2185d2cf1bca72d5aeac385a865b2b.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-21/vietnam/tiki/product_003.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 2022,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://salt.tikicdn.com/cache/100x100/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-21/vietnam/tiki/product_004.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 2418,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://salt.tikicdn.com/cache/100x100/ts/category/13/64/43/226301adcc7660ffcf44a61bb6df99b7.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-21/vietnam/tiki/product_005.jpg",
+      "width": 100,
+      "height": 100,
+      "bytes": 3495,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
