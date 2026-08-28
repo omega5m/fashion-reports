@@ -1,0 +1,109 @@
+{
+  "country": "vietnam",
+  "site_name": "Canifa",
+  "site_slug": "canifa",
+  "date": "2026-08-28",
+  "ok_count": 6,
+  "failed_count": 3,
+  "images": [
+    {
+      "url": "https://2885371169.e.cdneverest.net/popup/b/t/btsgiahan_fixtop_desktop-220826_1.webp",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:4681x97"
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/h/w/hw2_topbanner_desktop-110826.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_001.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 130885,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/b/t/btsgiahan_topbanner_desktop-220826.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_002.jpg",
+      "width": 1599,
+      "height": 533,
+      "bytes": 106231,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/y/e/yeu-doi_topbanner_desktop-140826.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_003.jpg",
+      "width": 1440,
+      "height": 480,
+      "bytes": 158662,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://2885371169.e.cdneverest.net/Simiconnector/BannerSlider/a/o/ao-gio_topbanner_desktop-180826.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_004.jpg",
+      "width": 1600,
+      "height": 533,
+      "bytes": 88689,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://canifa.com/_nuxt/img/chatbot-icon.c84d6ec.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_005.jpg",
+      "width": 116,
+      "height": 140,
+      "bytes": 2895,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://canifa.com/_nuxt/img/chat-zalo.ab5351f.webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-08-28/vietnam/canifa/product_006.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 4319,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=365489722640445&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=257854111516938&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    }
+  ]
+}
