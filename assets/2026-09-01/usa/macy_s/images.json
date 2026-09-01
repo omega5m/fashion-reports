@@ -1,0 +1,54 @@
+{
+  "country": "usa",
+  "site_name": "Macy's",
+  "site_slug": "macy_s",
+  "date": "2026-09-01",
+  "ok_count": 0,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://t.co/i/adsct?bci=3&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=e8e83dc5-b5a8-4472-b06b-2a012799023e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23fd6070-f2fe-489a-9fbf-b82d06016736&pt=Not%20Found%20-%20Macy's&tw_document_href=https%3A%2F%2Fwww.macys.com%2Fshop%2Fjewelry-watches%3Fid%3D21996&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1788220819883-704161417&tw_session_start=1&twpid=tw.1788220819883.694965454406511049&txn_id=nvcbi&type=javascript&version=2.4.3",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/i/adsct?bci=3&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na&eci=2&event_id=e8e83dc5-b5a8-4472-b06b-2a012799023e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=23fd6070-f2fe-489a-9fbf-b82d06016736&pt=Not%20Found%20-%20Macy's&tw_document_href=https%3A%2F%2Fwww.macys.com%2Fshop%2Fjewelry-watches%3Fid%3D21996&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1788220819883-704161417&tw_session_start=1&twpid=tw.1788220819883.694965454406511049&txn_id=nvcbi&type=javascript&version=2.4.3",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=5438349&Ver=2&mid=6ad765a1-531b-4c69-a33e-91b46add631c&bo=2&sid=1f163910a59811f1a54a7919a8f55870&vid=1f1666d0a59811f1aec9f5986a8bfbf5&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=en-US&sw=1440&sh=900&sc=24&nwd=1&tl=Not%20Found%20-%20Macy's&p=https%3A%2F%2Fwww.macys.com%2Fshop%2Fjewelry-watches%3Fid%3D21996&r=&lt=1896&evt=pageLoad&sv=2&asc=G&cdb=AQER&rn=235645",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://sp.analytics.yahoo.com/sp.pl?a=1000210819854&d=Tue%2C%2001%20Sep%202026%2000%3A00%3A20%20GMT&n=-9&b=Not%20Found%20-%20Macy's&.yp=427149&f=https%3A%2F%2Fwww.macys.com%2Fshop%2Fjewelry-watches%3Fid%3D21996&enc=UTF-8&yv=1.17.1&et=custom&tagmgr=tealium%2Cgtm",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:application/x-javascript"
+    }
+  ]
+}

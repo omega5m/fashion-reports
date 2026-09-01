@@ -1,0 +1,230 @@
+{
+  "country": "taiwan",
+  "site_name": "Yahoo Taiwan Shopping",
+  "site_slug": "yahoo_taiwan_shopping",
+  "date": "2026-09-01",
+  "ok_count": 3,
+  "failed_count": 17,
+  "images": [
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/C4C15C3A42-Gd-9340041.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-01/taiwan/yahoo_taiwan_shopping/product_001.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 46049,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/C0D4E84358-Gd-7746830.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-01/taiwan/yahoo_taiwan_shopping/product_002.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 25559,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/zp/MerchandiseImages/4E30AFA3CF-Gd-12063093.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-01/taiwan/yahoo_taiwan_shopping/product_003.jpg",
+      "width": 400,
+      "height": 400,
+      "bytes": 46312,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385943.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4387479.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385993.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385425.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385324.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/28491077.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385507.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385588.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4436714.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4419983.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/28491560.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4385885.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/29588048.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4387670.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4436854.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/4456828.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    },
+    {
+      "url": "https://img.yec.tw/up/uploadr/SHP/02_categories/28648498.svg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "decode_error:UnidentifiedImageError"
+    }
+  ]
+}
