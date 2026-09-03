@@ -1,0 +1,230 @@
+{
+  "country": "vietnam",
+  "site_name": "Shopee Vietnam",
+  "site_slug": "shopee_vietnam",
+  "date": "2026-09-03",
+  "ok_count": 20,
+  "failed_count": 0,
+  "images": [
+    {
+      "url": "https://down-vn.img.susercontent.com/file/vn-11134258-81ztc-msji6i881pmv51",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_001.jpg",
+      "width": 580,
+      "height": 720,
+      "bytes": 88445,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-825ae-msfdt92po4xx15",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_002.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 90923,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-825ae-msfdt92po4xx15@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_003.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 97346,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8261n-mmfw9oka07ig62",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_004.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 101255,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8261n-mmfw9oka07ig62@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_005.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 101255,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258y-msfdsgyotpu15c",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_006.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 102182,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258y-msfdsgyotpu15c@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_007.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 103382,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258s-msfdsio04wzs8c",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_008.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 111728,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258s-msfdsio04wzs8c@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_009.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 118391,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8259j-msghebmdltzcc0",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_010.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 102027,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8259j-msghebmdltzcc0@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_011.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 102027,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8257w-msgheds8ow0a95",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_012.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 74042,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8257w-msgheds8ow0a95@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_013.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 75337,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258o-msfdsk4807wla5",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_014.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 96938,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8258o-msfdsk4807wla5@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_015.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 104651,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-825a9-msfdsu4si8ll03",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_016.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 110586,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-825a9-msfdsu4si8ll03@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_017.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 117238,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-82594-msfdsvonbjt439",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_018.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 112129,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-82594-msfdsvonbjt439@resize_w1594_nl",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_019.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 114252,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://down-vn.img.susercontent.com/file/sg-11134258-8259x-msfdtau4k7ph32",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-03/vietnam/shopee_vietnam/product_020.jpg",
+      "width": 1200,
+      "height": 360,
+      "bytes": 96297,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
