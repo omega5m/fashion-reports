@@ -1,0 +1,230 @@
+{
+  "country": "indonesia",
+  "site_name": "Berrybenka",
+  "site_slug": "berrybenka",
+  "date": "2026-09-15",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/berrybenka_logo.png?height=96&v=1788942734",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:93x96"
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/berrybenka_logo.png?height=288&v=1788942734",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_001.jpg",
+      "width": 237,
+      "height": 245,
+      "bytes": 6291,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81zto-mr01nsim06pz1d.jpg?v=1788923925&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_002.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 61166,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztm-mr01nsai9iis83.jpg?v=1788923925&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_003.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 53782,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81zti-mr01ns6xfbb69c.jpg?v=1788923925&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_004.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 83666,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztl-mr01ns6yd0y418.jpg?v=1788923925&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_005.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 63913,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztl-mr01mnofturra9.jpg?v=1788923924&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_006.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 75632,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztq-mr01mno9uxvp15.jpg?v=1788923924&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_007.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 100394,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztq-mr01mnoar8xw27.jpg?v=1788923924&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_008.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 80173,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81zto-mr01mnofsg7b62.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_009.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 116840,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81zti-msvb3gvta1oo58.jpg?v=1788923922&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_010.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 118953,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztp-mr01qtd745j641.jpg?v=1788923922&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_011.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 83845,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81zti-mr01qtd6evbb7f.jpg?v=1788923922&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_012.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 56266,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztl-mr01qz2tf5s510.jpg?v=1788923922&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_013.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 76412,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztl-msvb35ff8a2t0a.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_014.jpg",
+      "width": 809,
+      "height": 809,
+      "bytes": 91680,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134201-81ztg-mrqs8dp8xwqudf.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_015.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 81291,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztc-mr01plx5mqdodf.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_016.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 38908,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztp-mr01q60upou882.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_017.jpg",
+      "width": 635,
+      "height": 635,
+      "bytes": 51467,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134207-81ztn-mr01q03aliq452.jpg?v=1788923923&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_018.jpg",
+      "width": 635,
+      "height": 635,
+      "bytes": 53212,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/th-11134201-81ztc-msun6lyi756q3b.jpg?v=1788923926&width=3840",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-15/indonesia/berrybenka/product_019.jpg",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 94506,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
