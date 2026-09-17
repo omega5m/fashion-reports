@@ -1,0 +1,32 @@
+{
+  "country": "thailand",
+  "site_name": "Central Online",
+  "site_slug": "central_online",
+  "date": "2026-09-17",
+  "ok_count": 0,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=JQ9Xq7xfX0yn5qbk35QdXXe-QJK5LXwfJWUwjzXJJlU&consent=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://sin46.creativecdn.com/info?tk=G4xwAim_BFwM-3cmiioOwnREdiN8HCM2fIYLplXEtXJmWFeWq2Jrpgf4lvH9EU-X1yb6CtQAkCFQXhIkNH9SCAA",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}
