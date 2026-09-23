@@ -1,0 +1,230 @@
+{
+  "country": "korea",
+  "site_name": "29CM",
+  "site_slug": "29cm",
+  "date": "2026-09-23",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://asset.29cm.co.kr/next-contents/2023/06/08/3f8131682d124d16b336774ba51c4a3e_20230608162823.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:240x64"
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b57600c980daa9b86330b6a257a4.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_001.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 485571,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575f97c4cce94a33145ff1dbb92.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_002.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 173508,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575eeca4394a9b8355392a177e6.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_003.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 160505,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575e42bc1d294a3cf156f9a0337.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_004.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 144733,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b624f4c9ce9aa9b8f94c24edb117.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_005.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 249261,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575cee410d6a9b81f64e8a98136.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_006.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 490101,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575c2c1fc88a9b8213325dc73a7.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_007.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 413087,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b575b6bbfc2c94a3fd62ada1f063.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_008.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 176832,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b332756250a4a9b8a1d1c8509cc0.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_009.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 157760,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b255282f03cca9b8152ecb4e327b.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_010.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 71032,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b19939b80614912703a337aaf19d.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_011.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 140891,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b1993095761c9127c7070860f986.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_012.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 319149,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b199267e73fb9446db048a245f45.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_013.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 146559,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b1991a4555489127f90eeee6d8f6.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_014.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 173120,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b0c69290c4119446e1a69ab44f67.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_015.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 277050,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b0c689169e499446eb42f3d88309.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_016.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 371471,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1b0c67fc276f69127ef9e74fbd50d.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_017.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 166538,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1afff13b9a1d79446478b07749f50.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_018.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 375795,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.29cm.co.kr/cms/202609/11f1afff0c14641a912757f3fc8b2f55.png?width=3840&format=webp",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-09-23/korea/29cm/product_019.jpg",
+      "width": 1200,
+      "height": 1440,
+      "bytes": 213911,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
