@@ -1,0 +1,230 @@
+{
+  "country": "indonesia",
+  "site_name": "Zalora Indonesia",
+  "site_slug": "zalora_indonesia",
+  "date": "2026-09-24",
+  "ok_count": 0,
+  "failed_count": 20,
+  "images": [
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/61wDFPFGwVtZ0zNkd0btaR/2aeaf4badcae4602bcf859d377326154/free-return.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/7aTmIKsCDIwTTLiUoIihth/a779b89d73d07085859f980ceed8b214/vip.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.ctfassets.net/9q8du028z7sn/6nsu3JfVdrQEZxDpTBoPF6/aebc35f4e53ee291310fddbd920c6a28/mobile.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_gfg.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_sg_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_my_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_hk_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_mo_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_ph_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_id_flag.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_mastercard.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_visa.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_cena.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_brin.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_bni.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_bank_bmri.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_jcb.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_cod.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_ovo.png",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://static-id.zacdn.com/next-assets/static-assets/images/logo/icon_american_express.svg",
+      "status": "failed",
+      "page_label": "new_women",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}

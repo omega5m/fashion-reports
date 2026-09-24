@@ -1,0 +1,230 @@
+{
+  "country": "japan",
+  "site_name": "WEAR",
+  "site_slug": "wear",
+  "date": "2026-09-24",
+  "ok_count": 0,
+  "failed_count": 20,
+  "images": [
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_bg.1ywd-k_shp-hy.png",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_4.1ho27atf54bbv.png",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/notfound_0.438l9b9xjj6tm.png",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/ywimOMnJ/E8z0jEj1/1790164109_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/QWi0q82/NhoEwZdv/1789560937_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/oJiZ7MgL/WUIrJ76c/1790167683_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/Grin7q0y/U32fqCG8/1790121595_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/QWiop6rm/rgzaUuDO/1790085525_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/coordinate/Ldi8R6jy/UShh7541/1790169099_276.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/6gio2xl5/hpSX0raH/1715229637_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/3oi3qdWO/31V6384c/1702453056_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/WjiQYG0b/Dce5mJGk/1748795368_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/JLiBxm4g/Nh0pikxs/1788415140_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/abiz0VBD/N8lXpKge/1720501981_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://cdn.wimg.jp/profile/wts8ls/20200929101620932_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/ROizw2x0/Wgc4aXFj/1765789441_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/qriJYVLw/JtFGheOW/1751610061_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://images.wear2.jp/profile/JLi0Bk6k/Sb4B5P50/1770773108_120.jpg",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/mock.1rl8d86z-j78c.webp",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://wear.jp/public/_next/static/media/business_exposition_2028_sp.0447xu75vsqwi.webp",
+      "status": "failed",
+      "page_label": "ranking",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}

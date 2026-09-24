@@ -1,0 +1,32 @@
+{
+  "country": "indonesia",
+  "site_name": "Shopee Indonesia",
+  "site_slug": "shopee_indonesia",
+  "date": "2026-09-24",
+  "ok_count": 0,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1c8bdaaf45e1fd48.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://www.facebook.com/tr?id=466924370133774&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}

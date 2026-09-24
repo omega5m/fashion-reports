@@ -1,0 +1,54 @@
+{
+  "country": "taiwan",
+  "site_name": "Pinkoi Taiwan",
+  "site_slug": "pinkoi_taiwan",
+  "date": "2026-09-24",
+  "ok_count": 0,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/logo/pinkoi-bimi2.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/footer-qrcode.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/general/logo/pinkoi_logo_2019.svg",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://cdn04.pinkoi.com/pinkoi.site/logo/og_image.png",
+      "status": "failed",
+      "page_label": "accessories",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}
