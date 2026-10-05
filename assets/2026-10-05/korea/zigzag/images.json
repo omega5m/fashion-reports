@@ -1,0 +1,230 @@
+{
+  "country": "korea",
+  "site_name": "Zigzag",
+  "site_slug": "zigzag",
+  "date": "2026-10-05",
+  "ok_count": 18,
+  "failed_count": 2,
+  "images": [
+    {
+      "url": "https://www.facebook.com/tr?id=1905064643463637&ev=PageView&noscript=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/plain"
+    },
+    {
+      "url": "https://cf.fe.s.zigzag.kr/common/logo/zigzag_text_logo.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:273x66"
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/30/202609300826586852_092535.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_001.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 130361,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/01/202610010216312373_076216.jpg?format=webp&quality=80&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_002.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 183069,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/01/202610010218102519_016145.jpg?format=webp&quality=80&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_003.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 75334,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/04/202610040550590257_096199.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_004.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 50667,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/04/202610041245274849_058636.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_005.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 112016,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/27/202609271521096096_010916.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_006.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 112190,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/01/202610010340560624_051289.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_007.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 94899,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/04/202610041406055788_083196.jpg?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_008.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 103814,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/02/202610020120391991_034989.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_009.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 182420,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/02/202610020258350726_019779.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_010.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 73245,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/30/202609302250395297_065958.jpg?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_011.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 56061,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/30/202609302345440073_095389.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_012.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 120211,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/01/202610010341458837_084634.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_013.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 148197,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/02/202610020952362731_080072.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_014.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 85165,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/21/202609210550574432_057674.png?width=1029&height=1188&quality=80&format=webp&transparent=true",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_015.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 65128,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/02/202610020258355344_050400.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_016.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 68072,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/09/24/202609241046003531_073999.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_017.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 131440,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://cf.image-farm.s.zigzag.kr/original/cms/2026/10/01/202610010546551339_050601.png?quality=80&format=webp&transparent=true&width=1029&height=1188",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-05/korea/zigzag/product_018.jpg",
+      "width": 1029,
+      "height": 1188,
+      "bytes": 82149,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
