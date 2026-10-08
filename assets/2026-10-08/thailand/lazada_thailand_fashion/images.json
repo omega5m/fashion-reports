@@ -1,0 +1,230 @@
+{
+  "country": "thailand",
+  "site_name": "Lazada Thailand Fashion",
+  "site_slug": "lazada_thailand_fashion",
+  "date": "2026-10-08",
+  "ok_count": 12,
+  "failed_count": 8,
+  "images": [
+    {
+      "url": "https://img.lazcdn.com/us/domino/762b89c9-c8b4-4413-a252-31b82477d744_TH-1188-80.png_1200x1200q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1188x80"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/40845120240f19d13f738fa9a7978edd.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_001.jpg",
+      "width": 150,
+      "height": 150,
+      "bytes": 14599,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB1KB2laMFY.1VjSZFnXXcFHXXa.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_002.jpg",
+      "width": 344,
+      "height": 108,
+      "bytes": 4827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB18s7ESBr0gK0jSZFnXXbRRXXa.jpg",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:376x90"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/0bc7de7d-6f99-472c-a1b6-3a26a64c0b61_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_003.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 118096,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2cfe9b85-842e-48e9-9b1e-f6d596526cb6_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_004.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 109598,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2f75c59c-a5a9-4877-8f57-35bc4c05b687_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_005.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 116612,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/66147ee2-ea82-415a-be9a-1280a5990328_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_006.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 151316,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/bd8628d6-0a94-45ec-85c9-f9fc91463b3a_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_007.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 112415,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/d882fda3-bff0-40f8-b8eb-3e9fb1886008_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_008.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 111383,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/6a6f91dd-2a7b-4645-b707-4d6cc3af5fc8_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_009.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 174968,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2da13e12-361b-42b1-bbc9-a99f760fc58c_TH-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_010.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 116397,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/47866b83cc0d0a3c74d429f89ff42423.png_120x120q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:63x63"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01cAMOjU1zqQJZU8EbT_!!6000000006765-2-tps-19-18.png_80x80q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:19x18"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01n3PMa828kJZVuCbPp_!!6000000007970-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01J03SMW1lebTE7xkaN_!!6000000004844-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/ae0097cdb1eceff6a1c6c8e67b5c09f7.png_360x360q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_011.jpg",
+      "width": 360,
+      "height": 360,
+      "bytes": 51094,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/c661ad99-a318-4d80-92f9-bed460e8f582_TH-276-48.png_300x300q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:276x48"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2982506b-639f-44f6-8482-d49a42106fe6_TH-276-260.png_300x300q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-08/thailand/lazada_thailand_fashion/product_012.jpg",
+      "width": 276,
+      "height": 260,
+      "bytes": 8225,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/5b9c758a-dd1e-40c4-a65d-8fe93cbd7bc0_TH-276-48.png_300x300q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:276x48"
+    }
+  ]
+}
