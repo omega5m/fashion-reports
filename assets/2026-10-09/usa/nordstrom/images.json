@@ -1,0 +1,241 @@
+{
+  "country": "usa",
+  "site_name": "Nordstrom",
+  "site_slug": "nordstrom",
+  "date": "2026-10-09",
+  "ok_count": 20,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://n.nordstrommedia.com/alias/KR.gif",
+      "status": "failed",
+      "page_label": "new",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:16x11"
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/7f51c20a-b069-4154-9cfb-1e6d13a7c608.gif",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_001.jpg",
+      "width": 240,
+      "height": 240,
+      "bytes": 4940,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WMNS_ADC03F_0826_0089.jpeg?width=240&dpr=2&crop=4388%3A5485%2Coffset-x50%2Coffset-y71.956",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_002.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 66322,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/MENS_DRES02F_0826_0082.jpeg?width=240&dpr=2&crop=3600%3A4500%2Coffset-x50%2Coffset-y29.508",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_003.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 29934,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/DESW_APP01F_0826_0046.jpeg?width=240&dpr=2&crop=4480%3A5600%2Coffset-x50%2Coffset-y0&trim=0%2C0%2C0.001%2C0",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_004.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 72661,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/KIDS_BG02F_0726_01586.jpeg?width=240&dpr=2&crop=5334%3A6667.5%2Coffset-x50%2Coffset-y0",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_005.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 51726,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/BEA_MKUP06P_0626.jpeg?width=240&dpr=2&crop=5370%3A6712.5%2Coffset-x50%2Coffset-y50",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_006.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 21574,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WF13033955_P8418921-Lifestyle.jpeg?width=240&dpr=2&crop=2640%3A3300%2Coffset-x50%2Coffset-y100",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_007.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 63921,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/6ef57583-06de-49c7-9e03-a42d99ff8004.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_008.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 31109,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/5698182b-4100-4178-817c-664ddb855025.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_009.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 24707,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/9cc25fd9-cf08-42ca-aa50-757e31399899.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_010.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 22397,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/8a814abc-726b-4cdd-8f7d-283d74aa5373.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_011.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 19865,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/8893beec-098e-4371-a5a5-a5a7a48da8fd.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_012.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 19410,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/5fe04d6e-26e6-4dc4-9eb7-86d498771957.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_013.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 15974,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/e40a1c19-9a2c-4e96-8e0c-2a711fe901e5.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_014.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 23477,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/46d504ce-85de-4757-9ee4-0f78e48e0e52.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_015.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 42665,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/4bf3286c-910c-4df7-b6c9-846b07e90186.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_016.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 29931,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/c74acdcd-0306-4f4c-bc84-1d3f80db96eb.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_017.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 30538,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/e64f5a62-f6df-43cd-b48e-912a3273119b.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_018.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 12648,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/it/892c7e96-42bf-48dc-acb6-0c3db144e27e.jpeg?q=45&dpr=2&h=353&w=230",
+      "status": "ok",
+      "page_label": "new",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_019.jpg",
+      "width": 460,
+      "height": 706,
+      "bytes": 27193,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://n.nordstrommedia.com/is/image/nordstrom/WMNS_OPC01F_0926_062_altBgd_ext_1-1.jpeg?width=240&dpr=2&crop=2312.576%3A2890.72%2Coffset-x59.295%2Coffset-y50&trim=0.047%2C0.071%2C0.36%2C0",
+      "status": "ok",
+      "page_label": "women",
+      "local_path": "reports/assets/2026-10-09/usa/nordstrom/product_020.jpg",
+      "width": 480,
+      "height": 600,
+      "bytes": 34614,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
