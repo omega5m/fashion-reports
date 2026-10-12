@@ -1,0 +1,230 @@
+{
+  "country": "japan",
+  "site_name": "Rakuten Fashion",
+  "site_slug": "rakuten_fashion",
+  "date": "2026-10-12",
+  "ok_count": 19,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://brandavenue.r10s.jp/img/library/index/sbn_flagshipstore_20231003.png",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_001.jpg",
+      "width": 200,
+      "height": 100,
+      "bytes": 5189,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.rakuten.co.jp/men/${imageSrc}",
+      "status": "failed",
+      "page_label": "men",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ReadTimeout"
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/401498/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_002.jpg",
+      "width": 750,
+      "height": 750,
+      "bytes": 60420,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402588/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_003.jpg",
+      "width": 750,
+      "height": 750,
+      "bytes": 116776,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/401722/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_004.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 11753,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402629/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_005.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 20453,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402440/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_006.jpg",
+      "width": 1040,
+      "height": 1040,
+      "bytes": 126430,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/395215/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_007.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 230839,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402561/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_008.jpg",
+      "width": 932,
+      "height": 932,
+      "bytes": 264631,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402560/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_009.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 216423,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/401841/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_010.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 16744,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/400271/pc_n.png",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_011.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 22681,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402446/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_012.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 32102,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402526/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_013.jpg",
+      "width": 1040,
+      "height": 1040,
+      "bytes": 110344,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402498/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_014.jpg",
+      "width": 1040,
+      "height": 1040,
+      "bytes": 154101,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402462/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_015.jpg",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 76765,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402558/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_016.jpg",
+      "width": 1600,
+      "height": 1600,
+      "bytes": 508030,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402557/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_017.jpg",
+      "width": 1428,
+      "height": 1428,
+      "bytes": 374226,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402459/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_018.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 42438,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://brandavenue.r10s.jp/img/news/01/402305/pc_n.jpg",
+      "status": "ok",
+      "page_label": "men",
+      "local_path": "reports/assets/2026-10-12/japan/rakuten_fashion/product_019.jpg",
+      "width": 300,
+      "height": 300,
+      "bytes": 24440,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}

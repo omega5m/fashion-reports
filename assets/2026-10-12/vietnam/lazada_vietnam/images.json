@@ -1,0 +1,230 @@
+{
+  "country": "vietnam",
+  "site_name": "Lazada Vietnam",
+  "site_slug": "lazada_vietnam",
+  "date": "2026-10-12",
+  "ok_count": 16,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://img.lazcdn.com/us/domino/3aed8f5a-0773-4726-a323-e83e874ecae7_VN-1188-80.gif_1200x1200q80.gif",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1188x80"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2ad4f22ce5a43dc145f221d13feed352.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_001.jpg",
+      "width": 150,
+      "height": 150,
+      "bytes": 14479,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/images/ims-web/TB1T7K2d8Cw3KVjSZFuXXcAOpXa.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_002.jpg",
+      "width": 344,
+      "height": 108,
+      "bytes": 4827,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/85a3e894-a78c-4212-9b26-c300d97b2db0_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_003.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 130708,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/a4856d17-7803-4b11-be38-6477cf279b91_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_004.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 133922,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/fa5d4ed9-58cc-4b3c-b3b3-fd2773ee4167_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_005.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 178042,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/9b2c25d2-686f-491c-b84f-f6b5e6ed35bf_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_006.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 166249,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/774bbcbd-c4e4-432a-bfca-a27f90f8d520_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_007.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 130419,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/babf4a68-0a8b-4270-8cf5-951331c7a770_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_008.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 185374,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/cdaf7334-0b49-4fbc-bf08-e55fbe0a0e89_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_009.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 126774,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/43adc415-7be1-44df-ac8a-d19cc2d8cf01_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_010.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 153711,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/bd48bf02-ef00-402c-b982-c2ea7140a5ce_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_011.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 150348,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/d4874f38-e0d9-4d75-8cc4-8092e37e2b9e_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_012.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 116607,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/2b4b9258-8dcb-4944-8e1d-f9ea7602360b_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_013.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 128761,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/76de843e-df07-4bcf-ab31-49600f4c2f42_VN-1976-688.jpg_2200x2200q80.jpg",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_014.jpg",
+      "width": 1600,
+      "height": 557,
+      "bytes": 122096,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/a96c58a6a88070c43bc63444f6774f51.png_120x120q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_015.jpg",
+      "width": 120,
+      "height": 120,
+      "bytes": 3591,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i4/O1CN01cAMOjU1zqQJZU8EbT_!!6000000006765-2-tps-19-18.png_80x80q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:19x18"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i2/O1CN01n3PMa828kJZVuCbPp_!!6000000007970-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/g/tps/imgextra/i3/O1CN01J03SMW1lebTE7xkaN_!!6000000004844-2-tps-72-72.png_150x150q80.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:72x72"
+    },
+    {
+      "url": "https://img.lazcdn.com/us/domino/c7412e89f2d826219b7a37ed5f7d6d50.png_360x360q80.png",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-12/vietnam/lazada_vietnam/product_016.jpg",
+      "width": 360,
+      "height": 360,
+      "bytes": 48266,
+      "format": "JPEG",
+      "reason": null
+    }
+  ]
+}
