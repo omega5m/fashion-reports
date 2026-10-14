@@ -1,0 +1,54 @@
+{
+  "country": "thailand",
+  "site_name": "Central Online",
+  "site_slug": "central_online",
+  "date": "2026-10-14",
+  "ok_count": 0,
+  "failed_count": 4,
+  "images": [
+    {
+      "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na%261&eci=3&event=%7B%7D&event_id=df6dedf0-2ff0-4332-8498-de1e5398ad7b&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=a62f36fa-468f-45f2-ac5b-d5f3069933d8&tw_ch_fvl=Chromium%2F148.0.7778.96%2CHeadlessChrome%2F148.0.7778.96%2CNot%2FA)Brand%2F99.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.central.co.th%2Fth&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791936243321-885493863&tw_session_start=1&twpid=tw.1791936243321.318050612807973750&txn_id=rf9co&type=javascript&version=2.4.12",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FSeoul%26en-US%26Google%20Inc.%26MacIntel%26127%261440%26900%2614%2624%261440%26900%260%26na%261&eci=3&event=%7B%7D&event_id=df6dedf0-2ff0-4332-8498-de1e5398ad7b&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=a62f36fa-468f-45f2-ac5b-d5f3069933d8&tw_ch_fvl=Chromium%2F148.0.7778.96%2CHeadlessChrome%2F148.0.7778.96%2CNot%2FA)Brand%2F99.0.0.0&tw_ch_pv=10.0&tw_document_href=https%3A%2F%2Fwww.central.co.th%2Fth&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1791936243321-885493863&tw_session_start=1&twpid=tw.1791936243321.318050612807973750&txn_id=rf9co&type=javascript&version=2.4.12",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid?entity=315&code=10zqgYSPUVCDA4PRZbx5qIsDXhWX5mVCXYp7s8NiR6k&consent=1",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    },
+    {
+      "url": "https://sin46.creativecdn.com/info?tk=KmQ5g874VBNUEu8LwF8X0XQLM1DiJim1u15-i9XOHc1P5KGRRyltUMfuCW29y55m3gJ5JiSP-2eWTJqxHOjgEQA",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "too_small:1x1"
+    }
+  ]
+}
