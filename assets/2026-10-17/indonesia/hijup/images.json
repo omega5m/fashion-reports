@@ -1,0 +1,32 @@
+{
+  "country": "indonesia",
+  "site_name": "Hijup",
+  "site_slug": "hijup",
+  "date": "2026-10-17",
+  "ok_count": 1,
+  "failed_count": 1,
+  "images": [
+    {
+      "url": "https://www.hijup.com/_next/image?url=%2Fimages%2Fwa.icon.png&w=128&q=100",
+      "status": "ok",
+      "page_label": "home",
+      "local_path": "reports/assets/2026-10-17/indonesia/hijup/product_001.jpg",
+      "width": 128,
+      "height": 128,
+      "bytes": 4412,
+      "format": "JPEG",
+      "reason": null
+    },
+    {
+      "url": "https://www.hijup.com/assets/9732cebf98100019c95db8eb483c528e.png",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "not_image:text/html"
+    }
+  ]
+}
