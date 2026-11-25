@@ -1,0 +1,43 @@
+{
+  "country": "indonesia",
+  "site_name": "Berrybenka",
+  "site_slug": "berrybenka",
+  "date": "2026-11-25",
+  "ok_count": 0,
+  "failed_count": 3,
+  "images": [
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/logo.jpg?v=1791288203&width=3840",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "http://berrybenka.com/cdn/shop/files/berrybenka_logo.png?v=1788942734",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    },
+    {
+      "url": "https://berrybenka.com/cdn/shop/files/berrybenka_logo.png?v=1788942734",
+      "status": "failed",
+      "page_label": "home",
+      "local_path": null,
+      "width": null,
+      "height": null,
+      "bytes": null,
+      "format": null,
+      "reason": "http_error:ConnectError"
+    }
+  ]
+}
